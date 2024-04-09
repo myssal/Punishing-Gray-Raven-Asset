@@ -1,0 +1,41 @@
+
+BulijiteTutorialBg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 3, 0
+  size: 1921, 1081
+  orig: 1921, 1081
+  offset: 0, 0
+  index: -1
+dengguang
+  rotate: false
+  xy: 3, 1159
+  size: 178, 62
+  orig: 178, 62
+  offset: 0, 0
+  index: -1
+dengguang1
+  rotate: true
+  xy: 508, 1117
+  size: 104, 362
+  orig: 104, 362
+  offset: 0, 0
+  index: -1
+dengguang2
+  rotate: false
+  xy: 184, 1154
+  size: 321, 67
+  orig: 321, 67
+  offset: 0, 0
+  index: -1
+qj
+  rotate: true
+  xy: 873, 1081
+  size: 140, 438
+  orig: 140, 438
+  offset: 0, 0
+  index: -1

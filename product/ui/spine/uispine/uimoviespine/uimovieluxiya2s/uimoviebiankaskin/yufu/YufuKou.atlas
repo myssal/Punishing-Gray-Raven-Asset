@@ -1,0 +1,41 @@
+
+YufuKou.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangzui
+  rotate: false
+  xy: 2, 54
+  size: 86, 18
+  orig: 86, 18
+  offset: 0, 0
+  index: -1
+yachi
+  rotate: false
+  xy: 2, 2
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 2, 74
+  size: 87, 19
+  orig: 87, 19
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 2, 18
+  size: 73, 16
+  orig: 73, 16
+  offset: 0, 0
+  index: -1
+zui3
+  rotate: false
+  xy: 2, 36
+  size: 76, 16
+  orig: 76, 16
+  offset: 0, 0
+  index: -1

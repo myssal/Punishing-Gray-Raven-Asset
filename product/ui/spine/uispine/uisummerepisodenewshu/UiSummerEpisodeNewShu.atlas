@@ -1,0 +1,13 @@
+
+UiSummerEpisodeNewShu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu
+  rotate: false
+  xy: 2, 2
+  size: 834, 555
+  orig: 834, 555
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ActivityLiBg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 2027, 1141
+  orig: 2027, 1141
+  offset: 0, 0
+  index: -1
+you3
+  rotate: true
+  xy: 1183, 1145
+  size: 316, 323
+  orig: 316, 323
+  offset: 0, 0
+  index: -1
+you3yy
+  rotate: true
+  xy: 2, 1252
+  size: 209, 220
+  orig: 209, 220
+  offset: 0, 0
+  index: -1
+you4
+  rotate: false
+  xy: 224, 1246
+  size: 436, 215
+  orig: 436, 215
+  offset: 0, 0
+  index: -1
+you4yy
+  rotate: false
+  xy: 662, 1165
+  size: 519, 296
+  orig: 519, 408
+  offset: 0, 32
+  index: -1

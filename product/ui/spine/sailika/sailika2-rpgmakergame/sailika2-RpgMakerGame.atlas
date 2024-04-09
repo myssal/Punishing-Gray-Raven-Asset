@@ -1,0 +1,97 @@
+
+sailika2-RpgMakerGame.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maozi
+  rotate: false
+  xy: 606, 637
+  size: 706, 383
+  orig: 708, 385
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 330
+  size: 602, 690
+  orig: 604, 692
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 1314, 534
+  size: 486, 441
+  orig: 488, 443
+  offset: 1, 1
+  index: -1
+toufa1
+  rotate: true
+  xy: 1035, 2
+  size: 346, 437
+  orig: 346, 437
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 2, 27
+  size: 301, 570
+  orig: 301, 570
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 574, 45
+  size: 283, 459
+  orig: 283, 459
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 606, 448
+  size: 187, 501
+  orig: 187, 501
+  offset: 0, 0
+  index: -1
+youmeimao
+  rotate: false
+  xy: 2, 9
+  size: 105, 16
+  orig: 107, 18
+  offset: 1, 1
+  index: -1
+youyan
+  rotate: false
+  xy: 606, 338
+  size: 144, 108
+  orig: 146, 110
+  offset: 1, 1
+  index: -1
+youyanpi
+  rotate: false
+  xy: 1054, 355
+  size: 152, 91
+  orig: 152, 91
+  offset: 0, 0
+  index: -1
+zuomeimao
+  rotate: false
+  xy: 109, 9
+  size: 105, 16
+  orig: 107, 18
+  offset: 1, 1
+  index: -1
+zuoyan
+  rotate: false
+  xy: 752, 342
+  size: 147, 104
+  orig: 149, 106
+  offset: 1, 1
+  index: -1
+zuoyanpi
+  rotate: false
+  xy: 901, 350
+  size: 151, 96
+  orig: 151, 96
+  offset: 0, 0
+  index: -1

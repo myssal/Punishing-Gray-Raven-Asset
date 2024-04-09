@@ -1,0 +1,25 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3473363715270347125
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6100580153352042496
+  },
+  "m_Name": "",
+  "IsFightSceneEffect": 0,
+  "MatchType": 1,
+  "Type": 0,
+  "Operation": 1,
+  "UseCinemachineEvent": 0,
+  "DesignWidth": 1920.0001,
+  "DesignHeight": 1080.0,
+  "DesignFov": 50.0,
+  "CameraSearchRule": 1,
+  "CustomCamera": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

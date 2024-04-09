@@ -1,0 +1,27 @@
+
+UiTempleMainBg2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj2
+  rotate: false
+  xy: 2, 2
+  size: 666, 614
+  orig: 718, 614
+  offset: 34, 0
+  index: -1
+yun1
+  rotate: true
+  xy: 670, 195
+  size: 173, 88
+  orig: 173, 88
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: true
+  xy: 670, 370
+  size: 246, 120
+  orig: 246, 122
+  offset: 0, 1
+  index: -1

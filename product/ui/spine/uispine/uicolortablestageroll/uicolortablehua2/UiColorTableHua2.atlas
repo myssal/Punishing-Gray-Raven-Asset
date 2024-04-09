@@ -1,0 +1,13 @@
+
+UiColorTableHua2.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua4
+  rotate: false
+  xy: 2, 2
+  size: 247, 272
+  orig: 247, 272
+  offset: 0, 0
+  index: -1

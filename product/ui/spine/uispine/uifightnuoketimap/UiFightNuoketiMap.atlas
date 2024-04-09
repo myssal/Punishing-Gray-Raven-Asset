@@ -1,0 +1,62 @@
+
+UiFightNuoketiMap.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 2
+  size: 1328, 805
+  orig: 1330, 807
+  offset: 1, 1
+  index: -1
+zhi1
+  rotate: true
+  xy: 1332, 47
+  size: 210, 214
+  orig: 210, 214
+  offset: 0, 0
+  index: -1
+zhi2
+  rotate: false
+  xy: 1332, 487
+  size: 271, 320
+  orig: 271, 320
+  offset: 0, 0
+  index: -1
+zhi3
+  rotate: true
+  xy: 1332, 259
+  size: 226, 323
+  orig: 226, 323
+  offset: 0, 0
+  index: -1
+zhi4
+  rotate: true
+  xy: 1605, 561
+  size: 246, 287
+  orig: 246, 287
+  offset: 0, 0
+  index: -1
+zhi5
+  rotate: false
+  xy: 1657, 427
+  size: 178, 132
+  orig: 178, 132
+  offset: 0, 0
+  index: -1
+zhi6
+  rotate: false
+  xy: 1548, 102
+  size: 207, 155
+  orig: 207, 155
+  offset: 0, 0
+  index: -1
+zhi7
+  rotate: false
+  xy: 1657, 310
+  size: 152, 115
+  orig: 152, 115
+  offset: 0, 0
+  index: -1

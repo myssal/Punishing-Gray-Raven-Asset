@@ -1,0 +1,41 @@
+
+UiRogueSimMainShan.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shan1
+  rotate: false
+  xy: 560, 0
+  size: 359, 254
+  orig: 360, 255
+  offset: 1, 1
+  index: -1
+shan2
+  rotate: false
+  xy: 921, 94
+  size: 348, 160
+  orig: 350, 160
+  offset: 1, 0
+  index: -1
+shan2.1
+  rotate: false
+  xy: 1264, 2
+  size: 192, 90
+  orig: 192, 90
+  offset: 0, 0
+  index: -1
+shan3
+  rotate: false
+  xy: 0, 9
+  size: 558, 245
+  orig: 558, 246
+  offset: 0, 1
+  index: -1
+shan4
+  rotate: false
+  xy: 921, 6
+  size: 341, 86
+  orig: 342, 86
+  offset: 0, 0
+  index: -1

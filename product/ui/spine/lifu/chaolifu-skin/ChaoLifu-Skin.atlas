@@ -1,0 +1,397 @@
+
+ChaoLifu-Skin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 789, 273
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+GX_h
+  rotate: false
+  xy: 1030, 707
+  size: 597, 385
+  orig: 605, 403
+  offset: 1, 18
+  index: -1
+JXC_01
+  rotate: false
+  xy: 1623, 1677
+  size: 420, 154
+  orig: 420, 154
+  offset: 0, 0
+  index: -1
+JXC_02
+  rotate: false
+  xy: 750, 1531
+  size: 475, 173
+  orig: 475, 173
+  offset: 0, 0
+  index: -1
+JXC_03
+  rotate: false
+  xy: 2, 2
+  size: 742, 436
+  orig: 742, 436
+  offset: 0, 0
+  index: -1
+JXC_04
+  rotate: true
+  xy: 1039, 1154
+  size: 351, 433
+  orig: 351, 433
+  offset: 0, 0
+  index: -1
+JXC_05
+  rotate: false
+  xy: 471, 1771
+  size: 306, 99
+  orig: 306, 100
+  offset: 0, 0
+  index: -1
+JXC_06
+  rotate: false
+  xy: 1474, 1094
+  size: 395, 393
+  orig: 395, 393
+  offset: 0, 0
+  index: -1
+XYP_L
+  rotate: false
+  xy: 300, 1893
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+XYP_R
+  rotate: true
+  xy: 359, 1889
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+YJM_L
+  rotate: false
+  xy: 190, 1898
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+YJM_R
+  rotate: false
+  xy: 11, 1913
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+YP_L
+  rotate: false
+  xy: 709, 1872
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+YP_R
+  rotate: false
+  xy: 656, 1874
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: true
+  xy: 1511, 1489
+  size: 186, 400
+  orig: 186, 400
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 1504, 1838
+  size: 82, 283
+  orig: 94, 283
+  offset: 12, 0
+  index: -1
+body
+  rotate: true
+  xy: 235, 1352
+  size: 256, 287
+  orig: 256, 287
+  offset: 0, 0
+  index: -1
+chibang_01
+  rotate: true
+  xy: 524, 1224
+  size: 305, 513
+  orig: 305, 513
+  offset: 0, 0
+  index: -1
+chibang_02
+  rotate: true
+  xy: 1171, 1706
+  size: 130, 450
+  orig: 130, 450
+  offset: 0, 0
+  index: -1
+erduo01
+  rotate: false
+  xy: 593, 1881
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+erduo02
+  rotate: true
+  xy: 256, 1896
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 229, 1897
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: true
+  xy: 140, 1901
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 1634
+  size: 165, 191
+  orig: 165, 191
+  offset: 0, 0
+  index: -1
+fashi_01
+  rotate: false
+  xy: 1291, 1845
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+fashi_02
+  rotate: true
+  xy: 782, 1870
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+fashi_03
+  rotate: false
+  xy: 837, 1849
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+fashi_04
+  rotate: true
+  xy: 913, 1849
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+guangxiao_01
+  rotate: true
+  xy: 120, 1903
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+guangxiao_02
+  rotate: false
+  xy: 58, 1906
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+guangxiao_03
+  rotate: true
+  xy: 2, 1915
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+guangxiao_04
+  rotate: true
+  xy: 42, 1910
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+hair_00
+  rotate: false
+  xy: 101, 1801
+  size: 219, 90
+  orig: 219, 90
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 907, 1718
+  size: 128, 262
+  orig: 128, 262
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 322, 1784
+  size: 101, 147
+  orig: 101, 147
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 1789, 1838
+  size: 82, 97
+  orig: 82, 97
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 779, 1721
+  size: 126, 126
+  orig: 129, 126
+  offset: 3, 0
+  index: -1
+hair_05
+  rotate: true
+  xy: 1888, 1833
+  size: 87, 150
+  orig: 87, 150
+  offset: 0, 0
+  index: -1
+hair_061
+  rotate: true
+  xy: 502, 828
+  size: 394, 526
+  orig: 394, 526
+  offset: 0, 0
+  index: -1
+hair_062
+  rotate: false
+  xy: 2, 1393
+  size: 231, 222
+  orig: 231, 222
+  offset: 0, 0
+  index: -1
+hair_071
+  rotate: true
+  xy: 2, 440
+  size: 386, 785
+  orig: 391, 785
+  offset: 0, 0
+  index: -1
+hair_072
+  rotate: true
+  xy: 385, 1610
+  size: 159, 363
+  orig: 159, 363
+  offset: 0, 0
+  index: -1
+hair_073
+  rotate: true
+  xy: 1019, 1848
+  size: 72, 270
+  orig: 72, 271
+  offset: 0, 1
+  index: -1
+jingshi_1
+  rotate: false
+  xy: 1398, 1839
+  size: 104, 81
+  orig: 104, 81
+  offset: 0, 0
+  index: -1
+jingshi_2
+  rotate: true
+  xy: 504, 1884
+  size: 36, 87
+  orig: 36, 87
+  offset: 0, 0
+  index: -1
+jingshi_3
+  rotate: false
+  xy: 93, 1906
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+jixie_01
+  rotate: false
+  xy: 2, 860
+  size: 498, 490
+  orig: 498, 490
+  offset: 0, 0
+  index: -1
+jixie_02
+  rotate: true
+  xy: 195, 1617
+  size: 165, 188
+  orig: 165, 188
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 2, 1808
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+yiqun_01
+  rotate: false
+  xy: 395, 1887
+  size: 107, 33
+  orig: 107, 33
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 1227, 1507
+  size: 282, 197
+  orig: 282, 197
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 165, 1901
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+
+ChaoLifu-Skin2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GX_01
+  rotate: false
+  xy: 2, 601
+  size: 847, 485
+  orig: 848, 486
+  offset: 1, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 851, 576
+  size: 745, 510
+  orig: 745, 510
+  offset: 0, 0
+  index: -1
+shouzhang
+  rotate: false
+  xy: 2, 2
+  size: 1749, 572
+  orig: 1764, 572
+  offset: 0, 0
+  index: -1

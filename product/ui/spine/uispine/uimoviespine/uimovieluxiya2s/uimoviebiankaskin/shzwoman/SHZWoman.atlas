@@ -1,0 +1,111 @@
+
+SHZWoman.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan
+  rotate: true
+  xy: 752, 371
+  size: 184, 41
+  orig: 184, 42
+  offset: 0, 1
+  index: -1
+doumao1
+  rotate: true
+  xy: 792, 2
+  size: 321, 343
+  orig: 321, 343
+  offset: 0, 0
+  index: -1
+doumao2
+  rotate: false
+  xy: 1584, 229
+  size: 435, 241
+  orig: 435, 241
+  offset: 0, 0
+  index: -1
+doumao3
+  rotate: false
+  xy: 1612, 472
+  size: 402, 210
+  orig: 402, 210
+  offset: 0, 0
+  index: -1
+doumao4
+  rotate: false
+  xy: 709, 557
+  size: 112, 329
+  orig: 112, 329
+  offset: 0, 0
+  index: -1
+pijian1
+  rotate: false
+  xy: 823, 325
+  size: 465, 259
+  orig: 465, 259
+  offset: 0, 0
+  index: -1
+pijian2
+  rotate: true
+  xy: 830, 586
+  size: 778, 780
+  orig: 778, 780
+  offset: 0, 0
+  index: -1
+pijianfhou
+  rotate: false
+  xy: 2, 888
+  size: 826, 476
+  orig: 826, 476
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1612, 684
+  size: 412, 680
+  orig: 412, 680
+  offset: 0, 0
+  index: -1
+shoul
+  rotate: true
+  xy: 2, 635
+  size: 251, 705
+  orig: 251, 705
+  offset: 0, 0
+  index: -1
+shour
+  rotate: true
+  xy: 2, 422
+  size: 211, 694
+  orig: 211, 694
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1290, 334
+  size: 250, 292
+  orig: 250, 293
+  offset: 0, 1
+  index: -1
+toufa1
+  rotate: false
+  xy: 698, 184
+  size: 52, 371
+  orig: 52, 371
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 752, 172
+  size: 38, 197
+  orig: 38, 197
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 1290, 301
+  size: 31, 263
+  orig: 31, 263
+  offset: 0, 0
+  index: -1

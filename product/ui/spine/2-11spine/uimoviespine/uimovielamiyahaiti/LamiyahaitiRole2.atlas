@@ -1,0 +1,69 @@
+
+LamiyahaitiRole2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hf1
+  rotate: false
+  xy: 837, 546
+  size: 278, 465
+  orig: 278, 465
+  offset: 0, 0
+  index: -1
+hf2
+  rotate: false
+  xy: 1117, 736
+  size: 178, 275
+  orig: 178, 275
+  offset: 0, 0
+  index: -1
+hf3
+  rotate: false
+  xy: 2, 193
+  size: 451, 818
+  orig: 451, 818
+  offset: 0, 0
+  index: -1
+st1
+  rotate: true
+  xy: 817, 48
+  size: 321, 253
+  orig: 321, 253
+  offset: 0, 0
+  index: -1
+st2
+  rotate: true
+  xy: 395, 11
+  size: 180, 420
+  orig: 180, 420
+  offset: 0, 0
+  index: -1
+st3
+  rotate: false
+  xy: 1072, 108
+  size: 291, 436
+  orig: 291, 436
+  offset: 0, 0
+  index: -1
+st4
+  rotate: false
+  xy: 455, 371
+  size: 380, 640
+  orig: 380, 640
+  offset: 0, 0
+  index: -1
+st5
+  rotate: true
+  xy: 455, 238
+  size: 131, 262
+  orig: 131, 262
+  offset: 0, 0
+  index: -1
+st6
+  rotate: true
+  xy: 2, 2
+  size: 189, 391
+  orig: 189, 391
+  offset: 0, 0
+  index: -1

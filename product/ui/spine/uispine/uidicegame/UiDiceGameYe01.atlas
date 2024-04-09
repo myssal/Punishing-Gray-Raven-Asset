@@ -1,0 +1,34 @@
+
+UiDiceGameYe01.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 507, 2
+  size: 397, 385
+  orig: 400, 385
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1251, 73
+  size: 259, 314
+  orig: 259, 314
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 906, 14
+  size: 343, 373
+  orig: 353, 379
+  offset: 0, 0
+  index: -1
+Ye01yy
+  rotate: false
+  xy: 2, 35
+  size: 503, 352
+  orig: 503, 526
+  offset: 0, 0
+  index: -1

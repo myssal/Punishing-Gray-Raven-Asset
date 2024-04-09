@@ -1,0 +1,27 @@
+
+UiGuildSignBg3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: true
+  xy: 2, 2
+  size: 482, 890
+  orig: 482, 890
+  offset: 0, 0
+  index: -1
+dai1
+  rotate: false
+  xy: 894, 219
+  size: 46, 119
+  orig: 46, 119
+  offset: 0, 0
+  index: -1
+dai2
+  rotate: false
+  xy: 894, 340
+  size: 61, 144
+  orig: 61, 144
+  offset: 0, 0
+  index: -1

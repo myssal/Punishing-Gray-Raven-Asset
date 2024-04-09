@@ -1,0 +1,167 @@
+
+LuciyasairenBg.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijingshanti
+  rotate: false
+  xy: 2, 71
+  size: 1547, 426
+  orig: 1547, 426
+  offset: 0, 0
+  index: -1
+beijingshu
+  rotate: true
+  xy: 1647, 533
+  size: 1513, 777
+  orig: 1513, 777
+  offset: 0, 0
+  index: -1
+beijingye
+  rotate: true
+  xy: 2, 499
+  size: 1547, 777
+  orig: 1547, 777
+  offset: 0, 0
+  index: -1
+gu0
+  rotate: true
+  xy: 1551, 4
+  size: 504, 701
+  orig: 504, 701
+  offset: 0, 0
+  index: -1
+gu1
+  rotate: false
+  xy: 2426, 1249
+  size: 787, 797
+  orig: 787, 797
+  offset: 0, 0
+  index: -1
+jincao1
+  rotate: false
+  xy: 2764, 734
+  size: 150, 192
+  orig: 150, 192
+  offset: 0, 0
+  index: -1
+jincao2
+  rotate: false
+  xy: 2574, 140
+  size: 561, 397
+  orig: 561, 397
+  offset: 0, 0
+  index: -1
+tian
+  rotate: true
+  xy: 781, 510
+  size: 1536, 864
+  orig: 1536, 864
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: true
+  xy: 2692, 21
+  size: 117, 171
+  orig: 117, 171
+  offset: 0, 0
+  index: -1
+yezi10
+  rotate: true
+  xy: 75, 17
+  size: 52, 24
+  orig: 52, 24
+  offset: 0, 0
+  index: -1
+yezi12
+  rotate: false
+  xy: 2376, 9
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+yezi13
+  rotate: true
+  xy: 199, 19
+  size: 50, 81
+  orig: 50, 81
+  offset: 0, 0
+  index: -1
+yezi14
+  rotate: false
+  xy: 2, 3
+  size: 32, 66
+  orig: 32, 66
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 2254, 3
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+yezi20
+  rotate: true
+  xy: 359, 39
+  size: 30, 86
+  orig: 30, 86
+  offset: 0, 0
+  index: -1
+yezi5
+  rotate: true
+  xy: 2574, 2
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+yezi8
+  rotate: true
+  xy: 2574, 2
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+yezi6
+  rotate: true
+  xy: 101, 19
+  size: 50, 96
+  orig: 50, 96
+  offset: 0, 0
+  index: -1
+yezi7
+  rotate: false
+  xy: 36, 17
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+yezi9
+  rotate: false
+  xy: 282, 30
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+yuancao1
+  rotate: false
+  xy: 2426, 539
+  size: 336, 708
+  orig: 336, 708
+  offset: 0, 0
+  index: -1
+yuancao2
+  rotate: true
+  xy: 2764, 928
+  size: 319, 288
+  orig: 319, 288
+  offset: 0, 0
+  index: -1
+yuanshu
+  rotate: false
+  xy: 2254, 117
+  size: 318, 414
+  orig: 318, 414
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+ActivityLuna2sRole2.png
+size: 1024,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+jz1
+  rotate: false
+  xy: 0, 54
+  size: 279, 363
+  orig: 279, 363
+  offset: 0, 0
+  index: -1
+jz10
+  rotate: true
+  xy: 374, 428
+  size: 118, 110
+  orig: 118, 110
+  offset: 0, 0
+  index: -1
+jz11
+  rotate: true
+  xy: 550, 494
+  size: 114, 76
+  orig: 114, 76
+  offset: 0, 0
+  index: -1
+jz12
+  rotate: true
+  xy: 0, 2
+  size: 52, 190
+  orig: 52, 190
+  offset: 0, 0
+  index: -1
+jz13
+  rotate: false
+  xy: 284, 38
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+jz14
+  rotate: true
+  xy: 279, 10
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+jz15
+  rotate: false
+  xy: 263, 30
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+jz16
+  rotate: false
+  xy: 374, 717
+  size: 165, 305
+  orig: 165, 349
+  offset: 0, 0
+  index: -1
+jz17
+  rotate: true
+  xy: 484, 608
+  size: 109, 85
+  orig: 109, 85
+  offset: 0, 0
+  index: -1
+jz18
+  rotate: false
+  xy: 539, 863
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+jz2
+  rotate: true
+  xy: 484, 472
+  size: 136, 66
+  orig: 136, 66
+  offset: 0, 0
+  index: -1
+jz4
+  rotate: false
+  xy: 0, 417
+  size: 374, 605
+  orig: 374, 605
+  offset: 0, 0
+  index: -1
+jz5
+  rotate: false
+  xy: 279, 56
+  size: 279, 361
+  orig: 279, 361
+  offset: 0, 0
+  index: -1
+jz6
+  rotate: true
+  xy: 539, 944
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+jz7
+  rotate: true
+  xy: 190, 24
+  size: 30, 73
+  orig: 30, 73
+  offset: 0, 0
+  index: -1
+jz8
+  rotate: true
+  xy: 190, 0
+  size: 24, 89
+  orig: 24, 89
+  offset: 0, 0
+  index: -1
+jz9
+  rotate: true
+  xy: 374, 546
+  size: 171, 110
+  orig: 171, 110
+  offset: 0, 0
+  index: -1
+xg1
+  rotate: false
+  xy: 550, 422
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1

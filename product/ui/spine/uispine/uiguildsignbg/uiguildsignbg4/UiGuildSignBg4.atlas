@@ -1,0 +1,41 @@
+
+UiGuildSignBg4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: true
+  xy: 923, 196
+  size: 498, 890
+  orig: 498, 890
+  offset: 0, 0
+  index: -1
+bj2
+  rotate: true
+  xy: 2, 144
+  size: 550, 919
+  orig: 550, 919
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 1130, 126
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+xian
+  rotate: true
+  xy: 1815, 109
+  size: 585, 208
+  orig: 585, 208
+  offset: 0, 0
+  index: -1
+xueren
+  rotate: true
+  xy: 923, 2
+  size: 192, 205
+  orig: 192, 205
+  offset: 0, 0
+  index: -1

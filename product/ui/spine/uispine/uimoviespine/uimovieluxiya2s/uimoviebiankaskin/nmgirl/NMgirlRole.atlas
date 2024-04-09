@@ -1,0 +1,153 @@
+
+NMgirlRole.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+doumao1
+  rotate: true
+  xy: 1683, 2
+  size: 159, 95
+  orig: 161, 95
+  offset: 2, 0
+  index: -1
+doumao2
+  rotate: true
+  xy: 1198, 193
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+doumaohou
+  rotate: false
+  xy: 950, 164
+  size: 246, 80
+  orig: 246, 81
+  offset: 0, 0
+  index: -1
+kouzhao
+  rotate: true
+  xy: 1198, 2
+  size: 182, 163
+  orig: 182, 163
+  offset: 0, 0
+  index: -1
+kouzhaodaizi1
+  rotate: false
+  xy: 1983, 341
+  size: 27, 169
+  orig: 27, 169
+  offset: 0, 0
+  index: -1
+kouzhaodaizi2
+  rotate: true
+  xy: 2, 56
+  size: 24, 171
+  orig: 24, 171
+  offset: 0, 0
+  index: -1
+neiyifu
+  rotate: false
+  xy: 2, 82
+  size: 486, 428
+  orig: 486, 428
+  offset: 0, 0
+  index: -1
+pifengnei1
+  rotate: true
+  xy: 490, 197
+  size: 313, 458
+  orig: 313, 458
+  offset: 0, 0
+  index: -1
+pifengnei2
+  rotate: true
+  xy: 1293, 328
+  size: 182, 389
+  orig: 182, 389
+  offset: 0, 0
+  index: -1
+pijianwai1
+  rotate: true
+  xy: 950, 246
+  size: 264, 341
+  orig: 264, 341
+  offset: 0, 0
+  index: -1
+pijianwai2
+  rotate: true
+  xy: 1293, 186
+  size: 140, 305
+  orig: 140, 305
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1363, 17
+  size: 197, 167
+  orig: 198, 167
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1683, 163
+  size: 100, 214
+  orig: 100, 214
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 1562, 21
+  size: 83, 120
+  orig: 83, 120
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 927, 9
+  size: 153, 196
+  orig: 153, 196
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 1780, 59
+  size: 102, 189
+  orig: 102, 189
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 490, 59
+  size: 136, 316
+  orig: 136, 316
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: true
+  xy: 1684, 265
+  size: 245, 297
+  orig: 245, 297
+  offset: 0, 0
+  index: -1
+toufa7
+  rotate: false
+  xy: 1600, 143
+  size: 81, 183
+  orig: 87, 183
+  offset: 0, 0
+  index: -1
+waibeibao
+  rotate: false
+  xy: 1125, 49
+  size: 62, 113
+  orig: 62, 113
+  offset: 0, 0
+  index: -1
+yiling
+  rotate: true
+  xy: 808, 24
+  size: 171, 117
+  orig: 171, 117
+  offset: 0, 0
+  index: -1

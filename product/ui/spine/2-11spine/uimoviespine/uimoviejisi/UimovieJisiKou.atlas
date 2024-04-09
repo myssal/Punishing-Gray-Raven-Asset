@@ -1,0 +1,104 @@
+
+UimovieJisiKou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 0, 0
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+X
+  rotate: false
+  xy: 0, 0
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 57, 0
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 114, 0
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 171, 0
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 228, 0
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+F
+  rotate: false
+  xy: 285, 0
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+G
+  rotate: true
+  xy: 305, 310
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+H
+  rotate: true
+  xy: 305, 253
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 305, 196
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 0, 35
+  size: 303, 330
+  orig: 303, 330
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 340, 356
+  size: 46, 9
+  orig: 46, 9
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 305, 180
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+zui3
+  rotate: false
+  xy: 340, 348
+  size: 31, 6
+  orig: 31, 6
+  offset: 0, 0
+  index: -1

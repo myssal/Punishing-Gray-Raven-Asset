@@ -1,0 +1,27 @@
+
+UiColorTableHua1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: true
+  xy: 2, 2
+  size: 109, 126
+  orig: 109, 131
+  offset: 0, 5
+  index: -1
+hua2
+  rotate: false
+  xy: 130, 8
+  size: 86, 103
+  orig: 86, 103
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 218, 41
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

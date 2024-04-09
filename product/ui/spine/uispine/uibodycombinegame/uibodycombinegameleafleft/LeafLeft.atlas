@@ -1,0 +1,13 @@
+
+LeafLeft.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 0
+  rotate: false
+  xy: 2, 2
+  size: 251, 368
+  orig: 328, 368
+  offset: 0, 0
+  index: -1

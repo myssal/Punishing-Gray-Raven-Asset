@@ -1,0 +1,181 @@
+
+WeilaSkin01Qj.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizhi1
+  rotate: true
+  xy: 835, 744
+  size: 280, 198
+  orig: 280, 198
+  offset: 0, 0
+  index: -1
+lizhi2
+  rotate: true
+  xy: 757, 154
+  size: 255, 253
+  orig: 255, 253
+  offset: 0, 0
+  index: -1
+lizhi3
+  rotate: true
+  xy: 0, 86
+  size: 938, 482
+  orig: 938, 482
+  offset: 0, 0
+  index: -1
+lizhi4
+  rotate: true
+  xy: 484, 96
+  size: 313, 271
+  orig: 313, 271
+  offset: 0, 0
+  index: -1
+lizhi5
+  rotate: true
+  xy: 757, 46
+  size: 106, 97
+  orig: 106, 97
+  offset: 0, 0
+  index: -1
+yezhi1
+  rotate: true
+  xy: 81, 7
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+yezhi10
+  rotate: true
+  xy: 174, 3
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+yezhi11
+  rotate: false
+  xy: 111, 19
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+yezhi12
+  rotate: true
+  xy: 41, 7
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+yezhi13
+  rotate: true
+  xy: 0, 3
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+yezhi17
+  rotate: true
+  xy: 153, 27
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+yezhi18
+  rotate: false
+  xy: 41, 1
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+yezhi19
+  rotate: true
+  xy: 102, 39
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+yezhi2
+  rotate: false
+  xy: 129, 56
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+yezhi20
+  rotate: false
+  xy: 138, 8
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+yezhi21
+  rotate: false
+  xy: 123, 39
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+yezhi23
+  rotate: false
+  xy: 111, 5
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+yezhi3
+  rotate: false
+  xy: 0, 37
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+yezhi4
+  rotate: true
+  xy: 125, 4
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+yezhi5
+  rotate: true
+  xy: 102, 53
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+yezhi6
+  rotate: true
+  xy: 80, 38
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+yezhi7
+  rotate: false
+  xy: 42, 47
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+yezhi8
+  rotate: true
+  xy: 153, 0
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+yezhi9
+  rotate: false
+  xy: 484, 3
+  size: 192, 91
+  orig: 192, 91
+  offset: 0, 0
+  index: -1
+yezhi99
+  rotate: true
+  xy: 484, 411
+  size: 613, 349
+  orig: 613, 405
+  offset: 0, 0
+  index: -1

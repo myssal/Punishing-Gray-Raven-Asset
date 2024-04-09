@@ -1,0 +1,174 @@
+
+OldmanRole.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chenshan
+  rotate: false
+  xy: 2, 323
+  size: 461, 694
+  orig: 461, 694
+  offset: 0, 0
+  index: -1
+eruo
+  rotate: true
+  xy: 465, 326
+  size: 51, 82
+  orig: 53, 84
+  offset: 1, 1
+  index: -1
+fasizh
+  rotate: true
+  xy: 872, 375
+  size: 26, 89
+  orig: 26, 89
+  offset: 0, 0
+  index: -1
+houfazh
+  rotate: true
+  xy: 1343, 235
+  size: 124, 212
+  orig: 124, 212
+  offset: 0, 0
+  index: -1
+huzi1
+  rotate: false
+  xy: 1821, 593
+  size: 207, 195
+  orig: 207, 195
+  offset: 0, 0
+  index: -1
+huzi2
+  rotate: true
+  xy: 633, 347
+  size: 30, 114
+  orig: 30, 114
+  offset: 0, 0
+  index: -1
+huzixia
+  rotate: false
+  xy: 872, 339
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+jianbul1
+  rotate: false
+  xy: 1622, 526
+  size: 197, 257
+  orig: 197, 257
+  offset: 0, 0
+  index: -1
+jianbuliaprf
+  rotate: true
+  xy: 842, 20
+  size: 316, 361
+  orig: 316, 361
+  offset: 0, 0
+  index: -1
+jlingjinhou
+  rotate: true
+  xy: 1205, 93
+  size: 266, 136
+  orig: 266, 136
+  offset: 0, 0
+  index: -1
+kouzhao
+  rotate: false
+  xy: 1244, 509
+  size: 376, 248
+  orig: 376, 248
+  offset: 0, 0
+  index: -1
+lingjin
+  rotate: false
+  xy: 1591, 225
+  size: 295, 282
+  orig: 295, 282
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 1388, 785
+  size: 331, 232
+  orig: 331, 232
+  offset: 0, 0
+  index: -1
+shengjie
+  rotate: true
+  xy: 743, 403
+  size: 95, 203
+  orig: 95, 203
+  offset: 0, 0
+  index: -1
+shoul
+  rotate: true
+  xy: 743, 759
+  size: 258, 643
+  orig: 258, 643
+  offset: 0, 0
+  index: -1
+shour
+  rotate: false
+  xy: 465, 379
+  size: 276, 638
+  orig: 276, 638
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1721, 790
+  size: 227, 208
+  orig: 227, 208
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1931, 895
+  size: 122, 95
+  orig: 122, 95
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 549, 327
+  size: 50, 82
+  orig: 50, 83
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 749, 338
+  size: 63, 121
+  orig: 63, 121
+  offset: 0, 0
+  index: -1
+waitaol2
+  rotate: true
+  xy: 963, 361
+  size: 137, 626
+  orig: 137, 626
+  offset: 0, 0
+  index: -1
+waitaor1
+  rotate: true
+  xy: 2, 2
+  size: 319, 838
+  orig: 319, 838
+  offset: 0, 0
+  index: -1
+yilingl1
+  rotate: true
+  xy: 743, 500
+  size: 257, 499
+  orig: 257, 499
+  offset: 0, 0
+  index: -1
+yilingr1
+  rotate: false
+  xy: 1888, 112
+  size: 145, 479
+  orig: 145, 479
+  offset: 0, 0
+  index: -1

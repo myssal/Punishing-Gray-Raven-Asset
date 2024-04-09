@@ -1,0 +1,69 @@
+
+Uihuiguiyeziyou.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+y1
+  rotate: false
+  xy: 1261, 240
+  size: 261, 270
+  orig: 261, 270
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 1089, 237
+  size: 170, 273
+  orig: 170, 273
+  offset: 0, 0
+  index: -1
+y3
+  rotate: true
+  xy: 2, 78
+  size: 432, 211
+  orig: 432, 211
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 609, 9
+  size: 338, 159
+  orig: 338, 159
+  offset: 0, 0
+  index: -1
+y5
+  rotate: false
+  xy: 949, 2
+  size: 247, 168
+  orig: 247, 168
+  offset: 0, 0
+  index: -1
+y6
+  rotate: false
+  xy: 1198, 67
+  size: 247, 168
+  orig: 247, 168
+  offset: 0, 0
+  index: -1
+y7
+  rotate: true
+  xy: 928, 172
+  size: 338, 159
+  orig: 338, 159
+  offset: 0, 0
+  index: -1
+y8
+  rotate: false
+  xy: 609, 170
+  size: 317, 340
+  orig: 317, 340
+  offset: 0, 0
+  index: -1
+y8yz
+  rotate: true
+  xy: 215, 100
+  size: 410, 392
+  orig: 439, 460
+  offset: 15, 46
+  index: -1

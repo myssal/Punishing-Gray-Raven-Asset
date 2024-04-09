@@ -1,0 +1,34 @@
+
+UiSummerEpisode3BgTree.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BgTree1
+  rotate: false
+  xy: 2, 2
+  size: 580, 242
+  orig: 588, 242
+  offset: 0, 0
+  index: -1
+BgTree2
+  rotate: false
+  xy: 451, 360
+  size: 510, 518
+  orig: 510, 518
+  offset: 0, 0
+  index: -1
+BgTree3
+  rotate: false
+  xy: 2, 275
+  size: 447, 603
+  orig: 447, 603
+  offset: 0, 0
+  index: -1
+BgTree4
+  rotate: true
+  xy: 451, 246
+  size: 112, 461
+  orig: 112, 461
+  offset: 0, 0
+  index: -1

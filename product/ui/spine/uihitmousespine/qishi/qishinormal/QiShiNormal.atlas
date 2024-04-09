@@ -1,0 +1,62 @@
+
+QiShiNormal.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houfa
+  rotate: true
+  xy: 534, 26
+  size: 314, 422
+  orig: 319, 426
+  offset: 4, 0
+  index: -1
+lian
+  rotate: true
+  xy: 414, 342
+  size: 662, 612
+  orig: 664, 614
+  offset: 1, 1
+  index: -1
+lqianfa
+  rotate: false
+  xy: 1028, 530
+  size: 556, 474
+  orig: 556, 477
+  offset: 0, 3
+  index: -1
+meimao
+  rotate: false
+  xy: 2, 2
+  size: 345, 18
+  orig: 347, 20
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 255
+  size: 749, 410
+  orig: 752, 416
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 2, 124
+  size: 444, 129
+  orig: 444, 129
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 104, 78
+  size: 428, 44
+  orig: 430, 46
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 2, 22
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

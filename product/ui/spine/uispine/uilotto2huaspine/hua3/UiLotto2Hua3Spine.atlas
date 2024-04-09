@@ -1,0 +1,27 @@
+
+UiLotto2Hua3Spine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua2.1
+  rotate: true
+  xy: 700, 2
+  size: 391, 467
+  orig: 391, 467
+  offset: 0, 0
+  index: -1
+hua2.2
+  rotate: true
+  xy: 2, 97
+  size: 296, 331
+  orig: 296, 331
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: true
+  xy: 335, 43
+  size: 350, 363
+  orig: 350, 363
+  offset: 0, 0
+  index: -1

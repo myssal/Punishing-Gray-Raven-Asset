@@ -1,0 +1,202 @@
+
+WeilaSkin01Role02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tf1
+  rotate: true
+  xy: 1492, 1605
+  size: 57, 161
+  orig: 57, 161
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: false
+  xy: 0, 909
+  size: 735, 384
+  orig: 735, 384
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: false
+  xy: 1655, 1409
+  size: 343, 168
+  orig: 343, 168
+  offset: 0, 0
+  index: -1
+tf4
+  rotate: false
+  xy: 0, 1634
+  size: 355, 28
+  orig: 373, 28
+  offset: 0, 0
+  index: -1
+tf45
+  rotate: true
+  xy: 566, 1629
+  size: 33, 156
+  orig: 33, 156
+  offset: 0, 0
+  index: -1
+tf46
+  rotate: false
+  xy: 1739, 1590
+  size: 92, 72
+  orig: 92, 72
+  offset: 0, 0
+  index: -1
+tf47
+  rotate: true
+  xy: 497, 1295
+  size: 170, 395
+  orig: 170, 395
+  offset: 0, 0
+  index: -1
+tf48
+  rotate: true
+  xy: 801, 1467
+  size: 138, 326
+  orig: 138, 326
+  offset: 0, 0
+  index: -1
+tf49
+  rotate: true
+  xy: 724, 1627
+  size: 35, 151
+  orig: 35, 151
+  offset: 0, 0
+  index: -1
+tf5
+  rotate: true
+  xy: 260, 1527
+  size: 105, 139
+  orig: 105, 139
+  offset: 0, 0
+  index: -1
+tf50
+  rotate: false
+  xy: 1655, 1591
+  size: 82, 71
+  orig: 82, 71
+  offset: 0, 0
+  index: -1
+tf51
+  rotate: true
+  xy: 357, 1634
+  size: 28, 165
+  orig: 28, 165
+  offset: 0, 0
+  index: -1
+tf52
+  rotate: false
+  xy: 816, 0
+  size: 1081, 627
+  orig: 1081, 627
+  offset: 0, 0
+  index: -1
+tf53
+  rotate: true
+  xy: 737, 866
+  size: 388, 662
+  orig: 388, 662
+  offset: 0, 0
+  index: -1
+tf54
+  rotate: true
+  xy: 1365, 1448
+  size: 155, 288
+  orig: 155, 288
+  offset: 0, 0
+  index: -1
+tf55
+  rotate: false
+  xy: 0, 1370
+  size: 495, 149
+  orig: 495, 149
+  offset: 0, 0
+  index: -1
+tf56
+  rotate: true
+  xy: 0, 1555
+  size: 77, 258
+  orig: 77, 258
+  offset: 0, 0
+  index: -1
+tf57
+  rotate: false
+  xy: 1401, 629
+  size: 553, 416
+  orig: 553, 416
+  offset: 0, 0
+  index: -1
+tf58
+  rotate: true
+  xy: 894, 1256
+  size: 190, 658
+  orig: 190, 658
+  offset: 0, 0
+  index: -1
+tf59
+  rotate: true
+  xy: 544, 1506
+  size: 119, 255
+  orig: 119, 255
+  offset: 0, 0
+  index: -1
+tf6
+  rotate: false
+  xy: 1035, 1607
+  size: 455, 55
+  orig: 455, 55
+  offset: 0, 0
+  index: -1
+tf60
+  rotate: true
+  xy: 877, 1614
+  size: 48, 156
+  orig: 48, 156
+  offset: 0, 0
+  index: -1
+tf61
+  rotate: true
+  xy: 1833, 1579
+  size: 83, 99
+  orig: 83, 99
+  offset: 0, 0
+  index: -1
+tf62
+  rotate: true
+  xy: 0, 308
+  size: 556, 814
+  orig: 556, 814
+  offset: 0, 0
+  index: -1
+tf63
+  rotate: true
+  xy: 401, 1521
+  size: 109, 141
+  orig: 109, 141
+  offset: 0, 0
+  index: -1
+tf64
+  rotate: true
+  xy: 1554, 1047
+  size: 360, 371
+  orig: 360, 371
+  offset: 0, 0
+  index: -1
+tf7
+  rotate: false
+  xy: 1129, 1465
+  size: 234, 140
+  orig: 234, 140
+  offset: 0, 0
+  index: -1
+youshou4
+  rotate: false
+  xy: 524, 1632
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1

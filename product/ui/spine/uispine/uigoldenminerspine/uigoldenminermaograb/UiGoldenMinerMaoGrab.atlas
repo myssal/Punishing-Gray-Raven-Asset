@@ -1,0 +1,62 @@
+
+UiGoldenMinerMaoGrab.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 401, 62
+  size: 275, 438
+  orig: 275, 438
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 678, 169
+  size: 321, 331
+  orig: 323, 333
+  offset: 1, 1
+  index: -1
+toutui
+  rotate: false
+  xy: 1001, 285
+  size: 150, 215
+  orig: 150, 215
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 678, 23
+  size: 144, 350
+  orig: 144, 350
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 1153, 318
+  size: 182, 137
+  orig: 182, 137
+  offset: 0, 0
+  index: -1
+zhao
+  rotate: false
+  xy: 2, 103
+  size: 397, 397
+  orig: 399, 399
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2, 2
+  size: 180, 99
+  orig: 180, 99
+  offset: 0, 0
+  index: -1
+zuotui
+  rotate: false
+  xy: 1030, 33
+  size: 124, 250
+  orig: 124, 250
+  offset: 0, 0
+  index: -1

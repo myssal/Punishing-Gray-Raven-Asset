@@ -1,0 +1,20 @@
+
+UiRogueSimMainKq3.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kq3
+  rotate: false
+  xy: 83, 0
+  size: 321, 524
+  orig: 321, 524
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 0, 344
+  size: 81, 180
+  orig: 81, 180
+  offset: 0, 0
+  index: -1

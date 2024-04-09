@@ -1,0 +1,41 @@
+
+UiKotodamaTC2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 0, 0
+  size: 1345, 758
+  orig: 1347, 760
+  offset: 1, 1
+  index: -1
+ye1
+  rotate: 180
+  xy: 1709, 228
+  size: 188, 345
+  orig: 192, 388
+  offset: 4, 19
+  index: -1
+ye2
+  rotate: false
+  xy: 1515, 27
+  size: 320, 260
+  orig: 320, 268
+  offset: 0, 8
+  index: -1
+ye3
+  rotate: true
+  xy: 1347, 99
+  size: 659, 264
+  orig: 659, 267
+  offset: 0, 3
+  index: -1
+ye4
+  rotate: false
+  xy: 1481, 355
+  size: 244, 330
+  orig: 244, 359
+  offset: 0, 0
+  index: -1

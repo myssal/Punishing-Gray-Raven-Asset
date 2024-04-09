@@ -1,0 +1,41 @@
+
+WeisaliKou.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangya
+  rotate: false
+  xy: 2, 87
+  size: 41, 8
+  orig: 43, 12
+  offset: 2, 4
+  index: -1
+shetou
+  rotate: false
+  xy: 2, 2
+  size: 45, 24
+  orig: 49, 29
+  offset: 0, 4
+  index: -1
+xiaya
+  rotate: false
+  xy: 2, 74
+  size: 43, 11
+  orig: 47, 19
+  offset: 1, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 2, 51
+  size: 49, 21
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 2, 28
+  size: 47, 21
+  orig: 48, 21
+  offset: 1, 0
+  index: -1

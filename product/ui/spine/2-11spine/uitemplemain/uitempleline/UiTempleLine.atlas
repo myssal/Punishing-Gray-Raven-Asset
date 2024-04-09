@@ -1,0 +1,13 @@
+
+UiTempleLine.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+line
+  rotate: false
+  xy: 2, 2
+  size: 1922, 261
+  orig: 1922, 261
+  offset: 0, 0
+  index: -1

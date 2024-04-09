@@ -1,0 +1,83 @@
+
+LamiyaSkinKou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: true
+  xy: 331, 184
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+C
+  rotate: true
+  xy: 331, 112
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+D
+  rotate: true
+  xy: 331, 40
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 331, 2
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+F
+  rotate: true
+  xy: 369, 184
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+G
+  rotate: true
+  xy: 369, 112
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+H
+  rotate: true
+  xy: 369, 40
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+z-lian
+  rotate: true
+  xy: 2, 2
+  size: 252, 327
+  orig: 252, 327
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 403, 3
+  size: 40, 7
+  orig: 40, 7
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: true
+  xy: 407, 209
+  size: 45, 9
+  orig: 45, 9
+  offset: 0, 0
+  index: -1
+zui3
+  rotate: true
+  xy: 403, 12
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1

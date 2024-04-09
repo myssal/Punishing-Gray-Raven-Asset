@@ -1,0 +1,41 @@
+
+WuZangHit.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lei
+  rotate: false
+  xy: 390, 92
+  size: 139, 157
+  orig: 141, 159
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 386, 247
+  orig: 392, 252
+  offset: 6, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 251
+  size: 628, 571
+  orig: 647, 576
+  offset: 7, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 632, 154
+  size: 328, 324
+  orig: 339, 333
+  offset: 11, 5
+  index: -1
+zuoshou
+  rotate: true
+  xy: 632, 484
+  size: 338, 327
+  orig: 339, 333
+  offset: 1, 0
+  index: -1

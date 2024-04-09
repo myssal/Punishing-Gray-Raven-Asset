@@ -1,0 +1,34 @@
+
+LuxiyaKou.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zui1
+  rotate: true
+  xy: 2, 16
+  size: 48, 23
+  orig: 49, 32
+  offset: 1, 8
+  index: -1
+zui2
+  rotate: true
+  xy: 27, 16
+  size: 48, 18
+  orig: 49, 24
+  offset: 0, 4
+  index: -1
+zui3
+  rotate: false
+  xy: 2, 2
+  size: 38, 12
+  orig: 40, 14
+  offset: 1, 2
+  index: -1
+zui4
+  rotate: false
+  xy: 2, 66
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1

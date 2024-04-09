@@ -1,0 +1,146 @@
+
+UiSummerSignInHua.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: true
+  xy: 703, 2
+  size: 60, 73
+  orig: 62, 75
+  offset: 1, 1
+  index: -1
+hua2
+  rotate: false
+  xy: 391, 30
+  size: 281, 199
+  orig: 281, 199
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 731, 64
+  size: 144, 159
+  orig: 146, 161
+  offset: 1, 1
+  index: -1
+hua4
+  rotate: false
+  xy: 733, 210
+  size: 262, 300
+  orig: 262, 300
+  offset: 0, 0
+  index: -1
+xy1
+  rotate: false
+  xy: 97, 48
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+xy2
+  rotate: true
+  xy: 226, 50
+  size: 85, 62
+  orig: 85, 62
+  offset: 0, 0
+  index: -1
+xy3
+  rotate: false
+  xy: 2, 19
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+xy4
+  rotate: true
+  xy: 778, 2
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 391, 231
+  size: 340, 279
+  orig: 340, 279
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 2, 188
+  size: 387, 322
+  orig: 389, 324
+  offset: 1, 1
+  index: -1
+yy1
+  rotate: true
+  xy: 171, 137
+  size: 49, 121
+  orig: 49, 121
+  offset: 0, 0
+  index: -1
+yy2
+  rotate: false
+  xy: 674, 110
+  size: 55, 119
+  orig: 55, 119
+  offset: 0, 0
+  index: -1
+yy3
+  rotate: false
+  xy: 674, 52
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+yy4
+  rotate: false
+  xy: 2, 108
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+yy5
+  rotate: true
+  xy: 171, 28
+  size: 107, 53
+  orig: 108, 53
+  offset: 1, 0
+  index: -1
+yy6
+  rotate: true
+  xy: 294, 87
+  size: 99, 68
+  orig: 99, 68
+  offset: 0, 0
+  index: -1
+zy1
+  rotate: false
+  xy: 97, 117
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: -1
+zy2
+  rotate: true
+  xy: 850, 6
+  size: 55, 111
+  orig: 55, 111
+  offset: 0, 0
+  index: -1
+zy3
+  rotate: true
+  xy: 290, 23
+  size: 62, 75
+  orig: 62, 75
+  offset: 0, 0
+  index: -1
+zy4
+  rotate: true
+  xy: 892, 63
+  size: 145, 87
+  orig: 145, 87
+  offset: 0, 0
+  index: -1

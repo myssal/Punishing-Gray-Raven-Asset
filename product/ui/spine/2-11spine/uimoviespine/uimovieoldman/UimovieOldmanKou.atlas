@@ -1,0 +1,41 @@
+
+UimovieOldmanKou.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu
+  rotate: false
+  xy: 0, 61
+  size: 116, 63
+  orig: 116, 63
+  offset: 0, 0
+  index: -1
+zhuiyy
+  rotate: true
+  xy: 0, 0
+  size: 59, 33
+  orig: 59, 33
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 49, 33
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: true
+  xy: 35, 1
+  size: 58, 12
+  orig: 58, 12
+  offset: 0, 0
+  index: -1
+zui3
+  rotate: false
+  xy: 49, 7
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1

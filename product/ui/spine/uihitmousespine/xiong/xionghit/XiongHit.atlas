@@ -1,0 +1,20 @@
+
+XiongHit.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 890, 576
+  orig: 900, 782
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 894, 6
+  size: 667, 572
+  orig: 667, 587
+  offset: 0, 2
+  index: -1

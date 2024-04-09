@@ -1,0 +1,13 @@
+
+LeafRight.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层 0
+  rotate: false
+  xy: 2, 2
+  size: 376, 336
+  orig: 376, 338
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,251 @@
+
+Spine-Luxiya-CoupletGame.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+duilian
+  rotate: false
+  xy: 459, 118
+  size: 192, 407
+  orig: 192, 407
+  offset: 0, 0
+  index: -1
+duilian2
+  rotate: true
+  xy: 1332, 1259
+  size: 30, 107
+  orig: 30, 107
+  offset: 0, 0
+  index: -1
+ershi
+  rotate: true
+  xy: 1441, 1259
+  size: 30, 50
+  orig: 32, 53
+  offset: 1, 1
+  index: -1
+fa1
+  rotate: false
+  xy: 1148, 1372
+  size: 66, 159
+  orig: 66, 159
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 1690, 216
+  size: 157, 158
+  orig: 157, 158
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 1148, 1211
+  size: 58, 159
+  orig: 58, 159
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 1927, 575
+  size: 101, 211
+  orig: 101, 211
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: false
+  xy: 1927, 376
+  size: 101, 197
+  orig: 102, 203
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: false
+  xy: 1509, 247
+  size: 179, 167
+  orig: 181, 169
+  offset: 1, 1
+  index: -1
+lingdai
+  rotate: true
+  xy: 1208, 1245
+  size: 44, 122
+  orig: 44, 122
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 122
+  size: 403, 455
+  orig: 407, 478
+  offset: 0, 21
+  index: -1
+tou
+  rotate: false
+  xy: 653, 305
+  size: 174, 220
+  orig: 174, 220
+  offset: 0, 0
+  index: -1
+yinying
+  rotate: true
+  xy: 2, 527
+  size: 1004, 845
+  orig: 1922, 845
+  offset: 0, 0
+  index: -1
+youcao
+  rotate: false
+  xy: 1220, 1291
+  size: 484, 754
+  orig: 489, 754
+  offset: 0, 0
+  index: -1
+youjiemao1
+  rotate: true
+  xy: 1542, 1228
+  size: 33, 18
+  orig: 34, 19
+  offset: 1, 1
+  index: -1
+youmaeimao
+  rotate: false
+  xy: 1493, 1246
+  size: 29, 12
+  orig: 32, 14
+  offset: 1, 1
+  index: -1
+youmawei
+  rotate: false
+  xy: 1706, 1251
+  size: 223, 794
+  orig: 225, 796
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 829, 151
+  size: 263, 371
+  orig: 263, 371
+  offset: 0, 0
+  index: -1
+youtuoshi
+  rotate: true
+  xy: 1573, 1265
+  size: 24, 35
+  orig: 26, 37
+  offset: 1, 1
+  index: -1
+youxiajiemao
+  rotate: true
+  xy: 1208, 1328
+  size: 17, 6
+  orig: 19, 8
+  offset: 1, 1
+  index: -1
+youyamqiu
+  rotate: true
+  xy: 1332, 1242
+  size: 15, 17
+  orig: 17, 19
+  offset: 1, 1
+  index: -1
+youyanbai
+  rotate: false
+  xy: 1542, 1263
+  size: 29, 26
+  orig: 31, 28
+  offset: 1, 1
+  index: -1
+zhuozi
+  rotate: false
+  xy: 849, 416
+  size: 1076, 370
+  orig: 1076, 370
+  offset: 0, 0
+  index: -1
+zhuozi2
+  rotate: false
+  xy: 2, 1533
+  size: 1216, 512
+  orig: 1216, 512
+  offset: 0, 0
+  index: -1
+zuocao
+  rotate: true
+  xy: 1148, 788
+  size: 421, 819
+  orig: 421, 819
+  offset: 0, 0
+  index: -1
+zuojiemao1
+  rotate: false
+  xy: 1610, 1248
+  size: 54, 22
+  orig: 54, 22
+  offset: 0, 0
+  index: -1
+zuojiemao2
+  rotate: true
+  xy: 1524, 1241
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+zuomawei
+  rotate: false
+  xy: 849, 788
+  size: 297, 743
+  orig: 312, 743
+  offset: 15, 0
+  index: -1
+zuomeimao
+  rotate: false
+  xy: 1610, 1272
+  size: 64, 17
+  orig: 67, 19
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: true
+  xy: 653, 2
+  size: 301, 147
+  orig: 303, 149
+  offset: 1, 1
+  index: -1
+zuoshoubi
+  rotate: true
+  xy: 1202, 186
+  size: 228, 305
+  orig: 228, 305
+  offset: 0, 0
+  index: -1
+zuotoushi
+  rotate: false
+  xy: 1676, 1249
+  size: 23, 40
+  orig: 25, 42
+  offset: 1, 1
+  index: -1
+zuoxiajiemao
+  rotate: true
+  xy: 1208, 1347
+  size: 23, 6
+  orig: 23, 6
+  offset: 0, 0
+  index: -1
+zuoyanbai
+  rotate: false
+  xy: 1493, 1260
+  size: 47, 29
+  orig: 49, 31
+  offset: 1, 1
+  index: -1
+zuoyanqui
+  rotate: true
+  xy: 1573, 1238
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+UiSummerSignInYe.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao
+  rotate: false
+  xy: 2, 27
+  size: 586, 435
+  orig: 586, 437
+  offset: 0, 0
+  index: -1
+lanzi
+  rotate: true
+  xy: 590, 2
+  size: 460, 248
+  orig: 462, 250
+  offset: 1, 1
+  index: -1

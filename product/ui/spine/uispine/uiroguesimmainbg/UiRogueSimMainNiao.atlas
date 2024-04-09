@@ -1,0 +1,27 @@
+
+UiRogueSimMainNiao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao1
+  rotate: false
+  xy: 0, 0
+  size: 296, 426
+  orig: 296, 426
+  offset: 0, 0
+  index: -1
+niao2
+  rotate: false
+  xy: 298, 284
+  size: 573, 142
+  orig: 573, 142
+  offset: 0, 0
+  index: -1
+niao3
+  rotate: false
+  xy: 298, 75
+  size: 65, 207
+  orig: 83, 242
+  offset: 18, 0
+  index: -1

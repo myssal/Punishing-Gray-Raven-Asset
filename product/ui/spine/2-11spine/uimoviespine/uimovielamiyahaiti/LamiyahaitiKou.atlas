@@ -1,0 +1,76 @@
+
+LamiyahaitiKou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: false
+  xy: 206, 189
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 206, 161
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 206, 133
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 206, 217
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+F
+  rotate: false
+  xy: 206, 105
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 206, 77
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+H
+  rotate: false
+  xy: 206, 49
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+haipa1
+  rotate: false
+  xy: 2, 2
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+mmbq7
+  rotate: false
+  xy: 206, 35
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 17
+  size: 202, 227
+  orig: 202, 227
+  offset: 0, 0
+  index: -1

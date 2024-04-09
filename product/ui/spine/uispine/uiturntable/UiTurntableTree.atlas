@@ -1,0 +1,20 @@
+
+UiTurntableTree.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BgTree1
+  rotate: true
+  xy: 514, 2
+  size: 580, 242
+  orig: 588, 242
+  offset: 0, 0
+  index: -1
+BgTree2
+  rotate: false
+  xy: 2, 64
+  size: 510, 518
+  orig: 510, 518
+  offset: 0, 0
+  index: -1

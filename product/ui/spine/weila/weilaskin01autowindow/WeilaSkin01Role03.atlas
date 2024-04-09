@@ -1,0 +1,97 @@
+
+WeilaSkin01Role03.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tf65
+  rotate: false
+  xy: 0, 102
+  size: 405, 168
+  orig: 405, 168
+  offset: 0, 0
+  index: -1
+tf66
+  rotate: true
+  xy: 1396, 51
+  size: 184, 162
+  orig: 184, 162
+  offset: 0, 0
+  index: -1
+tf67
+  rotate: false
+  xy: 747, 108
+  size: 297, 162
+  orig: 297, 162
+  offset: 0, 0
+  index: -1
+tf68
+  rotate: false
+  xy: 0, 272
+  size: 1360, 717
+  orig: 1360, 717
+  offset: 0, 0
+  index: -1
+tf69
+  rotate: true
+  xy: 1320, 0
+  size: 235, 74
+  orig: 235, 74
+  offset: 0, 0
+  index: -1
+tf70
+  rotate: false
+  xy: 1046, 48
+  size: 233, 87
+  orig: 233, 87
+  offset: 0, 0
+  index: -1
+tf71
+  rotate: true
+  xy: 1046, 137
+  size: 133, 272
+  orig: 133, 272
+  offset: 0, 0
+  index: -1
+tf72
+  rotate: true
+  xy: 1829, 558
+  size: 431, 188
+  orig: 431, 188
+  offset: 0, 0
+  index: -1
+tf73
+  rotate: false
+  xy: 1575, 232
+  size: 456, 191
+  orig: 456, 191
+  offset: 0, 0
+  index: -1
+tf74
+  rotate: true
+  xy: 1362, 237
+  size: 752, 211
+  orig: 752, 211
+  offset: 0, 0
+  index: -1
+tf75
+  rotate: false
+  xy: 407, 106
+  size: 338, 164
+  orig: 338, 164
+  offset: 0, 0
+  index: -1
+tf77.1
+  rotate: true
+  xy: 1575, 425
+  size: 564, 252
+  orig: 564, 252
+  offset: 0, 0
+  index: -1
+tf83
+  rotate: true
+  xy: 1829, 519
+  size: 37, 194
+  orig: 37, 194
+  offset: 0, 0
+  index: -1

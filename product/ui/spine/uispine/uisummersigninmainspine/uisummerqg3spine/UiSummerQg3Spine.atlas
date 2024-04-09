@@ -1,0 +1,20 @@
+
+UiSummerQg3Spine.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu3.1
+  rotate: false
+  xy: 343, 9
+  size: 313, 214
+  orig: 313, 214
+  offset: 0, 0
+  index: -1
+shu3.2
+  rotate: true
+  xy: 2, 2
+  size: 221, 339
+  orig: 221, 339
+  offset: 0, 0
+  index: -1

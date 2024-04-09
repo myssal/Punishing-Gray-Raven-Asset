@@ -1,0 +1,20 @@
+
+XiongNormal.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 925, 596
+  orig: 926, 600
+  offset: 1, 0
+  index: -1
+tou
+  rotate: false
+  xy: 929, 46
+  size: 666, 552
+  orig: 670, 559
+  offset: 4, 3
+  index: -1

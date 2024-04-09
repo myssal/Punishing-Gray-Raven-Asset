@@ -1,0 +1,20 @@
+
+UiDiceGameYe02.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UiDiceGameYe02
+  rotate: false
+  xy: 2, 2
+  size: 303, 157
+  orig: 310, 168
+  offset: 0, 11
+  index: -1
+Ye02YY
+  rotate: false
+  xy: 2, 161
+  size: 277, 265
+  orig: 586, 268
+  offset: 0, 3
+  index: -1

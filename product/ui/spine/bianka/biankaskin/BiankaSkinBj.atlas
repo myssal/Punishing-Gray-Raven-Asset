@@ -1,0 +1,62 @@
+
+BiankaSkinBj.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2
+  size: 1586, 865
+  orig: 1586, 865
+  offset: 0, 0
+  index: -1
+hy1
+  rotate: false
+  xy: 925, 1372
+  size: 412, 226
+  orig: 412, 226
+  offset: 0, 0
+  index: -1
+hy2
+  rotate: false
+  xy: 2, 1089
+  size: 513, 312
+  orig: 513, 312
+  offset: 0, 0
+  index: -1
+hy3
+  rotate: false
+  xy: 2, 1403
+  size: 676, 195
+  orig: 676, 195
+  offset: 0, 0
+  index: -1
+hy4
+  rotate: false
+  xy: 1339, 1334
+  size: 517, 264
+  orig: 517, 264
+  offset: 0, 0
+  index: -1
+hy5
+  rotate: false
+  xy: 517, 972
+  size: 616, 398
+  orig: 616, 398
+  offset: 0, 0
+  index: -1
+hy6
+  rotate: true
+  xy: 680, 1377
+  size: 221, 243
+  orig: 221, 266
+  offset: 0, 23
+  index: -1
+hy7
+  rotate: true
+  xy: 1135, 869
+  size: 463, 584
+  orig: 480, 584
+  offset: 0, 0
+  index: -1

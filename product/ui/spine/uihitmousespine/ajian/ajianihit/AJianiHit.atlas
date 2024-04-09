@@ -1,0 +1,76 @@
+
+AJianiHit.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti1
+  rotate: true
+  xy: 676, 2
+  size: 328, 224
+  orig: 345, 229
+  offset: 9, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 2, 59
+  size: 327, 248
+  orig: 342, 256
+  offset: 10, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 309
+  size: 672, 624
+  orig: 681, 625
+  offset: 9, 0
+  index: -1
+youshou1
+  rotate: false
+  xy: 676, 625
+  size: 276, 308
+  orig: 288, 320
+  offset: 9, 8
+  index: -1
+youshou2
+  rotate: true
+  xy: 942, 367
+  size: 34, 71
+  orig: 36, 73
+  offset: 1, 1
+  index: -1
+zhuangshi1
+  rotate: false
+  xy: 902, 224
+  size: 59, 106
+  orig: 61, 108
+  offset: 1, 1
+  index: -1
+zhuangshi2
+  rotate: false
+  xy: 942, 515
+  size: 57, 108
+  orig: 59, 110
+  offset: 1, 1
+  index: -1
+zhuangshi3
+  rotate: false
+  xy: 942, 403
+  size: 56, 110
+  orig: 58, 112
+  offset: 1, 1
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 676, 332
+  size: 264, 291
+  orig: 284, 311
+  offset: 10, 13
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 954, 865
+  size: 40, 68
+  orig: 42, 70
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,258 @@
+
+WeilaHit.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daizi1
+  rotate: true
+  xy: 1207, 884
+  size: 137, 89
+  orig: 139, 91
+  offset: 0, 1
+  index: -1
+daizi2
+  rotate: false
+  xy: 584, 71
+  size: 88, 153
+  orig: 89, 153
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: true
+  xy: 925, 726
+  size: 295, 122
+  orig: 295, 122
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 1049, 730
+  size: 156, 291
+  orig: 156, 291
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 1086, 297
+  size: 84, 251
+  orig: 84, 251
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 380, 541
+  size: 316, 126
+  orig: 316, 126
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: true
+  xy: 828, 724
+  size: 297, 95
+  orig: 297, 95
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: true
+  xy: 298, 71
+  size: 465, 284
+  orig: 465, 284
+  offset: 0, 0
+  index: -1
+fa7
+  rotate: false
+  xy: 2, 60
+  size: 294, 476
+  orig: 297, 476
+  offset: 0, 0
+  index: -1
+fabu1
+  rotate: true
+  xy: 815, 236
+  size: 306, 130
+  orig: 465, 284
+  offset: 134, 154
+  index: -1
+fabu2
+  rotate: false
+  xy: 967, 75
+  size: 110, 171
+  orig: 297, 476
+  offset: 187, 254
+  index: -1
+fahou
+  rotate: true
+  xy: 380, 669
+  size: 352, 221
+  orig: 375, 221
+  offset: 19, 0
+  index: -1
+heixian
+  rotate: false
+  xy: 745, 25
+  size: 107, 199
+  orig: 111, 200
+  offset: 4, 0
+  index: -1
+jing
+  rotate: false
+  xy: 2, 8
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+mei1
+  rotate: false
+  xy: 131, 3
+  size: 26, 8
+  orig: 26, 8
+  offset: 0, 0
+  index: -1
+mei2
+  rotate: true
+  xy: 71, 3
+  size: 8, 58
+  orig: 8, 58
+  offset: 0, 0
+  index: -1
+mei3
+  rotate: true
+  xy: 603, 672
+  size: 15, 92
+  orig: 15, 92
+  offset: 0, 0
+  index: -1
+mei4
+  rotate: false
+  xy: 655, 2
+  size: 118, 20
+  orig: 118, 20
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 603, 689
+  size: 332, 223
+  orig: 338, 223
+  offset: 4, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 538
+  size: 483, 376
+  orig: 483, 376
+  offset: 0, 0
+  index: -1
+toudai1
+  rotate: true
+  xy: 584, 226
+  size: 313, 229
+  orig: 438, 229
+  offset: 125, 0
+  index: -1
+toudai2
+  rotate: false
+  xy: 788, 544
+  size: 193, 143
+  orig: 438, 229
+  offset: 218, 68
+  index: -1
+yan1
+  rotate: true
+  xy: 854, 3
+  size: 42, 155
+  orig: 42, 155
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 1011, 32
+  size: 154, 41
+  orig: 154, 41
+  offset: 0, 0
+  index: -1
+youhoufa
+  rotate: false
+  xy: 698, 541
+  size: 88, 146
+  orig: 93, 146
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 1079, 550
+  size: 178, 72
+  orig: 178, 72
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 854, 47
+  size: 111, 187
+  orig: 112, 187
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: true
+  xy: 947, 248
+  size: 294, 137
+  orig: 294, 137
+  offset: 0, 0
+  index: -1
+yy2
+  rotate: true
+  xy: 983, 544
+  size: 180, 94
+  orig: 180, 94
+  offset: 0, 0
+  index: -1
+yy3
+  rotate: false
+  xy: 71, 13
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+yy4
+  rotate: false
+  xy: 182, 15
+  size: 160, 43
+  orig: 160, 43
+  offset: 0, 0
+  index: -1
+yy5
+  rotate: true
+  xy: 674, 24
+  size: 200, 69
+  orig: 200, 69
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 500, 4
+  size: 153, 65
+  orig: 483, 376
+  offset: 136, 0
+  index: -1
+zuoshou1
+  rotate: true
+  xy: 344, 4
+  size: 65, 154
+  orig: 65, 154
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: true
+  xy: 1079, 80
+  size: 166, 110
+  orig: 167, 110
+  offset: 0, 0
+  index: -1
+zuoshoufa
+  rotate: false
+  xy: 1153, 589
+  size: 89, 139
+  orig: 94, 145
+  offset: 5, 0
+  index: -1

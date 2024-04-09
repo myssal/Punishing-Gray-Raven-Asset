@@ -1,0 +1,27 @@
+
+UiRogueSimMainBg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 0, 0
+  size: 1964, 1474
+  orig: 1964, 1474
+  offset: 0, 0
+  index: -1
+ty1
+  rotate: false
+  xy: 0, 1505
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+ty2
+  rotate: false
+  xy: 218, 1476
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1

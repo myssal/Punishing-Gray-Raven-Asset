@@ -1,0 +1,181 @@
+
+UimovieJisiRole.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_jiemao
+  rotate: false
+  xy: 206, 6
+  size: 63, 22
+  orig: 63, 22
+  offset: 0, 0
+  index: -1
+l_jiemao2
+  rotate: false
+  xy: 67, 2
+  size: 56, 17
+  orig: 56, 17
+  offset: 0, 0
+  index: -1
+l_meimao
+  rotate: false
+  xy: 2, 2
+  size: 63, 17
+  orig: 63, 17
+  offset: 0, 0
+  index: -1
+l_shangyanpi
+  rotate: false
+  xy: 376, 8
+  size: 74, 41
+  orig: 74, 41
+  offset: 0, 0
+  index: -1
+l_xiajiemao
+  rotate: false
+  xy: 853, 3
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+l_xiayanpi
+  rotate: false
+  xy: 452, 14
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: -1
+l_yanbai
+  rotate: false
+  xy: 847, 94
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+l_yanzhu
+  rotate: false
+  xy: 898, 7
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+lh
+  rotate: false
+  xy: 940, 5
+  size: 111, 121
+  orig: 111, 121
+  offset: 0, 0
+  index: -1
+lh2
+  rotate: true
+  xy: 757, 18
+  size: 56, 94
+  orig: 56, 94
+  offset: 0, 0
+  index: -1
+lh3
+  rotate: true
+  xy: 1053, 16
+  size: 110, 102
+  orig: 110, 102
+  offset: 0, 0
+  index: -1
+lh4
+  rotate: true
+  xy: 715, 76
+  size: 50, 130
+  orig: 50, 130
+  offset: 0, 0
+  index: -1
+lh5
+  rotate: true
+  xy: 2, 21
+  size: 105, 178
+  orig: 105, 178
+  offset: 0, 0
+  index: -1
+lh6
+  rotate: true
+  xy: 182, 30
+  size: 96, 165
+  orig: 96, 165
+  offset: 0, 0
+  index: -1
+lh7
+  rotate: true
+  xy: 552, 67
+  size: 59, 161
+  orig: 59, 161
+  offset: 0, 0
+  index: -1
+lh8
+  rotate: true
+  xy: 349, 51
+  size: 75, 201
+  orig: 75, 201
+  offset: 0, 0
+  index: -1
+lh9
+  rotate: true
+  xy: 597, 6
+  size: 59, 158
+  orig: 59, 158
+  offset: 0, 0
+  index: -1
+r_jiemao
+  rotate: false
+  xy: 318, 8
+  size: 56, 20
+  orig: 56, 20
+  offset: 0, 0
+  index: -1
+r_jiemao2
+  rotate: false
+  xy: 172, 13
+  size: 32, 6
+  orig: 32, 6
+  offset: 0, 0
+  index: -1
+r_meimao
+  rotate: false
+  xy: 125, 5
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+r_shangyanpi
+  rotate: false
+  xy: 530, 11
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+r_xiajiemao
+  rotate: false
+  xy: 271, 2
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+r_xiayanpi
+  rotate: true
+  xy: 853, 31
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+r_yanbai
+  rotate: true
+  xy: 885, 44
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+r_yanzhu
+  rotate: false
+  xy: 907, 94
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1

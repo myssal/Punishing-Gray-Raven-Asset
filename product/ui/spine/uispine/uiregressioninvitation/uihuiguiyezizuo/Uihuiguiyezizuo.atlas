@@ -1,0 +1,34 @@
+
+Uihuiguiyezizuo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+z1
+  rotate: false
+  xy: 448, 212
+  size: 261, 270
+  orig: 261, 270
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 448, 40
+  size: 170, 273
+  orig: 170, 273
+  offset: 0, 0
+  index: -1
+z3
+  rotate: true
+  xy: 235, 50
+  size: 432, 211
+  orig: 432, 211
+  offset: 0, 0
+  index: -1
+z4
+  rotate: true
+  xy: 2, 2
+  size: 480, 231
+  orig: 480, 231
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,195 @@
+
+NuoketiHit.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: true
+  xy: 675, 343
+  size: 91, 135
+  orig: 91, 135
+  offset: 0, 0
+  index: -1
+erduo1
+  rotate: true
+  xy: 538, 342
+  size: 92, 135
+  orig: 92, 135
+  offset: 0, 0
+  index: -1
+erduo2
+  rotate: false
+  xy: 767, 464
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: true
+  xy: 634, 212
+  size: 128, 245
+  orig: 128, 245
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 733, 2
+  size: 212, 141
+  orig: 212, 141
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 2, 15
+  size: 89, 235
+  orig: 89, 235
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: true
+  xy: 2, 319
+  size: 696, 410
+  orig: 699, 410
+  offset: 0, 0
+  index: -1
+hou
+  rotate: true
+  xy: 414, 436
+  size: 579, 351
+  orig: 579, 364
+  offset: 0, 13
+  index: -1
+lei1
+  rotate: true
+  xy: 939, 244
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+lei2
+  rotate: true
+  xy: 949, 198
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 767, 558
+  size: 457, 361
+  orig: 457, 361
+  offset: 0, 0
+  index: -1
+mei1
+  rotate: true
+  xy: 337, 131
+  size: 53, 192
+  orig: 53, 192
+  offset: 0, 0
+  index: -1
+mei2
+  rotate: false
+  xy: 531, 144
+  size: 169, 40
+  orig: 169, 40
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 106
+  size: 333, 211
+  orig: 341, 211
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 806, 168
+  size: 42, 141
+  orig: 42, 141
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 895, 518
+  size: 134, 38
+  orig: 134, 38
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 337, 186
+  size: 131, 295
+  orig: 131, 295
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: false
+  xy: 947, 2
+  size: 162, 164
+  orig: 162, 164
+  offset: 0, 0
+  index: -1
+yy2
+  rotate: true
+  xy: 414, 323
+  size: 111, 122
+  orig: 111, 122
+  offset: 0, 0
+  index: -1
+yy3
+  rotate: false
+  xy: 239, 3
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+zhuangs
+  rotate: false
+  xy: 812, 358
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1
+zhuangs2
+  rotate: true
+  xy: 881, 291
+  size: 65, 59
+  orig: 65, 60
+  offset: 0, 1
+  index: -1
+zhuuangs3
+  rotate: false
+  xy: 881, 221
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: true
+  xy: 895, 471
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 239, 30
+  size: 199, 74
+  orig: 199, 74
+  offset: 0, 0
+  index: -1
+zuojianjia
+  rotate: false
+  xy: 702, 145
+  size: 102, 65
+  orig: 102, 65
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 440, 9
+  size: 291, 120
+  orig: 291, 123
+  offset: 0, 2
+  index: -1

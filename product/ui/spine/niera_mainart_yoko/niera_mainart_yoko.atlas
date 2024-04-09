@@ -1,0 +1,404 @@
+
+niera_mainart_yoko.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bai_1
+  rotate: true
+  xy: 1699, 1930
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+bai_2
+  rotate: true
+  xy: 1699, 1930
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+bai_3
+  rotate: true
+  xy: 1699, 1930
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+bai_4
+  rotate: true
+  xy: 1699, 1930
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+bai_41
+  rotate: true
+  xy: 1699, 1930
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+bai_5
+  rotate: true
+  xy: 766, 1839
+  size: 131, 146
+  orig: 131, 146
+  offset: 0, 0
+  index: -1
+bai_51
+  rotate: true
+  xy: 1240, 1798
+  size: 158, 173
+  orig: 158, 173
+  offset: 0, 0
+  index: -1
+bai_52
+  rotate: false
+  xy: 1061, 1804
+  size: 177, 156
+  orig: 177, 156
+  offset: 0, 0
+  index: -1
+bai_6
+  rotate: false
+  xy: 101, 1891
+  size: 96, 94
+  orig: 96, 94
+  offset: 0, 0
+  index: -1
+bai_7
+  rotate: false
+  xy: 626, 994
+  size: 817, 529
+  orig: 817, 529
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: true
+  xy: 330, 1984
+  size: 20, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+cao_1
+  rotate: false
+  xy: 1415, 1786
+  size: 217, 158
+  orig: 217, 169
+  offset: 0, 0
+  index: -1
+cao_2
+  rotate: false
+  xy: 569, 1859
+  size: 195, 111
+  orig: 195, 113
+  offset: 0, 0
+  index: -1
+dabi
+  rotate: true
+  xy: 695, 1974
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: true
+  xy: 353, 1984
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+dao
+  rotate: false
+  xy: 199, 1877
+  size: 254, 101
+  orig: 254, 103
+  offset: 0, 0
+  index: -1
+daosui
+  rotate: true
+  xy: 134, 1993
+  size: 11, 43
+  orig: 11, 43
+  offset: 0, 0
+  index: -1
+datui_l
+  rotate: true
+  xy: 1213, 1962
+  size: 42, 173
+  orig: 50, 185
+  offset: 4, 8
+  index: -1
+datui_r
+  rotate: true
+  xy: 1069, 1967
+  size: 37, 142
+  orig: 39, 142
+  offset: 0, 0
+  index: -1
+faku
+  rotate: true
+  xy: 2, 1995
+  size: 9, 25
+  orig: 10, 25
+  offset: 1, 0
+  index: -1
+guangyuan
+  rotate: false
+  xy: 2, 2
+  size: 1775, 990
+  orig: 1775, 990
+  offset: 0, 0
+  index: -1
+hui_1
+  rotate: false
+  xy: 914, 1835
+  size: 145, 132
+  orig: 145, 132
+  offset: 0, 0
+  index: -1
+hui_2
+  rotate: false
+  xy: 914, 1835
+  size: 145, 132
+  orig: 145, 132
+  offset: 0, 0
+  index: -1
+hui_5
+  rotate: false
+  xy: 914, 1835
+  size: 145, 132
+  orig: 145, 132
+  offset: 0, 0
+  index: -1
+hui_7
+  rotate: false
+  xy: 914, 1835
+  size: 145, 132
+  orig: 145, 132
+  offset: 0, 0
+  index: -1
+hui_3
+  rotate: true
+  xy: 1789, 1921
+  size: 83, 96
+  orig: 83, 96
+  offset: 0, 0
+  index: -1
+hui_4
+  rotate: true
+  xy: 455, 1865
+  size: 111, 112
+  orig: 111, 112
+  offset: 0, 0
+  index: -1
+hui_6
+  rotate: true
+  xy: 2, 1901
+  size: 92, 97
+  orig: 92, 97
+  offset: 0, 0
+  index: -1
+jiaocao
+  rotate: true
+  xy: 624, 1977
+  size: 27, 69
+  orig: 28, 70
+  offset: 0, 0
+  index: -1
+qundi_2
+  rotate: true
+  xy: 179, 1987
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+qunzi_1
+  rotate: false
+  xy: 1887, 1921
+  size: 99, 83
+  orig: 99, 85
+  offset: 0, 2
+  index: -1
+qunzi_2
+  rotate: true
+  xy: 200, 1986
+  size: 18, 44
+  orig: 19, 45
+  offset: 0, 1
+  index: -1
+shenti
+  rotate: true
+  xy: 1388, 1958
+  size: 46, 63
+  orig: 54, 63
+  offset: 4, 0
+  index: -1
+shou
+  rotate: false
+  xy: 557, 1978
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+shouhua
+  rotate: true
+  xy: 762, 1972
+  size: 32, 42
+  orig: 33, 43
+  offset: 1, 1
+  index: -1
+shuye_1
+  rotate: true
+  xy: 466, 1597
+  size: 240, 314
+  orig: 240, 314
+  offset: 0, 0
+  index: -1
+shuye_2
+  rotate: true
+  xy: 1453, 1954
+  size: 50, 153
+  orig: 50, 157
+  offset: 0, 0
+  index: -1
+shuye_3
+  rotate: true
+  xy: 2, 1672
+  size: 203, 230
+  orig: 234, 245
+  offset: 0, 0
+  index: -1
+shuye_4
+  rotate: true
+  xy: 234, 1637
+  size: 226, 230
+  orig: 226, 230
+  offset: 0, 0
+  index: -1
+shuye_5
+  rotate: true
+  xy: 2, 1159
+  size: 436, 622
+  orig: 440, 622
+  offset: 4, 0
+  index: -1
+shuye_6
+  rotate: false
+  xy: 1634, 1745
+  size: 274, 174
+  orig: 275, 174
+  offset: 0, 0
+  index: -1
+shuye_7
+  rotate: true
+  xy: 1188, 1525
+  size: 259, 435
+  orig: 261, 435
+  offset: 2, 0
+  index: -1
+shuye_8
+  rotate: true
+  xy: 782, 1549
+  size: 253, 404
+  orig: 315, 435
+  offset: 62, 0
+  index: -1
+tengman_1
+  rotate: true
+  xy: 806, 1972
+  size: 32, 120
+  orig: 32, 121
+  offset: 0, 1
+  index: -1
+tengman_2
+  rotate: true
+  xy: 973, 1969
+  size: 35, 94
+  orig: 35, 94
+  offset: 0, 0
+  index: -1
+tengman_4
+  rotate: true
+  xy: 1608, 1946
+  size: 58, 89
+  orig: 58, 89
+  offset: 0, 0
+  index: -1
+tengman_5
+  rotate: true
+  xy: 29, 1995
+  size: 9, 103
+  orig: 9, 103
+  offset: 0, 0
+  index: -1
+terngman_3
+  rotate: false
+  xy: 387, 1980
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 484, 1979
+  size: 25, 28
+  orig: 31, 29
+  offset: 1, 1
+  index: -1
+toufa_1
+  rotate: true
+  xy: 589, 1978
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+toufa_2
+  rotate: true
+  xy: 290, 1985
+  size: 19, 38
+  orig: 20, 38
+  offset: 1, 0
+  index: -1
+toufa_3
+  rotate: true
+  xy: 444, 1980
+  size: 24, 38
+  orig: 25, 40
+  offset: 1, 0
+  index: -1
+toufa_4
+  rotate: true
+  xy: 246, 1986
+  size: 18, 42
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+toufa_5
+  rotate: true
+  xy: 514, 1979
+  size: 25, 41
+  orig: 25, 41
+  offset: 0, 0
+  index: -1
+xiaobi
+  rotate: false
+  xy: 928, 1971
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+
+niera_mainart_yoko2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2
+  size: 1775, 998
+  orig: 1775, 998
+  offset: 0, 0
+  index: -1

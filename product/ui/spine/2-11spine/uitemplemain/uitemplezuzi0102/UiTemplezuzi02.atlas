@@ -1,0 +1,13 @@
+
+UiTemplezuzi02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ye2
+  rotate: false
+  xy: 2, 2
+  size: 330, 202
+  orig: 330, 202
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+YufuRole.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 1800, 90
+  size: 214, 224
+  orig: 223, 224
+  offset: 9, 0
+  index: -1
+hounao
+  rotate: false
+  xy: 1514, 33
+  size: 284, 281
+  orig: 284, 281
+  offset: 0, 0
+  index: -1
+kouzhao
+  rotate: true
+  xy: 1828, 681
+  size: 298, 197
+  orig: 298, 197
+  offset: 0, 0
+  index: -1
+kouzhaohou
+  rotate: true
+  xy: 1416, 33
+  size: 231, 91
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+shoul
+  rotate: true
+  xy: 772, 173
+  size: 282, 642
+  orig: 302, 642
+  offset: 20, 0
+  index: -1
+shour
+  rotate: false
+  xy: 1523, 316
+  size: 303, 663
+  orig: 334, 664
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 88
+  size: 266, 304
+  orig: 266, 304
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 1898, 15
+  size: 73, 113
+  orig: 73, 113
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 1800, 2
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1828, 371
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 308, 223
+  size: 131, 142
+  orig: 131, 142
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 1828, 446
+  size: 145, 233
+  orig: 145, 233
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: false
+  xy: 1416, 266
+  size: 96, 189
+  orig: 97, 189
+  offset: 0, 0
+  index: -1
+waigau
+  rotate: true
+  xy: 772, 457
+  size: 522, 749
+  orig: 522, 749
+  offset: 0, 0
+  index: -1
+yanpi1
+  rotate: true
+  xy: 1932, 353
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+yanpi2
+  rotate: true
+  xy: 1975, 595
+  size: 84, 68
+  orig: 84, 68
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 2, 356
+  size: 623, 768
+  orig: 623, 787
+  offset: 0, 0
+  index: -1

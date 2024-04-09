@@ -1,0 +1,76 @@
+
+UiGoldenMinerMao02Run.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 2, 56
+  size: 454, 228
+  orig: 454, 230
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 611, 151
+  size: 359, 333
+  orig: 359, 333
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 611, 2
+  size: 147, 338
+  orig: 147, 338
+  offset: 0, 0
+  index: -1
+youhoutui
+  rotate: true
+  xy: 1175, 295
+  size: 215, 204
+  orig: 215, 204
+  offset: 0, 0
+  index: -1
+youmeimao
+  rotate: true
+  xy: 232, 33
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+youqiantui
+  rotate: true
+  xy: 946, 238
+  size: 272, 227
+  orig: 272, 227
+  offset: 0, 0
+  index: -1
+zao
+  rotate: true
+  xy: 232, 114
+  size: 396, 377
+  orig: 396, 377
+  offset: 0, 0
+  index: -1
+zuohoutui
+  rotate: true
+  xy: 1100, 18
+  size: 218, 189
+  orig: 218, 189
+  offset: 0, 0
+  index: -1
+zuomeimao
+  rotate: true
+  xy: 292, 41
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+zuoqiantui
+  rotate: true
+  xy: 951, 2
+  size: 234, 147
+  orig: 234, 147
+  offset: 0, 0
+  index: -1

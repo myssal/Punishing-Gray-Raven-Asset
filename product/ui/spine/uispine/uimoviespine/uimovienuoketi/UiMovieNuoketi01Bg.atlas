@@ -1,0 +1,67 @@
+
+UiMovieNuoketi01Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan1
+  rotate: false
+  xy: 2, 2
+  size: 1855, 627
+  orig: 1855, 638
+  offset: 0, 11
+  index: -1
+yun1.1
+  rotate: false
+  xy: 2, 1160
+  size: 952, 527
+  orig: 952, 527
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 956, 1160
+  size: 952, 527
+  orig: 953, 529
+  offset: 0, 1
+  index: -1
+yun3
+  rotate: false
+  xy: 2, 631
+  size: 950, 527
+  orig: 951, 529
+  offset: 0, 1
+  index: -1
+
+UiMovieNuoketi01Bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj2
+  rotate: false
+  xy: 2, 2
+  size: 1920, 1949
+  orig: 1920, 1949
+  offset: 0, 0
+  index: -1
+
+UiMovieNuoketi01Bg3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiankong
+  rotate: false
+  xy: 2, 2
+  size: 1554, 1035
+  orig: 1554, 1035
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 2, 1039
+  size: 1920, 1007
+  orig: 1920, 1071
+  offset: 0, 63
+  index: -1

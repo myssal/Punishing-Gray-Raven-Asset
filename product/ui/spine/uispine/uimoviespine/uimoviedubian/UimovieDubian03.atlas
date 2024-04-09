@@ -1,0 +1,466 @@
+
+UimovieDubian03.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1daizi
+  rotate: true
+  xy: 686, 1560
+  size: 67, 154
+  orig: 67, 154
+  offset: 0, 0
+  index: -1
+1dyshenti
+  rotate: true
+  xy: 1240, 1536
+  size: 84, 407
+  orig: 84, 407
+  offset: 0, 0
+  index: -1
+1dytui
+  rotate: true
+  xy: 412, 1566
+  size: 61, 272
+  orig: 61, 272
+  offset: 0, 0
+  index: -1
+1houfa1
+  rotate: true
+  xy: 1451, 1622
+  size: 47, 54
+  orig: 52, 54
+  offset: 5, 0
+  index: -1
+1houfa2
+  rotate: true
+  xy: 1507, 1622
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+1houfa3
+  rotate: true
+  xy: 500, 1634
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+1lian
+  rotate: true
+  xy: 1160, 1624
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+1pifeng1
+  rotate: false
+  xy: 1649, 1529
+  size: 146, 90
+  orig: 146, 90
+  offset: 0, 0
+  index: -1
+1pifeng2
+  rotate: false
+  xy: 171, 1312
+  size: 222, 179
+  orig: 222, 179
+  offset: 0, 0
+  index: -1
+1pifeng3
+  rotate: false
+  xy: 1797, 1505
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+1role1z
+  rotate: false
+  xy: 1758, 1004
+  size: 243, 445
+  orig: 245, 446
+  offset: 2, 1
+  index: -1
+1role1z2
+  rotate: true
+  xy: 1350, 759
+  size: 243, 475
+  orig: 245, 475
+  offset: 2, 0
+  index: -1
+1shenti1
+  rotate: true
+  xy: 2, 1493
+  size: 84, 401
+  orig: 84, 401
+  offset: 0, 0
+  index: -1
+1shenti2
+  rotate: true
+  xy: 159, 1579
+  size: 58, 251
+  orig: 58, 251
+  offset: 0, 0
+  index: -1
+1shuiwen
+  rotate: true
+  xy: 797, 434
+  size: 552, 489
+  orig: 552, 489
+  offset: 0, 0
+  index: -1
+1tfs1
+  rotate: true
+  xy: 206, 1649
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+1tfs2
+  rotate: true
+  xy: 272, 1646
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+1tfs3
+  rotate: false
+  xy: 334, 1642
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+1tfs4
+  rotate: true
+  xy: 241, 1647
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+1tfs5
+  rotate: true
+  xy: 152, 1653
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+1tfx1
+  rotate: true
+  xy: 51, 1661
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+1tfx2
+  rotate: true
+  xy: 71, 1660
+  size: 9, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+1tfx3
+  rotate: true
+  xy: 94, 1660
+  size: 9, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+1tfy1
+  rotate: true
+  xy: 171, 1653
+  size: 16, 33
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+1tfy2
+  rotate: true
+  xy: 117, 1658
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+1tfz
+  rotate: true
+  xy: 12, 1664
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1
+1xiabai
+  rotate: true
+  xy: 2, 1335
+  size: 156, 167
+  orig: 160, 167
+  offset: 0, 0
+  index: -1
+1yanqiou
+  rotate: false
+  xy: 27, 1664
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+1yanxian
+  rotate: false
+  xy: 2, 1666
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+1yanyy
+  rotate: false
+  xy: 38, 1663
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+1yaojia
+  rotate: false
+  xy: 1953, 1569
+  size: 67, 100
+  orig: 67, 100
+  offset: 0, 0
+  index: -1
+1youshou
+  rotate: true
+  xy: 2, 1595
+  size: 56, 155
+  orig: 56, 155
+  offset: 0, 0
+  index: -1
+1zuoshou
+  rotate: true
+  xy: 542, 1631
+  size: 38, 139
+  orig: 38, 139
+  offset: 0, 0
+  index: -1
+2dyyoutui
+  rotate: true
+  xy: 1212, 1623
+  size: 46, 237
+  orig: 46, 237
+  offset: 0, 0
+  index: -1
+2dyzuotui
+  rotate: true
+  xy: 904, 1627
+  size: 42, 254
+  orig: 46, 254
+  offset: 4, 0
+  index: -1
+2piaodai1
+  rotate: true
+  xy: 842, 1551
+  size: 74, 109
+  orig: 74, 109
+  offset: 0, 0
+  index: -1
+2piaodai2
+  rotate: true
+  xy: 367, 1639
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+2pifeng1
+  rotate: false
+  xy: 577, 1415
+  size: 205, 143
+  orig: 205, 143
+  offset: 0, 0
+  index: -1
+2pifeng1.2
+  rotate: false
+  xy: 434, 1636
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+2pifeng2
+  rotate: true
+  xy: 1910, 1451
+  size: 116, 125
+  orig: 116, 125
+  offset: 0, 0
+  index: -1
+2shenti
+  rotate: true
+  xy: 1574, 1374
+  size: 153, 182
+  orig: 167, 182
+  offset: 14, 0
+  index: -1
+2shuiwen
+  rotate: false
+  xy: 2, 286
+  size: 622, 384
+  orig: 622, 384
+  offset: 0, 0
+  index: -1
+2tou
+  rotate: true
+  xy: 1794, 1621
+  size: 48, 54
+  orig: 48, 54
+  offset: 0, 0
+  index: -1
+2xiabai
+  rotate: true
+  xy: 405, 1435
+  size: 129, 170
+  orig: 129, 170
+  offset: 0, 0
+  index: -1
+2yaojia
+  rotate: true
+  xy: 1850, 1618
+  size: 51, 101
+  orig: 51, 101
+  offset: 0, 0
+  index: -1
+2youtui
+  rotate: true
+  xy: 1557, 1622
+  size: 47, 235
+  orig: 47, 235
+  offset: 0, 0
+  index: -1
+2zuotui
+  rotate: true
+  xy: 683, 1629
+  size: 40, 219
+  orig: 40, 219
+  offset: 0, 0
+  index: -1
+caihng2.1
+  rotate: false
+  xy: 1288, 432
+  size: 569, 325
+  orig: 569, 325
+  offset: 0, 0
+  index: -1
+caihong1
+  rotate: true
+  xy: 953, 1539
+  size: 82, 285
+  orig: 82, 285
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 988
+  size: 1346, 171
+  orig: 1346, 173
+  offset: 0, 1
+  index: -1
+guang4
+  rotate: false
+  xy: 2, 672
+  size: 793, 314
+  orig: 795, 316
+  offset: 1, 2
+  index: -1
+hb1
+  rotate: true
+  xy: 784, 1402
+  size: 135, 421
+  orig: 147, 421
+  offset: 12, 0
+  index: -1
+hb2
+  rotate: true
+  xy: 1207, 1399
+  size: 135, 365
+  orig: 135, 365
+  offset: 0, 0
+  index: -1
+hb3
+  rotate: true
+  xy: 395, 1227
+  size: 186, 349
+  orig: 186, 349
+  offset: 0, 0
+  index: -1
+hb4
+  rotate: true
+  xy: 746, 1226
+  size: 174, 429
+  orig: 174, 429
+  offset: 0, 0
+  index: -1
+qjy.1
+  rotate: false
+  xy: 626, 2
+  size: 774, 428
+  orig: 774, 428
+  offset: 0, 0
+  index: -1
+qjy.2
+  rotate: true
+  xy: 1177, 1161
+  size: 211, 558
+  orig: 211, 558
+  offset: 0, 0
+  index: -1
+qjy.3
+  rotate: true
+  xy: 298, 1644
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+
+UimovieDubian032.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj2
+  rotate: false
+  xy: 2, 2
+  size: 1920, 601
+  orig: 1920, 601
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 867, 605
+  size: 746, 648
+  orig: 750, 650
+  offset: 2, 2
+  index: -1
+qjz
+  rotate: false
+  xy: 2, 762
+  size: 863, 491
+  orig: 863, 491
+  offset: 0, 0
+  index: -1
+
+UimovieDubian033.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: false
+  xy: 2, 921
+  size: 1921, 1081
+  orig: 1921, 1081
+  offset: 0, 0
+  index: -1
+bjg2
+  rotate: false
+  xy: 987, 92
+  size: 890, 827
+  orig: 890, 827
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: true
+  xy: 2, 2
+  size: 917, 983
+  orig: 931, 1023
+  offset: 4, 0
+  index: -1

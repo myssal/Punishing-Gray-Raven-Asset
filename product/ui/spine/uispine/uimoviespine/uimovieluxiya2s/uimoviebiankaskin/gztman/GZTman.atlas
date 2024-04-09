@@ -1,0 +1,41 @@
+
+GZTman.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hubir
+  rotate: true
+  xy: 2, 673
+  size: 183, 385
+  orig: 183, 385
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 942, 2
+  size: 550, 889
+  orig: 551, 889
+  offset: 0, 0
+  index: -1
+shoul
+  rotate: true
+  xy: 2, 45
+  size: 507, 938
+  orig: 507, 938
+  offset: 0, 0
+  index: -1
+shour
+  rotate: true
+  xy: 762, 554
+  size: 302, 968
+  orig: 302, 968
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 389, 597
+  size: 259, 371
+  orig: 260, 371
+  offset: 1, 0
+  index: -1

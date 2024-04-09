@@ -1,0 +1,20 @@
+
+UiTempleMainShu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuyou
+  rotate: false
+  xy: 2, 2
+  size: 365, 494
+  orig: 365, 494
+  offset: 0, 0
+  index: -1
+shuzuo
+  rotate: false
+  xy: 369, 100
+  size: 208, 396
+  orig: 238, 396
+  offset: 0, 0
+  index: -1

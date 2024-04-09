@@ -1,0 +1,69 @@
+
+WuZangNormal.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti1
+  rotate: true
+  xy: 611, 636
+  size: 339, 261
+  orig: 341, 263
+  offset: 1, 1
+  index: -1
+shenti2
+  rotate: false
+  xy: 435, 138
+  size: 247, 91
+  orig: 249, 93
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 2, 402
+  size: 607, 573
+  orig: 607, 573
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 435, 231
+  size: 169, 154
+  orig: 169, 154
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: true
+  xy: 611, 395
+  size: 239, 227
+  orig: 241, 229
+  offset: 1, 1
+  index: -1
+youshou3
+  rotate: false
+  xy: 243, 202
+  size: 190, 198
+  orig: 192, 200
+  offset: 1, 1
+  index: -1
+zuoshou1
+  rotate: false
+  xy: 2, 17
+  size: 169, 154
+  orig: 169, 154
+  offset: 0, 0
+  index: -1
+zuoshou2
+  rotate: false
+  xy: 2, 173
+  size: 239, 227
+  orig: 241, 229
+  offset: 1, 1
+  index: -1
+zuoshou3
+  rotate: false
+  xy: 243, 2
+  size: 190, 198
+  orig: 192, 200
+  offset: 1, 1
+  index: -1

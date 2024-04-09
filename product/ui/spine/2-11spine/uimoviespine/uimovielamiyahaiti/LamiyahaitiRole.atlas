@@ -1,0 +1,188 @@
+
+LamiyahaitiRole.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiyanzhu1
+  rotate: false
+  xy: 474, 245
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+baiyanzhu2
+  rotate: false
+  xy: 501, 308
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+er
+  rotate: true
+  xy: 134, 22
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+gaoguang1
+  rotate: false
+  xy: 286, 9
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+gaoguang2
+  rotate: true
+  xy: 63, 2
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: false
+  xy: 286, 17
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+meimao2
+  rotate: true
+  xy: 503, 337
+  size: 45, 7
+  orig: 45, 7
+  offset: 0, 0
+  index: -1
+mmbq1
+  rotate: true
+  xy: 477, 80
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+mmbq2
+  rotate: true
+  xy: 474, 456
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+mmbq3
+  rotate: false
+  xy: 2, 2
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+mmbq4
+  rotate: false
+  xy: 183, 3
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+mmbq5
+  rotate: true
+  xy: 474, 321
+  size: 61, 27
+  orig: 61, 27
+  offset: 0, 0
+  index: -1
+mmbq6
+  rotate: false
+  xy: 63, 17
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+mmjiemao1
+  rotate: true
+  xy: 474, 384
+  size: 70, 31
+  orig: 70, 31
+  offset: 0, 0
+  index: -1
+mmjiemao2
+  rotate: true
+  xy: 474, 259
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+tf1
+  rotate: true
+  xy: 400, 142
+  size: 101, 86
+  orig: 101, 86
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: true
+  xy: 2, 53
+  size: 133, 186
+  orig: 133, 186
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: true
+  xy: 190, 40
+  size: 203, 208
+  orig: 203, 208
+  offset: 0, 0
+  index: -1
+tf4
+  rotate: false
+  xy: 175, 255
+  size: 159, 255
+  orig: 159, 255
+  offset: 0, 0
+  index: -1
+tf5
+  rotate: true
+  xy: 336, 245
+  size: 265, 136
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+tf6
+  rotate: false
+  xy: 400, 44
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+tf7
+  rotate: false
+  xy: 2, 188
+  size: 171, 322
+  orig: 171, 322
+  offset: 0, 0
+  index: -1
+tongkong1
+  rotate: false
+  xy: 501, 296
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+tongkong2
+  rotate: false
+  xy: 175, 242
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 477, 38
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 240, 6
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1

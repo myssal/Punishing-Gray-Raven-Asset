@@ -1,0 +1,83 @@
+
+ChaolifuDarkSkinBg2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing2
+  rotate: false
+  xy: 2, 187
+  size: 1323, 754
+  orig: 1323, 754
+  offset: 0, 0
+  index: -1
+fuyoupao1
+  rotate: false
+  xy: 1327, 294
+  size: 368, 647
+  orig: 368, 647
+  offset: 0, 0
+  index: -1
+fuyoupao2
+  rotate: false
+  xy: 1327, 2
+  size: 291, 290
+  orig: 291, 290
+  offset: 0, 0
+  index: -1
+hd1a
+  rotate: true
+  xy: 1697, 300
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+hd1b
+  rotate: true
+  xy: 1697, 341
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+hd1c
+  rotate: false
+  xy: 1735, 211
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+hd2a
+  rotate: true
+  xy: 1774, 346
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+hd2b
+  rotate: true
+  xy: 1620, 211
+  size: 81, 113
+  orig: 81, 113
+  offset: 0, 0
+  index: -1
+hd2c
+  rotate: false
+  xy: 1762, 221
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+shoushi5
+  rotate: true
+  xy: 1735, 260
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: true
+  xy: 1697, 395
+  size: 546, 186
+  orig: 546, 186
+  offset: 0, 0
+  index: -1

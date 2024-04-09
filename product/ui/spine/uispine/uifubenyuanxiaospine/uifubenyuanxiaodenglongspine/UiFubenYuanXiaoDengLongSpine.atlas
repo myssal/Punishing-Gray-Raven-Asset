@@ -1,0 +1,48 @@
+
+UiFubenYuanXiaoDengLongSpine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 2, 2
+  size: 502, 489
+  orig: 504, 491
+  offset: 1, 1
+  index: -1
+hua
+  rotate: false
+  xy: 506, 296
+  size: 176, 195
+  orig: 176, 195
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 506, 258
+  size: 29, 36
+  orig: 31, 38
+  offset: 1, 1
+  index: -1
+hua2
+  rotate: true
+  xy: 506, 139
+  size: 31, 23
+  orig: 33, 25
+  offset: 1, 1
+  index: -1
+hua3
+  rotate: true
+  xy: 506, 213
+  size: 43, 24
+  orig: 45, 26
+  offset: 1, 1
+  index: -1
+hua4
+  rotate: true
+  xy: 506, 172
+  size: 39, 23
+  orig: 41, 25
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,125 @@
+
+ShibingWoman.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 806, 588
+  size: 117, 134
+  orig: 117, 134
+  offset: 0, 0
+  index: -1
+dabir
+  rotate: false
+  xy: 423, 347
+  size: 252, 353
+  orig: 252, 353
+  offset: 0, 0
+  index: -1
+houfa1
+  rotate: true
+  xy: 806, 529
+  size: 57, 232
+  orig: 57, 232
+  offset: 0, 0
+  index: -1
+houfa2
+  rotate: true
+  xy: 747, 251
+  size: 123, 317
+  orig: 123, 317
+  offset: 0, 0
+  index: -1
+jingshi
+  rotate: false
+  xy: 929, 765
+  size: 145, 87
+  orig: 145, 88
+  offset: 0, 0
+  index: -1
+mianju
+  rotate: false
+  xy: 717, 837
+  size: 160, 183
+  orig: 160, 183
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 228
+  size: 419, 792
+  orig: 419, 792
+  offset: 0, 0
+  index: -1
+shoul
+  rotate: true
+  xy: 2, 52
+  size: 174, 738
+  orig: 174, 738
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 742, 8
+  size: 223, 266
+  orig: 223, 266
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 925, 655
+  size: 67, 189
+  orig: 67, 189
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 677, 376
+  size: 127, 324
+  orig: 127, 325
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 717, 724
+  size: 111, 210
+  orig: 111, 210
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: true
+  xy: 423, 233
+  size: 112, 322
+  orig: 114, 322
+  offset: 2, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 879, 854
+  size: 111, 166
+  orig: 111, 166
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: false
+  xy: 1010, 2
+  size: 128, 247
+  orig: 128, 247
+  offset: 0, 0
+  index: -1
+toufa7
+  rotate: true
+  xy: 2, 24
+  size: 26, 142
+  orig: 26, 142
+  offset: 0, 0
+  index: -1
+xiaobir
+  rotate: false
+  xy: 423, 702
+  size: 292, 318
+  orig: 292, 318
+  offset: 0, 0
+  index: -1

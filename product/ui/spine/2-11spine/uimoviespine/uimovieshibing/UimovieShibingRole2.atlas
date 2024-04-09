@@ -1,0 +1,181 @@
+
+UimovieShibingRole2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozhi
+  rotate: false
+  xy: 937, 385
+  size: 179, 185
+  orig: 179, 185
+  offset: 0, 0
+  index: -1
+tf16
+  rotate: false
+  xy: 326, 8
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+tf17
+  rotate: true
+  xy: 124, 8
+  size: 26, 89
+  orig: 26, 89
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: false
+  xy: 904, 8
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+toushi3
+  rotate: true
+  xy: 0, 13
+  size: 21, 122
+  orig: 21, 122
+  offset: 0, 0
+  index: -1
+yif1
+  rotate: false
+  xy: 407, 441
+  size: 193, 583
+  orig: 193, 583
+  offset: 0, 0
+  index: -1
+yif10
+  rotate: false
+  xy: 680, 397
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+yif11
+  rotate: true
+  xy: 267, 11
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+yif3
+  rotate: false
+  xy: 994, 10
+  size: 67, 100
+  orig: 67, 100
+  offset: 0, 0
+  index: -1
+yif4
+  rotate: true
+  xy: 0, 36
+  size: 316, 647
+  orig: 316, 655
+  offset: 0, 0
+  index: -1
+yif5
+  rotate: false
+  xy: 0, 354
+  size: 405, 670
+  orig: 405, 670
+  offset: 0, 0
+  index: -1
+yif6
+  rotate: false
+  xy: 602, 446
+  size: 333, 114
+  orig: 333, 114
+  offset: 0, 0
+  index: -1
+yif7
+  rotate: true
+  xy: 649, 112
+  size: 245, 380
+  orig: 245, 380
+  offset: 0, 0
+  index: -1
+yif8
+  rotate: true
+  xy: 1031, 181
+  size: 202, 162
+  orig: 202, 162
+  offset: 0, 0
+  index: -1
+yif9
+  rotate: true
+  xy: 602, 892
+  size: 132, 586
+  orig: 132, 586
+  offset: 0, 0
+  index: -1
+yifyif2
+  rotate: true
+  xy: 583, 359
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+youdabi
+  rotate: true
+  xy: 407, 363
+  size: 76, 174
+  orig: 76, 174
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 773, 564
+  size: 153, 326
+  orig: 153, 326
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: true
+  xy: 649, 15
+  size: 95, 253
+  orig: 95, 253
+  offset: 0, 0
+  index: -1
+youyanbai
+  rotate: false
+  xy: 215, 0
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+youyanzhu
+  rotate: true
+  xy: 344, 11
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+zuodabi
+  rotate: false
+  xy: 602, 562
+  size: 169, 328
+  orig: 169, 328
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 928, 572
+  size: 151, 318
+  orig: 151, 318
+  offset: 0, 0
+  index: -1
+zuoyanbai
+  rotate: false
+  xy: 215, 17
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+zuoyanzhu
+  rotate: true
+  xy: 304, 9
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1

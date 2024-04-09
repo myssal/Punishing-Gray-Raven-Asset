@@ -1,0 +1,160 @@
+
+UimovieJisiRole2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hpiaodai
+  rotate: true
+  xy: 742, 621
+  size: 569, 285
+  orig: 569, 285
+  offset: 0, 0
+  index: -1
+l_fadai
+  rotate: true
+  xy: 247, 287
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+l_fadai2
+  rotate: false
+  xy: 426, 1142
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+l_piaodai
+  rotate: true
+  xy: 1192, 1550
+  size: 385, 424
+  orig: 385, 424
+  offset: 0, 0
+  index: -1
+l_shoubi
+  rotate: true
+  xy: 426, 1192
+  size: 318, 633
+  orig: 318, 633
+  offset: 0, 0
+  index: -1
+lh10
+  rotate: false
+  xy: 237, 60
+  size: 68, 163
+  orig: 68, 163
+  offset: 0, 0
+  index: -1
+r_fadai
+  rotate: true
+  xy: 247, 234
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+r_fadai2
+  rotate: true
+  xy: 492, 1149
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+r_piaodai
+  rotate: true
+  xy: 0, 364
+  size: 254, 342
+  orig: 254, 342
+  offset: 0, 0
+  index: -1
+r_shoubi
+  rotate: true
+  xy: 742, 405
+  size: 214, 633
+  orig: 214, 633
+  offset: 0, 0
+  index: -1
+shipin
+  rotate: true
+  xy: 0, 0
+  size: 362, 121
+  orig: 362, 121
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 0, 1140
+  size: 424, 795
+  orig: 424, 795
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 1061, 865
+  size: 298, 645
+  orig: 298, 645
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: true
+  xy: 123, 71
+  size: 152, 112
+  orig: 152, 112
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: true
+  xy: 0, 620
+  size: 518, 740
+  orig: 518, 740
+  offset: 0, 0
+  index: -1
+tf4
+  rotate: true
+  xy: 123, 225
+  size: 137, 122
+  orig: 137, 122
+  offset: 0, 0
+  index: -1
+tf5
+  rotate: false
+  xy: 662, 403
+  size: 64, 215
+  orig: 64, 215
+  offset: 0, 0
+  index: -1
+tf6
+  rotate: false
+  xy: 511, 347
+  size: 149, 271
+  orig: 154, 271
+  offset: 0, 0
+  index: -1
+tf7
+  rotate: true
+  xy: 426, 1512
+  size: 423, 764
+  orig: 423, 764
+  offset: 0, 0
+  index: -1
+tf8
+  rotate: false
+  xy: 344, 103
+  size: 135, 284
+  orig: 135, 284
+  offset: 0, 0
+  index: -1
+tf9
+  rotate: false
+  xy: 1361, 1336
+  size: 52, 212
+  orig: 52, 212
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 344, 389
+  size: 229, 165
+  orig: 229, 165
+  offset: 0, 0
+  index: -1

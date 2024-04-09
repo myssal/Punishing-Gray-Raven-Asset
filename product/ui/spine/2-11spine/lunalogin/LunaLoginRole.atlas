@@ -1,0 +1,537 @@
+
+LunaLoginRole.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hf1
+  rotate: false
+  xy: 618, 1501
+  size: 426, 131
+  orig: 426, 131
+  offset: 0, 0
+  index: -1
+hf2
+  rotate: false
+  xy: 2, 532
+  size: 415, 300
+  orig: 415, 300
+  offset: 0, 0
+  index: -1
+qj2
+  rotate: true
+  xy: 2, 96
+  size: 434, 797
+  orig: 592, 797
+  offset: 158, 0
+  index: -1
+qj3
+  rotate: false
+  xy: 801, 2
+  size: 1135, 414
+  orig: 1135, 414
+  offset: 0, 0
+  index: -1
+rw1
+  rotate: false
+  xy: 1134, 1857
+  size: 128, 41
+  orig: 128, 41
+  offset: 0, 0
+  index: -1
+rw10
+  rotate: false
+  xy: 106, 1883
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+rw11
+  rotate: true
+  xy: 449, 1875
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+rw12
+  rotate: false
+  xy: 63, 1884
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+rw13
+  rotate: true
+  xy: 494, 1874
+  size: 24, 75
+  orig: 24, 75
+  offset: 0, 0
+  index: -1
+rw14
+  rotate: true
+  xy: 178, 1878
+  size: 20, 89
+  orig: 20, 89
+  offset: 0, 0
+  index: -1
+rw15
+  rotate: false
+  xy: 1194, 1625
+  size: 139, 95
+  orig: 139, 95
+  offset: 0, 0
+  index: -1
+rw16
+  rotate: false
+  xy: 967, 1726
+  size: 179, 70
+  orig: 196, 70
+  offset: 17, 0
+  index: -1
+rw17
+  rotate: false
+  xy: 1879, 1781
+  size: 130, 68
+  orig: 137, 68
+  offset: 0, 0
+  index: -1
+rw18
+  rotate: true
+  xy: 282, 1749
+  size: 72, 130
+  orig: 72, 130
+  offset: 0, 0
+  index: -1
+rw19
+  rotate: false
+  xy: 1148, 1726
+  size: 177, 70
+  orig: 177, 70
+  offset: 0, 0
+  index: -1
+rw2
+  rotate: false
+  xy: 571, 1868
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+rw20
+  rotate: false
+  xy: 1356, 1446
+  size: 379, 153
+  orig: 379, 153
+  offset: 0, 0
+  index: -1
+rw21
+  rotate: true
+  xy: 1483, 1791
+  size: 59, 394
+  orig: 59, 394
+  offset: 0, 0
+  index: -1
+rw22
+  rotate: false
+  xy: 1365, 1154
+  size: 556, 176
+  orig: 574, 176
+  offset: 18, 0
+  index: -1
+rw23
+  rotate: true
+  xy: 1009, 1280
+  size: 164, 354
+  orig: 164, 354
+  offset: 0, 0
+  index: -1
+rw24
+  rotate: true
+  xy: 2, 834
+  size: 220, 612
+  orig: 220, 612
+  offset: 0, 0
+  index: -1
+rw25
+  rotate: true
+  xy: 1737, 1332
+  size: 238, 263
+  orig: 238, 263
+  offset: 0, 0
+  index: -1
+rw26
+  rotate: true
+  xy: 488, 1366
+  size: 133, 519
+  orig: 133, 519
+  offset: 0, 0
+  index: -1
+rw27
+  rotate: false
+  xy: 553, 1810
+  size: 144, 54
+  orig: 144, 54
+  offset: 0, 0
+  index: -1
+rw28
+  rotate: true
+  xy: 1654, 1853
+  size: 45, 153
+  orig: 45, 153
+  offset: 0, 0
+  index: -1
+rw29
+  rotate: false
+  xy: 1327, 1722
+  size: 80, 74
+  orig: 80, 74
+  offset: 0, 0
+  index: -1
+rw3
+  rotate: true
+  xy: 2, 1376
+  size: 132, 484
+  orig: 132, 484
+  offset: 0, 0
+  index: -1
+rw30
+  rotate: false
+  xy: 781, 872
+  size: 403, 208
+  orig: 403, 208
+  offset: 0, 0
+  index: -1
+rw31
+  rotate: true
+  xy: 2, 1891
+  size: 7, 30
+  orig: 7, 30
+  offset: 0, 0
+  index: -1
+rw32
+  rotate: false
+  xy: 1557, 1855
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+rw33
+  rotate: false
+  xy: 1923, 1851
+  size: 112, 47
+  orig: 112, 47
+  offset: 0, 0
+  index: -1
+rw34
+  rotate: false
+  xy: 1032, 1860
+  size: 100, 38
+  orig: 100, 38
+  offset: 0, 0
+  index: -1
+rw35
+  rotate: true
+  xy: 145, 1882
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+rw36
+  rotate: true
+  xy: 34, 1885
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+rw37
+  rotate: false
+  xy: 1335, 1614
+  size: 126, 100
+  orig: 126, 100
+  offset: 0, 0
+  index: -1
+rw38
+  rotate: false
+  xy: 1264, 1856
+  size: 118, 42
+  orig: 118, 42
+  offset: 0, 0
+  index: -1
+rw39
+  rotate: true
+  xy: 1409, 1716
+  size: 73, 176
+  orig: 73, 176
+  offset: 0, 0
+  index: -1
+rw4
+  rotate: false
+  xy: 457, 1814
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+rw40
+  rotate: true
+  xy: 2, 1761
+  size: 60, 278
+  orig: 60, 278
+  offset: 0, 0
+  index: -1
+rw41
+  rotate: false
+  xy: 687, 1735
+  size: 278, 65
+  orig: 278, 65
+  offset: 0, 0
+  index: -1
+rw42
+  rotate: false
+  xy: 221, 1823
+  size: 234, 50
+  orig: 234, 52
+  offset: 0, 1
+  index: -1
+rw44
+  rotate: false
+  xy: 990, 418
+  size: 689, 328
+  orig: 689, 328
+  offset: 0, 0
+  index: -1
+rw45
+  rotate: true
+  xy: 926, 1634
+  size: 90, 266
+  orig: 90, 266
+  offset: 0, 0
+  index: -1
+rw46
+  rotate: false
+  xy: 2, 1221
+  size: 819, 143
+  orig: 819, 143
+  offset: 0, 0
+  index: -1
+rw47
+  rotate: true
+  xy: 269, 1877
+  size: 21, 178
+  orig: 21, 178
+  offset: 0, 0
+  index: -1
+rw48
+  rotate: false
+  xy: 414, 1745
+  size: 271, 63
+  orig: 314, 63
+  offset: 43, 0
+  index: -1
+rw49
+  rotate: true
+  xy: 1384, 1856
+  size: 42, 171
+  orig: 42, 171
+  offset: 0, 0
+  index: -1
+rw5
+  rotate: true
+  xy: 758, 1640
+  size: 93, 166
+  orig: 93, 166
+  offset: 0, 0
+  index: -1
+rw50
+  rotate: false
+  xy: 2, 1552
+  size: 203, 120
+  orig: 203, 120
+  offset: 0, 0
+  index: -1
+rw52
+  rotate: false
+  xy: 2, 1056
+  size: 777, 163
+  orig: 777, 163
+  offset: 0, 0
+  index: -1
+rw53
+  rotate: false
+  xy: 647, 1866
+  size: 383, 32
+  orig: 383, 32
+  offset: 0, 0
+  index: -1
+rw54
+  rotate: false
+  xy: 1186, 748
+  size: 746, 221
+  orig: 746, 221
+  offset: 0, 0
+  index: -1
+rw55
+  rotate: true
+  xy: 998, 1798
+  size: 56, 483
+  orig: 56, 483
+  offset: 0, 0
+  index: -1
+rw56
+  rotate: false
+  xy: 2, 1829
+  size: 217, 47
+  orig: 217, 47
+  offset: 0, 0
+  index: -1
+rw57
+  rotate: false
+  xy: 1264, 971
+  size: 624, 181
+  orig: 624, 181
+  offset: 0, 0
+  index: -1
+rw6
+  rotate: true
+  xy: 1046, 1469
+  size: 143, 308
+  orig: 143, 308
+  offset: 0, 0
+  index: -1
+rw8
+  rotate: true
+  xy: 823, 1082
+  size: 196, 439
+  orig: 204, 439
+  offset: 8, 0
+  index: -1
+sg1
+  rotate: false
+  xy: 207, 1527
+  size: 132, 130
+  orig: 132, 130
+  offset: 0, 0
+  index: -1
+sg2
+  rotate: false
+  xy: 1873, 1689
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+sg3
+  rotate: false
+  xy: 1785, 1709
+  size: 86, 80
+  orig: 86, 80
+  offset: 0, 0
+  index: -1
+sg4
+  rotate: true
+  xy: 341, 1525
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+sg5
+  rotate: false
+  xy: 476, 1510
+  size: 140, 136
+  orig: 140, 136
+  offset: 0, 0
+  index: -1
+tx1
+  rotate: false
+  xy: 228, 1659
+  size: 325, 84
+  orig: 325, 84
+  offset: 0, 0
+  index: -1
+tx2
+  rotate: true
+  xy: 2, 1674
+  size: 85, 224
+  orig: 85, 224
+  offset: 0, 0
+  index: -1
+tx3
+  rotate: true
+  xy: 555, 1648
+  size: 85, 201
+  orig: 85, 201
+  offset: 0, 0
+  index: -1
+tx4
+  rotate: true
+  xy: 1587, 1716
+  size: 73, 196
+  orig: 73, 196
+  offset: 0, 0
+  index: -1
+tx5
+  rotate: false
+  xy: 699, 1805
+  size: 139, 59
+  orig: 139, 59
+  offset: 0, 0
+  index: -1
+tx6
+  rotate: true
+  xy: 1809, 1852
+  size: 46, 112
+  orig: 46, 112
+  offset: 0, 0
+  index: -1
+tx7
+  rotate: true
+  xy: 1463, 1601
+  size: 113, 291
+  orig: 113, 291
+  offset: 0, 0
+  index: -1
+zj
+  rotate: true
+  xy: 1756, 1572
+  size: 115, 225
+  orig: 115, 225
+  offset: 0, 0
+  index: -1
+zjth
+  rotate: true
+  xy: 840, 1802
+  size: 62, 156
+  orig: 62, 156
+  offset: 0, 0
+  index: -1
+zxt
+  rotate: true
+  xy: 616, 628
+  size: 242, 372
+  orig: 242, 372
+  offset: 0, 0
+  index: -1
+
+LunaLoginRole2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qj1
+  rotate: false
+  xy: 351, 207
+  size: 432, 1081
+  orig: 432, 1081
+  offset: 0, 0
+  index: -1
+rw58
+  rotate: false
+  xy: 2, 1290
+  size: 1108, 580
+  orig: 1136, 580
+  offset: 28, 0
+  index: -1
+rw59
+  rotate: false
+  xy: 2, 2
+  size: 347, 1286
+  orig: 347, 1286
+  offset: 0, 0
+  index: -1

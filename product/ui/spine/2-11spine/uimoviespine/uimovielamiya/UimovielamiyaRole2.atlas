@@ -1,0 +1,202 @@
+
+UimovielamiyaRole2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 431, 27
+  size: 161, 129
+  orig: 161, 129
+  offset: 0, 0
+  index: -1
+jingshi
+  rotate: true
+  xy: 856, 214
+  size: 221, 121
+  orig: 221, 121
+  offset: 0, 0
+  index: -1
+liuhai17
+  rotate: true
+  xy: 1390, 455
+  size: 78, 111
+  orig: 78, 111
+  offset: 0, 0
+  index: -1
+liuhai18
+  rotate: false
+  xy: 1170, 299
+  size: 57, 150
+  orig: 57, 150
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 997, 451
+  size: 391, 573
+  orig: 391, 573
+  offset: 0, 0
+  index: -1
+touding
+  rotate: true
+  xy: 111, 13
+  size: 175, 83
+  orig: 175, 83
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 0, 190
+  size: 748, 834
+  orig: 774, 846
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 979, 240
+  size: 189, 195
+  orig: 189, 195
+  offset: 0, 0
+  index: -1
+xiong1
+  rotate: false
+  xy: 292, 25
+  size: 137, 163
+  orig: 144, 163
+  offset: 7, 0
+  index: -1
+y-fa2
+  rotate: false
+  xy: 756, 11
+  size: 88, 198
+  orig: 88, 198
+  offset: 0, 0
+  index: -1
+y-fa3
+  rotate: false
+  xy: 0, 0
+  size: 109, 188
+  orig: 111, 188
+  offset: 0, 0
+  index: -1
+y-fa4
+  rotate: false
+  xy: 846, 12
+  size: 49, 197
+  orig: 49, 197
+  offset: 0, 0
+  index: -1
+y-fa5
+  rotate: true
+  xy: 897, 16
+  size: 196, 332
+  orig: 196, 347
+  offset: 0, 15
+  index: -1
+y-fa6
+  rotate: true
+  xy: 1170, 244
+  size: 53, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+y-shi
+  rotate: false
+  xy: 750, 211
+  size: 104, 224
+  orig: 104, 224
+  offset: 0, 0
+  index: -1
+y-shi1
+  rotate: false
+  xy: 1390, 535
+  size: 107, 137
+  orig: 107, 137
+  offset: 0, 0
+  index: -1
+y-shi2
+  rotate: true
+  xy: 1231, 4
+  size: 40, 137
+  orig: 40, 137
+  offset: 0, 0
+  index: -1
+y-shi3
+  rotate: true
+  xy: 1576, 575
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+y-shi4
+  rotate: true
+  xy: 1503, 457
+  size: 77, 135
+  orig: 77, 135
+  offset: 0, 0
+  index: -1
+y-shou
+  rotate: false
+  xy: 1390, 674
+  size: 283, 350
+  orig: 283, 350
+  offset: 0, 0
+  index: -1
+z-fa10
+  rotate: true
+  xy: 1231, 46
+  size: 403, 474
+  orig: 403, 474
+  offset: 0, 0
+  index: -1
+z-fa11
+  rotate: true
+  xy: 1499, 536
+  size: 136, 75
+  orig: 136, 79
+  offset: 0, 4
+  index: -1
+z-fa6
+  rotate: true
+  xy: 1640, 487
+  size: 86, 70
+  orig: 86, 70
+  offset: 0, 0
+  index: -1
+z-fa7
+  rotate: false
+  xy: 669, 33
+  size: 85, 155
+  orig: 85, 155
+  offset: 0, 0
+  index: -1
+z-fa8
+  rotate: true
+  xy: 1707, 916
+  size: 108, 296
+  orig: 108, 296
+  offset: 0, 0
+  index: -1
+z-shou
+  rotate: false
+  xy: 750, 437
+  size: 245, 587
+  orig: 245, 587
+  offset: 0, 0
+  index: -1
+z-shouqi
+  rotate: false
+  xy: 562, 28
+  size: 105, 160
+  orig: 105, 160
+  offset: 0, 0
+  index: -1
+z-shouqi1
+  rotate: false
+  xy: 196, 14
+  size: 94, 174
+  orig: 94, 174
+  offset: 0, 0
+  index: -1

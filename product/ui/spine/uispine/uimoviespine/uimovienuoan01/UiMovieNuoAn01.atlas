@@ -1,0 +1,279 @@
+
+UiMovieNuoAn01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bao
+  rotate: true
+  xy: 990, 347
+  size: 494, 475
+  orig: 494, 535
+  offset: 0, 60
+  index: -1
+bj
+  rotate: false
+  xy: 2, 1387
+  size: 1122, 648
+  orig: 1122, 648
+  offset: 0, 0
+  index: -1
+duijianji
+  rotate: false
+  xy: 1789, 47
+  size: 224, 218
+  orig: 224, 218
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: false
+  xy: 1989, 1395
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: false
+  xy: 1092, 2
+  size: 220, 343
+  orig: 220, 343
+  offset: 0, 0
+  index: -1
+jianjingkuan
+  rotate: true
+  xy: 1989, 1325
+  size: 68, 33
+  orig: 68, 33
+  offset: 0, 0
+  index: -1
+liz1
+  rotate: true
+  xy: 1002, 1173
+  size: 212, 85
+  orig: 212, 119
+  offset: 0, 0
+  index: -1
+liz2
+  rotate: false
+  xy: 1126, 1285
+  size: 861, 301
+  orig: 861, 301
+  offset: 0, 0
+  index: -1
+liz3
+  rotate: true
+  xy: 1363, 888
+  size: 392, 252
+  orig: 392, 252
+  offset: 0, 0
+  index: -1
+liz4
+  rotate: true
+  xy: 1789, 267
+  size: 466, 226
+  orig: 466, 239
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 2, 71
+  size: 523, 770
+  orig: 523, 770
+  offset: 0, 0
+  index: -1
+sheng
+  rotate: false
+  xy: 1994, 1466
+  size: 37, 214
+  orig: 39, 214
+  offset: 1, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 843
+  size: 542, 998
+  orig: 595, 998
+  offset: 4, 0
+  index: -1
+tf1
+  rotate: true
+  xy: 527, 21
+  size: 130, 280
+  orig: 130, 280
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: true
+  xy: 730, 191
+  size: 128, 216
+  orig: 128, 216
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: true
+  xy: 1467, 525
+  size: 208, 220
+  orig: 208, 220
+  offset: 0, 0
+  index: -1
+tf4
+  rotate: true
+  xy: 809, 11
+  size: 178, 281
+  orig: 178, 281
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1617, 1009
+  size: 274, 361
+  orig: 274, 361
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 1994, 1773
+  size: 189, 40
+  orig: 189, 40
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 1126, 1588
+  size: 447, 866
+  orig: 447, 866
+  offset: 0, 0
+  index: -1
+youjiemao
+  rotate: false
+  xy: 1994, 2019
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+youmeimao
+  rotate: true
+  xy: 2037, 1903
+  size: 61, 6
+  orig: 61, 6
+  offset: 0, 0
+  index: -1
+youshou1
+  rotate: true
+  xy: 1314, 73
+  size: 272, 473
+  orig: 281, 485
+  offset: 0, 0
+  index: -1
+youshou2
+  rotate: false
+  xy: 730, 321
+  size: 258, 520
+  orig: 258, 520
+  offset: 0, 0
+  index: -1
+youxiajiemao
+  rotate: false
+  xy: 1994, 1964
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1
+youxiajiemao2
+  rotate: true
+  xy: 2024, 1378
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+youyanbai
+  rotate: false
+  xy: 1994, 1977
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+youyanqiu
+  rotate: false
+  xy: 1989, 1297
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+youyanxian
+  rotate: true
+  xy: 2036, 1755
+  size: 32, 5
+  orig: 32, 5
+  offset: 0, 0
+  index: -1
+zuojiemao
+  rotate: true
+  xy: 2024, 1299
+  size: 77, 18
+  orig: 77, 18
+  offset: 0, 0
+  index: -1
+zuomeimao
+  rotate: true
+  xy: 2036, 1789
+  size: 112, 10
+  orig: 112, 10
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 527, 153
+  size: 201, 688
+  orig: 201, 688
+  offset: 0, 0
+  index: -1
+zuoxiajiemao
+  rotate: false
+  xy: 1994, 2009
+  size: 48, 8
+  orig: 48, 8
+  offset: 0, 0
+  index: -1
+zuoxiajiemao2
+  rotate: true
+  xy: 2021, 1282
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+zuoxiou1
+  rotate: true
+  xy: 1617, 735
+  size: 272, 356
+  orig: 272, 356
+  offset: 0, 0
+  index: -1
+zuoxiou2
+  rotate: false
+  xy: 1089, 888
+  size: 272, 392
+  orig: 272, 392
+  offset: 0, 0
+  index: -1
+zuoyanbai
+  rotate: true
+  xy: 1994, 1682
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+zuoyangxian
+  rotate: true
+  xy: 2039, 1966
+  size: 41, 7
+  orig: 41, 7
+  offset: 0, 0
+  index: -1
+zuoyanqiu
+  rotate: false
+  xy: 1994, 1739
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1

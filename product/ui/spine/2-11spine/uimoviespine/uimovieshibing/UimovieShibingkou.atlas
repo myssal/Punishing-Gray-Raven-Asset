@@ -1,0 +1,76 @@
+
+UimovieShibingkou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 416, 117
+  size: 77, 35
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+X
+  rotate: false
+  xy: 416, 117
+  size: 77, 35
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+B
+  rotate: false
+  xy: 337, 37
+  size: 77, 35
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 416, 154
+  size: 77, 36
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 337, 191
+  size: 77, 38
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+E
+  rotate: false
+  xy: 337, 151
+  size: 77, 38
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+F
+  rotate: false
+  xy: 416, 192
+  size: 77, 37
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 337, 112
+  size: 77, 37
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+H
+  rotate: false
+  xy: 337, 74
+  size: 77, 36
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 0, 0
+  size: 229, 335
+  orig: 229, 347
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+UiGoldenMineMao03.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 0, 43
+  size: 461, 236
+  orig: 461, 236
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 627, 145
+  size: 359, 333
+  orig: 359, 333
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 962, 161
+  size: 152, 343
+  orig: 152, 343
+  offset: 0, 0
+  index: -1
+youhoutui
+  rotate: true
+  xy: 1350, 284
+  size: 220, 209
+  orig: 220, 209
+  offset: 0, 0
+  index: -1
+youmeimao
+  rotate: true
+  xy: 238, 17
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+youqiantui
+  rotate: true
+  xy: 1116, 227
+  size: 277, 232
+  orig: 277, 232
+  offset: 0, 0
+  index: -1
+zao
+  rotate: true
+  xy: 238, 98
+  size: 406, 387
+  orig: 406, 387
+  offset: 0, 0
+  index: -1
+zuohoutui
+  rotate: true
+  xy: 1203, 0
+  size: 225, 194
+  orig: 225, 194
+  offset: 0, 0
+  index: -1
+zuomeimao
+  rotate: true
+  xy: 298, 25
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+zuoqiantui
+  rotate: false
+  xy: 962, 7
+  size: 239, 152
+  orig: 239, 152
+  offset: 0, 0
+  index: -1

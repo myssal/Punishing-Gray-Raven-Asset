@@ -1,0 +1,27 @@
+
+UiRogueSimMainShu.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuy1
+  rotate: false
+  xy: 0, 245
+  size: 242, 159
+  orig: 242, 164
+  offset: 0, 5
+  index: -1
+shuz1
+  rotate: false
+  xy: 0, 85
+  size: 219, 158
+  orig: 219, 158
+  offset: 0, 0
+  index: -1
+shuz2
+  rotate: false
+  xy: 0, 0
+  size: 141, 83
+  orig: 141, 83
+  offset: 0, 0
+  index: -1

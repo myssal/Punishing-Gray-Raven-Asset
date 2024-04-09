@@ -1,0 +1,62 @@
+
+AJianNormal.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti1
+  rotate: true
+  xy: 681, 587
+  size: 349, 278
+  orig: 382, 285
+  offset: 16, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 681, 250
+  size: 335, 247
+  orig: 342, 261
+  offset: 7, 6
+  index: -1
+tou
+  rotate: false
+  xy: 2, 314
+  size: 677, 622
+  orig: 679, 624
+  offset: 2, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 2, 71
+  size: 314, 241
+  orig: 325, 243
+  offset: 5, 1
+  index: -1
+zhuangshi1
+  rotate: false
+  xy: 930, 479
+  size: 59, 106
+  orig: 61, 108
+  offset: 1, 1
+  index: -1
+zhuangshi2
+  rotate: false
+  xy: 961, 828
+  size: 57, 108
+  orig: 59, 110
+  offset: 1, 1
+  index: -1
+zhuangshi3
+  rotate: false
+  xy: 961, 716
+  size: 56, 110
+  orig: 58, 112
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: true
+  xy: 318, 2
+  size: 310, 221
+  orig: 323, 236
+  offset: 5, 10
+  index: -1

@@ -1,0 +1,411 @@
+
+ChaoLifu-SkinCG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 1258, 530
+  size: 768, 432
+  orig: 768, 432
+  offset: 0, 0
+  index: -1
+GX_01
+  rotate: true
+  xy: 2, 544
+  size: 847, 485
+  orig: 848, 486
+  offset: 1, 0
+  index: -1
+GX_h
+  rotate: true
+  xy: 794, 7
+  size: 597, 385
+  orig: 605, 403
+  offset: 1, 18
+  index: -1
+JXC_02
+  rotate: false
+  xy: 1565, 355
+  size: 475, 173
+  orig: 475, 173
+  offset: 0, 0
+  index: -1
+JXC_04
+  rotate: true
+  xy: 1565, 2
+  size: 351, 433
+  orig: 351, 433
+  offset: 0, 0
+  index: -1
+JXC_05
+  rotate: true
+  xy: 1750, 985
+  size: 306, 99
+  orig: 306, 100
+  offset: 0, 0
+  index: -1
+XYP_L
+  rotate: false
+  xy: 2, 1394
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+XYP_R
+  rotate: true
+  xy: 102, 1393
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+YJM_L
+  rotate: true
+  xy: 65, 1425
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+YJM_R
+  rotate: true
+  xy: 2038, 1749
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+YP_L
+  rotate: false
+  xy: 387, 1414
+  size: 71, 48
+  orig: 71, 48
+  offset: 0, 0
+  index: -1
+YP_R
+  rotate: true
+  xy: 339, 1411
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 1753, 1696
+  size: 82, 283
+  orig: 94, 283
+  offset: 12, 0
+  index: -1
+body
+  rotate: true
+  xy: 1753, 1780
+  size: 256, 287
+  orig: 256, 287
+  offset: 0, 0
+  index: -1
+chibang_01
+  rotate: false
+  xy: 1258, 15
+  size: 305, 513
+  orig: 305, 513
+  offset: 0, 0
+  index: -1
+erduo01
+  rotate: false
+  xy: 2, 1423
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+erduo02
+  rotate: true
+  xy: 138, 1397
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 61, 1396
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 2025, 1472
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1851, 1126
+  size: 165, 191
+  orig: 165, 191
+  offset: 0, 0
+  index: -1
+fashi_01
+  rotate: true
+  xy: 1181, 499
+  size: 105, 75
+  orig: 105, 75
+  offset: 0, 0
+  index: -1
+fashi_02
+  rotate: false
+  xy: 287, 1409
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+fashi_03
+  rotate: false
+  xy: 1181, 426
+  size: 74, 71
+  orig: 74, 71
+  offset: 0, 0
+  index: -1
+fashi_04
+  rotate: true
+  xy: 1940, 970
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+guangxiao_01
+  rotate: true
+  xy: 2025, 1428
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+guangxiao_02
+  rotate: true
+  xy: 2025, 1393
+  size: 33, 14
+  orig: 33, 14
+  offset: 0, 0
+  index: -1
+guangxiao_03
+  rotate: true
+  xy: 2038, 1742
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+guangxiao_04
+  rotate: false
+  xy: 182, 1407
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+hair_01
+  rotate: true
+  xy: 1750, 1293
+  size: 128, 262
+  orig: 128, 262
+  offset: 0, 0
+  index: -1
+hair_05
+  rotate: false
+  xy: 1851, 974
+  size: 87, 150
+  orig: 87, 150
+  offset: 0, 0
+  index: -1
+hair_06
+  rotate: false
+  xy: 398, 18
+  size: 394, 524
+  orig: 394, 526
+  offset: 0, 2
+  index: -1
+hair_061
+  rotate: false
+  xy: 2, 16
+  size: 394, 526
+  orig: 394, 526
+  offset: 0, 0
+  index: -1
+hair_07
+  rotate: false
+  xy: 877, 606
+  size: 379, 785
+  orig: 391, 785
+  offset: 7, 0
+  index: -1
+hair_071
+  rotate: false
+  xy: 489, 606
+  size: 386, 785
+  orig: 391, 785
+  offset: 0, 0
+  index: -1
+hair_073
+  rotate: true
+  xy: 1753, 1423
+  size: 72, 270
+  orig: 72, 271
+  offset: 0, 1
+  index: -1
+jingshi_1
+  rotate: false
+  xy: 1940, 1043
+  size: 104, 81
+  orig: 104, 81
+  offset: 0, 0
+  index: -1
+jingshi_2
+  rotate: true
+  xy: 89, 1426
+  size: 36, 87
+  orig: 36, 87
+  offset: 0, 0
+  index: -1
+jingshi_3
+  rotate: true
+  xy: 86, 1396
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+jixie_01
+  rotate: true
+  xy: 1258, 964
+  size: 498, 490
+  orig: 498, 490
+  offset: 0, 0
+  index: -1
+shouzhang
+  rotate: false
+  xy: 2, 1464
+  size: 1749, 572
+  orig: 1764, 572
+  offset: 0, 0
+  index: -1
+yiqun_01
+  rotate: false
+  xy: 178, 1429
+  size: 107, 33
+  orig: 107, 33
+  offset: 0, 0
+  index: -1
+yumao
+  rotate: false
+  xy: 1753, 1497
+  size: 282, 197
+  orig: 282, 197
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 2025, 1447
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+
+ChaoLifu-SkinCG2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JXC_01
+  rotate: false
+  xy: 952, 415
+  size: 420, 154
+  orig: 420, 154
+  offset: 0, 0
+  index: -1
+JXC_03
+  rotate: true
+  xy: 514, 279
+  size: 742, 436
+  orig: 742, 436
+  offset: 0, 0
+  index: -1
+JXC_06
+  rotate: true
+  xy: 1252, 18
+  size: 395, 393
+  orig: 395, 393
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: true
+  xy: 485, 88
+  size: 186, 400
+  orig: 186, 400
+  offset: 0, 0
+  index: -1
+chibang_02
+  rotate: false
+  xy: 952, 571
+  size: 130, 450
+  orig: 130, 450
+  offset: 0, 0
+  index: -1
+hair_00
+  rotate: true
+  xy: 226, 55
+  size: 219, 90
+  orig: 219, 90
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: true
+  xy: 887, 15
+  size: 101, 147
+  orig: 101, 147
+  offset: 0, 0
+  index: -1
+hair_03
+  rotate: true
+  xy: 318, 2
+  size: 82, 97
+  orig: 82, 97
+  offset: 0, 0
+  index: -1
+hair_04
+  rotate: false
+  xy: 952, 287
+  size: 126, 126
+  orig: 129, 126
+  offset: 3, 0
+  index: -1
+hair_062
+  rotate: true
+  xy: 2, 43
+  size: 231, 222
+  orig: 231, 222
+  offset: 0, 0
+  index: -1
+hair_072
+  rotate: true
+  xy: 887, 118
+  size: 159, 363
+  orig: 159, 363
+  offset: 0, 0
+  index: -1
+jixie_02
+  rotate: false
+  xy: 318, 86
+  size: 165, 188
+  orig: 165, 188
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 1036, 19
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 2, 276
+  size: 745, 510
+  orig: 745, 510
+  offset: 0, 0
+  index: -1

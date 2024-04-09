@@ -1,0 +1,33 @@
+
+UiTwoSideTowerSpine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg01
+  rotate: false
+  xy: 2, 2
+  size: 1728, 972
+  orig: 1728, 972
+  offset: 0, 0
+  index: -1
+tx
+  rotate: false
+  xy: 2, 976
+  size: 864, 486
+  orig: 864, 486
+  offset: 0, 0
+  index: -1
+
+UiTwoSideTowerSpine2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg02
+  rotate: false
+  xy: 2, 2
+  size: 1728, 972
+  orig: 1728, 972
+  offset: 0, 0
+  index: -1

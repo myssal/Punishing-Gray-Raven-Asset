@@ -1,0 +1,160 @@
+
+UiTurntableSailikacall.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hf
+  rotate: false
+  xy: 1174, 15
+  size: 635, 275
+  orig: 635, 275
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 1192, 292
+  size: 729, 351
+  orig: 729, 351
+  offset: 0, 0
+  index: -1
+piao1
+  rotate: false
+  xy: 2, 56
+  size: 188, 186
+  orig: 188, 186
+  offset: 0, 0
+  index: -1
+piao2
+  rotate: false
+  xy: 1545, 823
+  size: 173, 198
+  orig: 173, 198
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 533
+  size: 658, 488
+  orig: 661, 488
+  offset: 3, 0
+  index: -1
+tf1
+  rotate: false
+  xy: 2, 244
+  size: 299, 287
+  orig: 299, 287
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: true
+  xy: 1719, 688
+  size: 133, 151
+  orig: 133, 151
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: false
+  xy: 1545, 507
+  size: 172, 314
+  orig: 172, 314
+  offset: 0, 0
+  index: -1
+tf3yy
+  rotate: false
+  xy: 554, 430
+  size: 97, 101
+  orig: 99, 103
+  offset: 1, 1
+  index: -1
+tf4
+  rotate: true
+  xy: 1545, 343
+  size: 162, 304
+  orig: 162, 304
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 662, 563
+  size: 528, 458
+  orig: 530, 460
+  offset: 1, 1
+  index: -1
+yhf
+  rotate: true
+  xy: 662, 121
+  size: 440, 386
+  orig: 440, 386
+  offset: 0, 0
+  index: -1
+yinggangbang
+  rotate: false
+  xy: 1050, 6
+  size: 122, 363
+  orig: 124, 365
+  offset: 1, 1
+  index: -1
+youmeimao
+  rotate: false
+  xy: 655, 72
+  size: 67, 47
+  orig: 69, 49
+  offset: 1, 1
+  index: -1
+youshou
+  rotate: true
+  xy: 1050, 371
+  size: 190, 138
+  orig: 190, 138
+  offset: 0, 0
+  index: -1
+youshoupiao
+  rotate: false
+  xy: 303, 278
+  size: 249, 253
+  orig: 249, 253
+  offset: 0, 0
+  index: -1
+youyan
+  rotate: true
+  xy: 554, 282
+  size: 146, 64
+  orig: 148, 66
+  offset: 1, 1
+  index: -1
+zhf
+  rotate: true
+  xy: 303, 61
+  size: 215, 350
+  orig: 215, 350
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 192, 16
+  size: 96, 89
+  orig: 98, 91
+  offset: 1, 1
+  index: -1
+zuomeimao
+  rotate: true
+  xy: 620, 350
+  size: 78, 33
+  orig: 80, 35
+  offset: 1, 1
+  index: -1
+zuoshou
+  rotate: true
+  xy: 192, 107
+  size: 135, 109
+  orig: 137, 111
+  offset: 1, 1
+  index: -1
+zuoyan
+  rotate: false
+  xy: 2, 2
+  size: 140, 52
+  orig: 142, 54
+  offset: 1, 1
+  index: -1

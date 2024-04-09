@@ -1,0 +1,272 @@
+
+BiankaSkinQj.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+14
+  rotate: false
+  xy: 440, 1624
+  size: 125, 45
+  orig: 125, 45
+  offset: 0, 0
+  index: -1
+gd1
+  rotate: true
+  xy: 586, 1454
+  size: 147, 484
+  orig: 147, 533
+  offset: 0, 49
+  index: -1
+gd2
+  rotate: false
+  xy: 1809, 1503
+  size: 193, 166
+  orig: 193, 166
+  offset: 0, 0
+  index: -1
+gd3
+  rotate: false
+  xy: 2, 1297
+  size: 268, 200
+  orig: 268, 200
+  offset: 0, 0
+  index: -1
+gd4
+  rotate: false
+  xy: 1566, 1331
+  size: 235, 202
+  orig: 235, 202
+  offset: 0, 0
+  index: -1
+gd5
+  rotate: false
+  xy: 1323, 976
+  size: 359, 353
+  orig: 359, 353
+  offset: 0, 0
+  index: -1
+gd6
+  rotate: false
+  xy: 2, 870
+  size: 535, 354
+  orig: 535, 354
+  offset: 0, 0
+  index: -1
+gd7
+  rotate: true
+  xy: 958, 1082
+  size: 322, 363
+  orig: 322, 363
+  offset: 0, 0
+  index: -1
+gezi1
+  rotate: true
+  xy: 291, 1476
+  size: 144, 293
+  orig: 144, 293
+  offset: 0, 0
+  index: -1
+gezi2
+  rotate: false
+  xy: 1072, 1406
+  size: 270, 166
+  orig: 270, 166
+  offset: 0, 0
+  index: -1
+gezi3
+  rotate: false
+  xy: 1246, 1574
+  size: 281, 95
+  orig: 281, 95
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 262, 1640
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 994, 1603
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+guang3
+  rotate: true
+  xy: 567, 1622
+  size: 47, 51
+  orig: 194, 384
+  offset: 33, 225
+  index: -1
+guang5
+  rotate: true
+  xy: 1148, 1598
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1
+guang6
+  rotate: true
+  xy: 830, 1607
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+guang7
+  rotate: true
+  xy: 672, 1618
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+guang8
+  rotate: false
+  xy: 107, 1641
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+guang9
+  rotate: false
+  xy: 1672, 1535
+  size: 135, 134
+  orig: 135, 134
+  offset: 0, 0
+  index: -1
+hb1
+  rotate: true
+  xy: 390, 1625
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+hb10
+  rotate: true
+  xy: 203, 1641
+  size: 28, 57
+  orig: 28, 58
+  offset: 0, 1
+  index: -1
+hb11
+  rotate: true
+  xy: 272, 1226
+  size: 226, 343
+  orig: 226, 343
+  offset: 0, 0
+  index: -1
+hb12
+  rotate: true
+  xy: 301, 1637
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+hb13
+  rotate: false
+  xy: 766, 1617
+  size: 62, 52
+  orig: 63, 53
+  offset: 0, 1
+  index: -1
+hb2
+  rotate: true
+  xy: 620, 1620
+  size: 49, 50
+  orig: 51, 52
+  offset: 2, 2
+  index: -1
+hb3
+  rotate: true
+  xy: 344, 1632
+  size: 37, 44
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+hb4
+  rotate: true
+  xy: 154, 1641
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+hb5
+  rotate: false
+  xy: 79, 1645
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+hb6
+  rotate: false
+  xy: 46, 1650
+  size: 31, 19
+  orig: 31, 21
+  offset: 0, 1
+  index: -1
+hb7
+  rotate: false
+  xy: 2, 1657
+  size: 42, 12
+  orig: 42, 12
+  offset: 0, 0
+  index: -1
+hb8
+  rotate: false
+  xy: 1078, 1601
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+hb9
+  rotate: false
+  xy: 1529, 1551
+  size: 141, 118
+  orig: 141, 120
+  offset: 0, 1
+  index: -1
+qy1
+  rotate: false
+  xy: 617, 1144
+  size: 339, 308
+  orig: 339, 380
+  offset: 0, 0
+  index: -1
+qy2
+  rotate: false
+  xy: 2, 1499
+  size: 287, 139
+  orig: 287, 139
+  offset: 0, 0
+  index: -1
+qy3
+  rotate: false
+  xy: 2, 199
+  size: 931, 490
+  orig: 931, 648
+  offset: 0, 0
+  index: -1
+qy4
+  rotate: false
+  xy: 935, 2
+  size: 1020, 687
+  orig: 1023, 688
+  offset: 3, 0
+  index: -1
+qy5
+  rotate: true
+  xy: 1344, 1382
+  size: 167, 220
+  orig: 167, 220
+  offset: 0, 0
+  index: -1
+qy6
+  rotate: true
+  xy: 539, 691
+  size: 389, 604
+  orig: 389, 794
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,258 @@
+
+LamiyaSkinRole2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daizi
+  rotate: true
+  xy: 1674, 1029
+  size: 198, 102
+  orig: 198, 102
+  offset: 0, 0
+  index: -1
+h-st
+  rotate: true
+  xy: 2, 354
+  size: 587, 984
+  orig: 587, 984
+  offset: 0, 0
+  index: -1
+h-ydabi
+  rotate: true
+  xy: 1190, 844
+  size: 184, 435
+  orig: 184, 435
+  offset: 0, 0
+  index: -1
+h-ypiaodai
+  rotate: true
+  xy: 534, 46
+  size: 306, 335
+  orig: 375, 412
+  offset: 69, 77
+  index: -1
+h-ys
+  rotate: false
+  xy: 2, 40
+  size: 530, 312
+  orig: 530, 312
+  offset: 0, 0
+  index: -1
+h-ysz
+  rotate: false
+  xy: 1005, 11
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+h-ysz2
+  rotate: false
+  xy: 1223, 126
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+h-ysz3
+  rotate: true
+  xy: 1309, 227
+  size: 95, 134
+  orig: 95, 134
+  offset: 0, 0
+  index: -1
+h-yyixiu
+  rotate: false
+  xy: 1190, 1489
+  size: 558, 557
+  orig: 558, 557
+  offset: 0, 0
+  index: -1
+h-zpiaodai
+  rotate: false
+  xy: 1135, 420
+  size: 167, 422
+  orig: 167, 422
+  offset: 0, 0
+  index: -1
+h-zs
+  rotate: true
+  xy: 1750, 1517
+  size: 529, 159
+  orig: 529, 159
+  offset: 0, 0
+  index: -1
+h-zyixiu
+  rotate: false
+  xy: 1190, 1030
+  size: 482, 457
+  orig: 488, 457
+  offset: 3, 0
+  index: -1
+h-zyixiub
+  rotate: false
+  xy: 1559, 491
+  size: 113, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+hf
+  rotate: false
+  xy: 2, 943
+  size: 1186, 1103
+  orig: 1186, 1103
+  offset: 0, 0
+  index: -1
+hua
+  rotate: true
+  xy: 1135, 364
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+qtf11
+  rotate: true
+  xy: 871, 2
+  size: 76, 57
+  orig: 76, 57
+  offset: 0, 0
+  index: -1
+qtf2
+  rotate: false
+  xy: 1304, 475
+  size: 138, 367
+  orig: 138, 367
+  offset: 0, 0
+  index: -1
+qtf3
+  rotate: false
+  xy: 1674, 474
+  size: 159, 168
+  orig: 159, 168
+  offset: 0, 0
+  index: -1
+qtf5
+  rotate: false
+  xy: 988, 360
+  size: 145, 581
+  orig: 145, 581
+  offset: 0, 0
+  index: -1
+qtf6
+  rotate: false
+  xy: 1049, 116
+  size: 172, 242
+  orig: 172, 242
+  offset: 0, 0
+  index: -1
+qtf7
+  rotate: false
+  xy: 1444, 494
+  size: 113, 348
+  orig: 113, 348
+  offset: 0, 0
+  index: -1
+qtf9
+  rotate: false
+  xy: 871, 80
+  size: 176, 272
+  orig: 176, 272
+  offset: 0, 0
+  index: -1
+shuye
+  rotate: false
+  xy: 1310, 127
+  size: 124, 45
+  orig: 124, 45
+  offset: 0, 0
+  index: -1
+shuye2
+  rotate: false
+  xy: 1135, 867
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+shuye3
+  rotate: false
+  xy: 930, 15
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+shuye4
+  rotate: false
+  xy: 1310, 174
+  size: 127, 51
+  orig: 127, 51
+  offset: 0, 0
+  index: -1
+xiongshi
+  rotate: true
+  xy: 1309, 324
+  size: 149, 140
+  orig: 149, 140
+  offset: 0, 0
+  index: -1
+xiongshi2
+  rotate: false
+  xy: 1674, 1229
+  size: 54, 258
+  orig: 54, 258
+  offset: 0, 0
+  index: -1
+xiongshi3
+  rotate: true
+  xy: 1445, 230
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+xiongshi4
+  rotate: true
+  xy: 1911, 1521
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+xiongshi5
+  rotate: false
+  xy: 1451, 302
+  size: 86, 190
+  orig: 86, 190
+  offset: 0, 0
+  index: -1
+xiongshi6
+  rotate: false
+  xy: 1223, 225
+  size: 84, 193
+  orig: 84, 193
+  offset: 0, 0
+  index: -1
+ysha
+  rotate: true
+  xy: 1647, 644
+  size: 199, 175
+  orig: 199, 175
+  offset: 0, 0
+  index: -1
+zdabi
+  rotate: false
+  xy: 1911, 1592
+  size: 102, 454
+  orig: 102, 454
+  offset: 0, 0
+  index: -1
+zsha
+  rotate: false
+  xy: 1627, 845
+  size: 169, 182
+  orig: 169, 182
+  offset: 0, 0
+  index: -1
+zyixiu2
+  rotate: false
+  xy: 1559, 634
+  size: 86, 208
+  orig: 86, 208
+  offset: 0, 0
+  index: -1
