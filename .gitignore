@@ -1,7 +1,7 @@
 /product/*
 !/product/texture
 !/product/ui
-/product/texture/*
+/product/**/*
 !/product/texture/image/bgcg
 !/product/texture/image/bgstory
 !/product/texture/image/iconexpression
