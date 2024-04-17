@@ -1,0 +1,34 @@
+
+UiDunhuangMainBg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 3, 1251
+  size: 1376, 753
+  orig: 1376, 753
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: true
+  xy: 3, 0
+  size: 1251, 703
+  orig: 1251, 703
+  offset: 0, 0
+  index: -1
+wenli
+  rotate: false
+  xy: 709, 428
+  size: 712, 741
+  orig: 712, 741
+  offset: 0, 0
+  index: -1
+z
+  rotate: false
+  xy: 1382, 1169
+  size: 89, 835
+  orig: 89, 839
+  offset: 0, 2
+  index: -1

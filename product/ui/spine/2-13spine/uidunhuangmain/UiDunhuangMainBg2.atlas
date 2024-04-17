@@ -1,0 +1,13 @@
+
+UiDunhuangMainBg2.png
+size: 1260,704
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg2
+  rotate: false
+  xy: 3, 0
+  size: 1251, 703
+  orig: 1251, 703
+  offset: 0, 0
+  index: -1

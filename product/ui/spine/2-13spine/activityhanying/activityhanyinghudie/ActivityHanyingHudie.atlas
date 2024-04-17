@@ -1,0 +1,20 @@
+
+ActivityHanyingHudie.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb2
+  rotate: false
+  xy: 3, 69
+  size: 104, 109
+  orig: 104, 109
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 3, 0
+  size: 69, 83
+  orig: 71, 85
+  offset: 1, 1
+  index: -1

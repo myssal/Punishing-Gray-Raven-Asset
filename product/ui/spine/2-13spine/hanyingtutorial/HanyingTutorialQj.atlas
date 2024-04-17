@@ -1,0 +1,90 @@
+
+HanyingTutorialQj.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangxiao3
+  rotate: false
+  xy: 3, 372
+  size: 481, 271
+  orig: 481, 271
+  offset: 0, 0
+  index: -1
+hudie1
+  rotate: true
+  xy: 435, 842
+  size: 54, 60
+  orig: 64, 64
+  offset: 7, 4
+  index: -1
+hudie10
+  rotate: false
+  xy: 395, 175
+  size: 110, 197
+  orig: 110, 197
+  offset: 0, 0
+  index: -1
+hudie3
+  rotate: true
+  xy: 395, 96
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1
+hudie4
+  rotate: false
+  xy: 435, 954
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+hudie5
+  rotate: true
+  xy: 476, 816
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+hudie6
+  rotate: false
+  xy: 435, 728
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+hudie7
+  rotate: true
+  xy: 435, 896
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+hudie8
+  rotate: false
+  xy: 435, 764
+  size: 38, 78
+  orig: 38, 78
+  offset: 0, 0
+  index: -1
+hudie9
+  rotate: true
+  xy: 3, 0
+  size: 124, 158
+  orig: 124, 158
+  offset: 0, 0
+  index: -1
+lazhu
+  rotate: false
+  xy: 3, 643
+  size: 429, 373
+  orig: 429, 373
+  offset: 0, 0
+  index: -1
+lazhu2
+  rotate: false
+  xy: 3, 124
+  size: 389, 248
+  orig: 389, 248
+  offset: 0, 0
+  index: -1
