@@ -1,0 +1,27 @@
+{
+"skeleton": { "hash": "GxZDWztgEXRmONj5VKF7MJRfEoQ", "spine": "3.8.99", "x": -1921, "y": -1206.99, "width": 4007.28, "height": 2287.99 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "qianjing", "parent": "root", "x": -1994.78, "y": -29.48 }
+],
+"slots": [
+	{ "name": "gguo_1", "bone": "qianjing", "attachment": "gguo_1" },
+	{ "name": "gguo_0", "bone": "qianjing", "attachment": "gguo_0" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"gguo_0": {
+				"gguo_0": { "x": 995.92, "y": -369.81, "width": 1844, "height": 1363 }
+			},
+			"gguo_1": {
+				"gguo_1": { "x": 2936.92, "y": -736.81, "width": 1958, "height": 629 }
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {}
+}
+}

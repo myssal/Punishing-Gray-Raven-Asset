@@ -1,0 +1,20 @@
+
+21HaoLang.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lang
+  rotate: false
+  xy: 2, 2
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 99, 47
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1

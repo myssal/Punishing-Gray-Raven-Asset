@@ -1,0 +1,30 @@
+{
+"skeleton": { "hash": "jTKBY5gG5kPg5N5gs7MmG9Lnw4o", "spine": "3.8.99", "x": -1921, "y": -1206.99, "width": 4007.28, "height": 2287.99 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "beijing", "parent": "root", "length": 1579.64, "x": -694.92, "y": -1199.4 }
+],
+"slots": [
+	{ "name": "j01", "bone": "beijing" },
+	{ "name": "gguo_56", "bone": "beijing", "attachment": "gguo_56" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"gguo_56": {
+				"gguo_56": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 2615.92, 118.4, -1226.08, 118.4, -1226.08, 2280.4, 2615.92, 2280.4 ],
+					"hull": 4
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {}
+}
+}

@@ -1,0 +1,89 @@
+
+ActivityWanshiBg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ycj
+  rotate: false
+  xy: 971, 0
+  size: 940, 685
+  orig: 941, 686
+  offset: 1, 0
+  index: -1
+Ywuqi
+  rotate: false
+  xy: 3, 106
+  size: 965, 579
+  orig: 965, 579
+  offset: 0, 0
+  index: -1
+Zcj
+  rotate: false
+  xy: 864, 685
+  size: 1072, 395
+  orig: 1074, 395
+  offset: 0, 0
+  index: -1
+Zcj-yun1
+  rotate: false
+  xy: 906, 1080
+  size: 788, 358
+  orig: 789, 358
+  offset: 0, 0
+  index: -1
+Zcj-yun2
+  rotate: false
+  xy: 106, 1406
+  size: 242, 32
+  orig: 245, 34
+  offset: 1, 1
+  index: -1
+Zcj-yun3
+  rotate: false
+  xy: 514, 1391
+  size: 203, 47
+  orig: 203, 58
+  offset: 0, 11
+  index: -1
+Zcj-yun4
+  rotate: false
+  xy: 3, 1408
+  size: 100, 30
+  orig: 102, 31
+  offset: 1, 1
+  index: -1
+Zcj-yun5
+  rotate: false
+  xy: 351, 1404
+  size: 160, 34
+  orig: 162, 38
+  offset: 1, 1
+  index: -1
+Zcj-yun6
+  rotate: false
+  xy: 720, 1318
+  size: 183, 120
+  orig: 185, 121
+  offset: 1, 1
+  index: -1
+Zwuqi
+  rotate: false
+  xy: 3, 749
+  size: 858, 569
+  orig: 858, 569
+  offset: 0, 0
+  index: -1
+
+ActivityWanshiBg2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 3, 0
+  size: 1821, 865
+  orig: 1821, 865
+  offset: 0, 0
+  index: -1

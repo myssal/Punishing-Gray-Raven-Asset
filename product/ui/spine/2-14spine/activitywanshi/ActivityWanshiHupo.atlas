@@ -1,0 +1,27 @@
+
+ActivityWanshiHupo.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Hupo
+  rotate: false
+  xy: 101, 14
+  size: 53, 101
+  orig: 53, 103
+  offset: 0, 1
+  index: -1
+Hupo-guang1
+  rotate: true
+  xy: 3, 115
+  size: 140, 197
+  orig: 143, 199
+  offset: 1, 1
+  index: -1
+Hupo-guang2
+  rotate: false
+  xy: 3, 0
+  size: 95, 115
+  orig: 95, 115
+  offset: 0, 0
+  index: -1

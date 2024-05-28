@@ -1,0 +1,13 @@
+
+UiMovieWanshi02Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 3, 0
+  size: 1921, 1081
+  orig: 1921, 1081
+  offset: 0, 0
+  index: -1

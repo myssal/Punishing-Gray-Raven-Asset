@@ -1,0 +1,111 @@
+
+21HaoLogin02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liz1
+  rotate: false
+  xy: 292, 67
+  size: 97, 86
+  orig: 99, 88
+  offset: 1, 1
+  index: -1
+liz10
+  rotate: false
+  xy: 497, 97
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+liz11
+  rotate: false
+  xy: 391, 20
+  size: 67, 63
+  orig: 69, 65
+  offset: 1, 1
+  index: -1
+liz12
+  rotate: true
+  xy: 466, 120
+  size: 33, 37
+  orig: 35, 39
+  offset: 1, 1
+  index: -1
+liz13
+  rotate: true
+  xy: 193, 57
+  size: 96, 97
+  orig: 98, 99
+  offset: 1, 1
+  index: -1
+liz14
+  rotate: false
+  xy: 292, 3
+  size: 63, 62
+  orig: 65, 64
+  offset: 1, 1
+  index: -1
+liz15
+  rotate: false
+  xy: 2, 17
+  size: 189, 136
+  orig: 191, 138
+  offset: 1, 1
+  index: -1
+liz2
+  rotate: false
+  xy: 391, 85
+  size: 73, 68
+  orig: 75, 70
+  offset: 1, 1
+  index: -1
+liz3
+  rotate: false
+  xy: 460, 23
+  size: 47, 46
+  orig: 49, 48
+  offset: 1, 1
+  index: -1
+liz4
+  rotate: false
+  xy: 497, 87
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+liz5
+  rotate: false
+  xy: 497, 108
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+liz6
+  rotate: false
+  xy: 466, 76
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1
+liz7
+  rotate: false
+  xy: 466, 94
+  size: 29, 24
+  orig: 31, 26
+  offset: 1, 1
+  index: -1
+liz8
+  rotate: false
+  xy: 193, 2
+  size: 59, 53
+  orig: 61, 55
+  offset: 1, 1
+  index: -1
+liz9
+  rotate: true
+  xy: 494, 71
+  size: 14, 16
+  orig: 16, 18
+  offset: 1, 1
+  index: -1

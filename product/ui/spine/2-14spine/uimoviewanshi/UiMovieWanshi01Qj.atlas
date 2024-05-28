@@ -1,0 +1,20 @@
+
+UiMovieWanshi01Qj.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gguo_0
+  rotate: false
+  xy: 3, 314
+  size: 922, 681
+  orig: 922, 682
+  offset: 0, 0
+  index: -1
+gguo_1
+  rotate: false
+  xy: 3, 0
+  size: 978, 314
+  orig: 979, 315
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+UiLineArithmeticMainWanshi.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa1
+  rotate: false
+  xy: 3, 2
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 565, 180
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 670, 133
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: true
+  xy: 184, 1
+  size: 103, 61
+  orig: 103, 61
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: true
+  xy: 652, 1
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: true
+  xy: 368, 11
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+fa7
+  rotate: false
+  xy: 472, 142
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: true
+  xy: 462, 11
+  size: 93, 62
+  orig: 93, 62
+  offset: 0, 0
+  index: -1
+shouy
+  rotate: true
+  xy: 150, 9
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+shouz
+  rotate: false
+  xy: 644, 124
+  size: 23, 60
+  orig: 25, 62
+  offset: 1, 1
+  index: -1
+shouz1
+  rotate: false
+  xy: 549, 111
+  size: 22, 31
+  orig: 24, 33
+  offset: 1, 1
+  index: -1
+shouz2
+  rotate: true
+  xy: 604, 47
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 3, 86
+  size: 165, 169
+  orig: 173, 169
+  offset: 0, 0
+  index: -1
+tuiy
+  rotate: true
+  xy: 527, 19
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+tuiz
+  rotate: false
+  xy: 55, 5
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+yif2
+  rotate: false
+  xy: 248, 6
+  size: 117, 98
+  orig: 117, 98
+  offset: 0, 0
+  index: -1
+yifu1
+  rotate: true
+  xy: 653, 66
+  size: 58, 42
+  orig: 60, 44
+  offset: 1, 1
+  index: -1
+yifu3
+  rotate: false
+  xy: 632, 184
+  size: 56, 71
+  orig: 56, 71
+  offset: 0, 0
+  index: -1
+yifu4
+  rotate: true
+  xy: 525, 110
+  size: 32, 21
+  orig: 34, 23
+  offset: 1, 1
+  index: -1
+yifu5
+  rotate: true
+  xy: 472, 110
+  size: 32, 50
+  orig: 34, 52
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: false
+  xy: 171, 104
+  size: 298, 151
+  orig: 298, 151
+  offset: 0, 0
+  index: -1
+z1
+  rotate: true
+  xy: 604, 0
+  size: 47, 45
+  orig: 49, 47
+  offset: 1, 1
+  index: -1
+z2
+  rotate: false
+  xy: 574, 113
+  size: 67, 67
+  orig: 69, 69
+  offset: 1, 1
+  index: -1

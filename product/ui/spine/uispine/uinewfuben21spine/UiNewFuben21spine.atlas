@@ -1,0 +1,111 @@
+
+UiNewFuben21spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 892
+  size: 1979, 961
+  orig: 1979, 961
+  offset: 0, 0
+  index: -1
+bjyy
+  rotate: false
+  xy: 2, 39
+  size: 953, 851
+  orig: 958, 854
+  offset: 5, 3
+  index: -1
+zhi1
+  rotate: true
+  xy: 1785, 159
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+zhi10
+  rotate: true
+  xy: 1483, 555
+  size: 201, 190
+  orig: 215, 196
+  offset: 14, 6
+  index: -1
+zhi1yy
+  rotate: false
+  xy: 1983, 1687
+  size: 46, 77
+  orig: 59, 86
+  offset: 13, 9
+  index: -1
+zhi2
+  rotate: false
+  xy: 1785, 2
+  size: 82, 155
+  orig: 82, 155
+  offset: 0, 0
+  index: -1
+zhi2yy
+  rotate: false
+  xy: 1983, 1766
+  size: 54, 87
+  orig: 72, 101
+  offset: 18, 14
+  index: -1
+zhi3
+  rotate: true
+  xy: 1689, 247
+  size: 124, 157
+  orig: 124, 157
+  offset: 0, 0
+  index: -1
+zhi3yy
+  rotate: true
+  xy: 1848, 287
+  size: 84, 118
+  orig: 149, 166
+  offset: 23, 48
+  index: -1
+zhi4
+  rotate: true
+  xy: 957, 158
+  size: 598, 524
+  orig: 598, 524
+  offset: 0, 0
+  index: -1
+zhi5
+  rotate: false
+  xy: 1685, 499
+  size: 283, 391
+  orig: 286, 394
+  offset: 0, 0
+  index: -1
+zhi6
+  rotate: true
+  xy: 1689, 373
+  size: 124, 218
+  orig: 139, 221
+  offset: 0, 3
+  index: -1
+zhi7
+  rotate: false
+  xy: 957, 758
+  size: 726, 132
+  orig: 726, 132
+  offset: 0, 0
+  index: -1
+zhi8
+  rotate: true
+  xy: 1483, 82
+  size: 144, 300
+  orig: 158, 300
+  offset: 14, 0
+  index: -1
+zhi9
+  rotate: false
+  xy: 1483, 228
+  size: 204, 269
+  orig: 204, 269
+  offset: 0, 0
+  index: -1
