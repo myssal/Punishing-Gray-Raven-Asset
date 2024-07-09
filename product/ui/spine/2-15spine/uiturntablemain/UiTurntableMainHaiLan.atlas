@@ -1,0 +1,27 @@
+
+UiTurntableMainHaiLan.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HaiLan1
+  rotate: false
+  xy: 0, 0
+  size: 676, 512
+  orig: 692, 532
+  offset: 0, 20
+  index: -1
+HaiLan2
+  rotate: false
+  xy: 0, 512
+  size: 1016, 376
+  orig: 1016, 376
+  offset: 0, 0
+  index: -1
+HaiLan3
+  rotate: false
+  xy: 1016, 369
+  size: 567, 519
+  orig: 567, 519
+  offset: 0, 0
+  index: -1

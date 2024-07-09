@@ -1,0 +1,27 @@
+
+UiTurntableMainYe.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ye1
+  rotate: true
+  xy: 0, 0
+  size: 562, 576
+  orig: 562, 681
+  offset: 0, 105
+  index: -1
+ye2
+  rotate: false
+  xy: 220, 562
+  size: 402, 312
+  orig: 402, 320
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: true
+  xy: 0, 750
+  size: 124, 220
+  orig: 124, 231
+  offset: 0, 0
+  index: -1

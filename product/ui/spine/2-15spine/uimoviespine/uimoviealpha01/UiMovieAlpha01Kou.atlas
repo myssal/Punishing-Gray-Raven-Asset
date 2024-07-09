@@ -1,0 +1,48 @@
+
+UiMovieAlpha01Kou.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: true
+  xy: 123, 280
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 3, 0
+  size: 227, 280
+  orig: 227, 280
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 46, 291
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 85, 287
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+zui3
+  rotate: false
+  xy: 3, 294
+  size: 13, 7
+  orig: 13, 7
+  offset: 0, 0
+  index: -1
+zui4
+  rotate: false
+  xy: 19, 292
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1

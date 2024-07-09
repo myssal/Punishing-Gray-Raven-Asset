@@ -1,0 +1,124 @@
+
+ActivityNuoketi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+changpian
+  rotate: false
+  xy: 1203, 1663
+  size: 211, 211
+  orig: 211, 211
+  offset: 0, 0
+  index: -1
+changzhen1
+  rotate: true
+  xy: 222, 1826
+  size: 48, 214
+  orig: 48, 214
+  offset: 0, 0
+  index: -1
+changzhen2
+  rotate: true
+  xy: 177, 1832
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+dipanyou
+  rotate: false
+  xy: 2, 1567
+  size: 268, 257
+  orig: 268, 258
+  offset: 0, 1
+  index: -1
+dipanyouxian1
+  rotate: true
+  xy: 120, 1857
+  size: 17, 55
+  orig: 17, 55
+  offset: 0, 0
+  index: -1
+dipanyouxian2
+  rotate: false
+  xy: 2, 1864
+  size: 62, 10
+  orig: 62, 10
+  offset: 0, 0
+  index: -1
+dipanzuo
+  rotate: true
+  xy: 1647, 1644
+  size: 230, 257
+  orig: 230, 257
+  offset: 0, 0
+  index: -1
+dipanzuo2
+  rotate: true
+  xy: 1416, 1646
+  size: 228, 229
+  orig: 230, 231
+  offset: 1, 1
+  index: -1
+jishen
+  rotate: false
+  xy: 2, 2
+  size: 1068, 953
+  orig: 1068, 953
+  offset: 0, 0
+  index: -1
+jishen2
+  rotate: false
+  xy: 680, 957
+  size: 1066, 685
+  orig: 1066, 685
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 272, 1423
+  size: 322, 406
+  orig: 322, 407
+  offset: 0, 1
+  index: -1
+miaozhen
+  rotate: true
+  xy: 66, 1862
+  size: 12, 52
+  orig: 12, 52
+  offset: 0, 0
+  index: -1
+yaobi
+  rotate: false
+  xy: 894, 1693
+  size: 307, 181
+  orig: 307, 181
+  offset: 0, 0
+  index: -1
+zhuanzi1
+  rotate: false
+  xy: 579, 1747
+  size: 313, 127
+  orig: 313, 127
+  offset: 0, 0
+  index: -1
+zhuanzi2
+  rotate: false
+  xy: 438, 1793
+  size: 139, 81
+  orig: 139, 81
+  offset: 0, 0
+  index: -1
+
+ActivityNuoketi2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 2
+  size: 2017, 1269
+  orig: 2017, 1269
+  offset: 0, 0
+  index: -1

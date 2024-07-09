@@ -1,0 +1,118 @@
+
+UiMovieHBxiaodiRole.png
+size: 128,128
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+jingehan1
+  rotate: true
+  xy: 40, 11
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+jingehan2
+  rotate: true
+  xy: 40, 24
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+jingehan3
+  rotate: false
+  xy: 113, 85
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+tiaoxin6
+  rotate: true
+  xy: 57, 41
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+tiaoxingshangyan1
+  rotate: false
+  xy: 76, 109
+  size: 42, 16
+  orig: 42, 16
+  offset: 0, 0
+  index: -1
+tiaoxingshangyan2
+  rotate: false
+  xy: 73, 27
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+youyan1
+  rotate: false
+  xy: 2, 42
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+youyan2
+  rotate: true
+  xy: 107, 47
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+youyan3
+  rotate: false
+  xy: 2, 23
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+youyan4
+  rotate: true
+  xy: 41, 43
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+youyan5
+  rotate: true
+  xy: 107, 18
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+zuoyan1
+  rotate: false
+  xy: 2, 103
+  size: 72, 22
+  orig: 72, 22
+  offset: 0, 0
+  index: -1
+zuoyan2
+  rotate: false
+  xy: 2, 86
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1
+zuoyan3
+  rotate: false
+  xy: 58, 85
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1
+zuoyan4
+  rotate: false
+  xy: 73, 10
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+zuoyan5
+  rotate: false
+  xy: 2, 66
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1

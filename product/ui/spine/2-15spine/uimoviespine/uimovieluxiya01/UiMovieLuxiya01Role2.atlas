@@ -1,0 +1,104 @@
+
+UiMovieLuxiya01Role2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: false
+  xy: 1945, 552
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+diaozui
+  rotate: true
+  xy: 1833, 158
+  size: 120, 199
+  orig: 120, 199
+  offset: 0, 0
+  index: -1
+l_shoubi
+  rotate: true
+  xy: 746, 0
+  size: 236, 546
+  orig: 236, 546
+  offset: 0, 0
+  index: -1
+r_shoubi
+  rotate: true
+  xy: 746, 236
+  size: 271, 546
+  orig: 271, 546
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 1405, 44
+  size: 425, 572
+  orig: 425, 572
+  offset: 0, 0
+  index: -1
+tf10
+  rotate: true
+  xy: 3, 556
+  size: 564, 742
+  orig: 564, 742
+  offset: 0, 0
+  index: -1
+tf5
+  rotate: true
+  xy: 3, 172
+  size: 384, 740
+  orig: 384, 740
+  offset: 0, 0
+  index: -1
+tf7
+  rotate: false
+  xy: 1405, 616
+  size: 537, 504
+  orig: 537, 504
+  offset: 0, 0
+  index: -1
+tf8
+  rotate: true
+  xy: 748, 507
+  size: 613, 654
+  orig: 613, 654
+  offset: 0, 0
+  index: -1
+tf9
+  rotate: true
+  xy: 1833, 278
+  size: 174, 208
+  orig: 174, 208
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 1833, 452
+  size: 164, 101
+  orig: 164, 101
+  offset: 0, 0
+  index: -1
+weijin2
+  rotate: false
+  xy: 1945, 631
+  size: 82, 140
+  orig: 82, 140
+  offset: 0, 0
+  index: -1
+weijin3
+  rotate: false
+  xy: 1945, 771
+  size: 71, 165
+  orig: 71, 165
+  offset: 0, 0
+  index: -1
+weijin4
+  rotate: true
+  xy: 1945, 936
+  size: 184, 94
+  orig: 184, 94
+  offset: 0, 0
+  index: -1

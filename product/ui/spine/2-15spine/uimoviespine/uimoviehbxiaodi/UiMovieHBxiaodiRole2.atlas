@@ -1,0 +1,97 @@
+
+UiMovieHBxiaodiRole2.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+st1
+  rotate: true
+  xy: 1688, 117
+  size: 95, 141
+  orig: 95, 142
+  offset: 0, 0
+  index: -1
+st10
+  rotate: true
+  xy: 2, 235
+  size: 434, 760
+  orig: 434, 796
+  offset: 0, 0
+  index: -1
+st11
+  rotate: false
+  xy: 1889, 170
+  size: 123, 210
+  orig: 123, 210
+  offset: 0, 0
+  index: -1
+st12
+  rotate: true
+  xy: 346, 124
+  size: 109, 203
+  orig: 109, 203
+  offset: 0, 0
+  index: -1
+st13
+  rotate: false
+  xy: 1688, 214
+  size: 199, 455
+  orig: 199, 455
+  offset: 0, 0
+  index: -1
+st2
+  rotate: true
+  xy: 2, 2
+  size: 231, 342
+  orig: 231, 342
+  offset: 0, 0
+  index: -1
+st3
+  rotate: true
+  xy: 551, 92
+  size: 141, 198
+  orig: 141, 198
+  offset: 0, 0
+  index: -1
+st4
+  rotate: true
+  xy: 764, 501
+  size: 168, 720
+  orig: 168, 720
+  offset: 0, 0
+  index: -1
+st5
+  rotate: false
+  xy: 1889, 382
+  size: 120, 287
+  orig: 120, 287
+  offset: 0, 0
+  index: -1
+st6
+  rotate: false
+  xy: 1831, 56
+  size: 132, 112
+  orig: 132, 112
+  offset: 0, 0
+  index: -1
+st7
+  rotate: false
+  xy: 1486, 72
+  size: 200, 597
+  orig: 200, 597
+  offset: 0, 0
+  index: -1
+st8
+  rotate: true
+  xy: 764, 14
+  size: 236, 662
+  orig: 236, 662
+  offset: 0, 0
+  index: -1
+st9
+  rotate: true
+  xy: 764, 252
+  size: 247, 708
+  orig: 247, 708
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+AlphaSkinSpineBg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kachi115
+  rotate: true
+  xy: 431, 864
+  size: 306, 629
+  orig: 306, 629
+  offset: 0, 0
+  index: -1
+kachi117
+  rotate: false
+  xy: 1364, 1121
+  size: 241, 226
+  orig: 241, 226
+  offset: 0, 0
+  index: -1
+kachi118
+  rotate: true
+  xy: 1605, 1082
+  size: 265, 305
+  orig: 265, 313
+  offset: 0, 0
+  index: -1
+kachi121
+  rotate: false
+  xy: 335, 1246
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+kachi122
+  rotate: true
+  xy: 160, 1257
+  size: 90, 175
+  orig: 90, 175
+  offset: 0, 0
+  index: -1
+kachi123
+  rotate: true
+  xy: 0, 1267
+  size: 80, 160
+  orig: 80, 160
+  offset: 0, 0
+  index: -1
+kachi124
+  rotate: true
+  xy: 0, 883
+  size: 363, 431
+  orig: 363, 431
+  offset: 0, 0
+  index: -1
+kachi125
+  rotate: false
+  xy: 438, 1170
+  size: 926, 177
+  orig: 926, 177
+  offset: 0, 0
+  index: -1
+kachi131
+  rotate: false
+  xy: 0, 0
+  size: 1536, 864
+  orig: 1536, 864
+  offset: 0, 0
+  index: -1

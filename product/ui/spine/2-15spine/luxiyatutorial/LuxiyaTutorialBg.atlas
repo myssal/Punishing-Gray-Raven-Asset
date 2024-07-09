@@ -1,0 +1,27 @@
+
+LuxiyaTutorialBg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LXYG_161
+  rotate: false
+  xy: 0, 0
+  size: 857, 830
+  orig: 857, 830
+  offset: 0, 0
+  index: -1
+LXYG_162
+  rotate: false
+  xy: 857, 330
+  size: 516, 500
+  orig: 516, 500
+  offset: 0, 0
+  index: -1
+LXYG_163
+  rotate: false
+  xy: 0, 830
+  size: 1635, 980
+  orig: 1635, 980
+  offset: 0, 0
+  index: -1

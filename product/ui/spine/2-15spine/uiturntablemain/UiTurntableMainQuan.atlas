@@ -1,0 +1,13 @@
+
+UiTurntableMainQuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Quan
+  rotate: false
+  xy: 0, 0
+  size: 626, 626
+  orig: 626, 626
+  offset: 0, 0
+  index: -1

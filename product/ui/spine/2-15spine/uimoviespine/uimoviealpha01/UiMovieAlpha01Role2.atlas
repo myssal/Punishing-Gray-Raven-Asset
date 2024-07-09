@@ -1,0 +1,153 @@
+
+UiMovieAlpha01Role2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 1066, 1362
+  size: 94, 120
+  orig: 94, 120
+  offset: 0, 0
+  index: -1
+diaozui
+  rotate: false
+  xy: 1093, 135
+  size: 159, 256
+  orig: 159, 256
+  offset: 0, 0
+  index: -1
+l_shoubi
+  rotate: false
+  xy: 1444, 329
+  size: 290, 568
+  orig: 290, 568
+  offset: 0, 0
+  index: -1
+l_yifu
+  rotate: true
+  xy: 829, 621
+  size: 276, 612
+  orig: 276, 612
+  offset: 0, 0
+  index: -1
+l_yifu2
+  rotate: true
+  xy: 1661, 1474
+  size: 72, 107
+  orig: 72, 107
+  offset: 0, 0
+  index: -1
+l_yifu3
+  rotate: true
+  xy: 1189, 1379
+  size: 77, 353
+  orig: 77, 353
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: true
+  xy: 489, 847
+  size: 50, 139
+  orig: 50, 139
+  offset: 0, 0
+  index: -1
+piaodai2
+  rotate: false
+  xy: 1093, 0
+  size: 53, 135
+  orig: 53, 135
+  offset: 0, 0
+  index: -1
+r_shoubi
+  rotate: false
+  xy: 1545, 913
+  size: 283, 543
+  orig: 283, 543
+  offset: 0, 0
+  index: -1
+r_yifu
+  rotate: false
+  xy: 829, 37
+  size: 261, 584
+  orig: 261, 584
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 489, 1361
+  size: 512, 574
+  orig: 512, 574
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 3, 846
+  size: 483, 1027
+  orig: 483, 1027
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: true
+  xy: 489, 897
+  size: 464, 1023
+  orig: 464, 1023
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: true
+  xy: 3, 102
+  size: 744, 823
+  orig: 744, 823
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: true
+  xy: 1661, 1546
+  size: 327, 253
+  orig: 327, 253
+  offset: 0, 0
+  index: -1
+weijin2
+  rotate: true
+  xy: 1093, 391
+  size: 230, 217
+  orig: 230, 217
+  offset: 0, 0
+  index: -1
+weijin3
+  rotate: false
+  xy: 1771, 1475
+  size: 121, 71
+  orig: 121, 71
+  offset: 0, 0
+  index: -1
+weijin4
+  rotate: true
+  xy: 1313, 414
+  size: 207, 112
+  orig: 207, 112
+  offset: 0, 0
+  index: -1
+weijin5
+  rotate: false
+  xy: 1255, 83
+  size: 144, 308
+  orig: 144, 308
+  offset: 0, 0
+  index: -1
+weijin6
+  rotate: true
+  xy: 631, 867
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+wuqi
+  rotate: true
+  xy: 1066, 1456
+  size: 417, 592
+  orig: 417, 592
+  offset: 0, 0
+  index: -1

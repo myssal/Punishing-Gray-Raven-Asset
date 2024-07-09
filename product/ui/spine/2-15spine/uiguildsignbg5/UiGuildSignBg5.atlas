@@ -1,0 +1,41 @@
+
+UiGuildSignBg5.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: false
+  xy: 3, 131
+  size: 503, 890
+  orig: 503, 890
+  offset: 0, 0
+  index: -1
+bj2
+  rotate: false
+  xy: 509, 177
+  size: 475, 844
+  orig: 475, 844
+  offset: 0, 0
+  index: -1
+bj3
+  rotate: false
+  xy: 987, 504
+  size: 353, 517
+  orig: 353, 517
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 3, 0
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 987, 355
+  size: 135, 149
+  orig: 135, 149
+  offset: 0, 0
+  index: -1

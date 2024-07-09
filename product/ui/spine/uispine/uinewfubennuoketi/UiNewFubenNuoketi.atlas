@@ -1,0 +1,229 @@
+
+UiNewFubenNuoketi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 492, 1891
+  size: 172, 49
+  orig: 172, 49
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 841, 1889
+  size: 172, 51
+  orig: 172, 52
+  offset: 0, 1
+  index: -1
+3
+  rotate: false
+  xy: 1281, 1887
+  size: 173, 53
+  orig: 173, 53
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1456, 1887
+  size: 172, 53
+  orig: 172, 53
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 317, 1892
+  size: 173, 48
+  orig: 174, 49
+  offset: 0, 1
+  index: -1
+6
+  rotate: false
+  xy: 666, 1890
+  size: 173, 50
+  orig: 173, 50
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1015, 1889
+  size: 174, 51
+  orig: 174, 51
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1732, 1876
+  size: 174, 64
+  orig: 174, 64
+  offset: 0, 0
+  index: -1
+BgNewCommon202.1
+  rotate: false
+  xy: 2, 533
+  size: 912, 674
+  orig: 920, 683
+  offset: 4, 8
+  index: -1
+anniuyou
+  rotate: true
+  xy: 1908, 1875
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+anniuzuo
+  rotate: true
+  xy: 1978, 1874
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+changpian
+  rotate: false
+  xy: 642, 1737
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+changzhen1
+  rotate: true
+  xy: 162, 1906
+  size: 34, 153
+  orig: 34, 153
+  offset: 0, 0
+  index: -1
+changzhen2
+  rotate: true
+  xy: 129, 1910
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+dipanyou
+  rotate: false
+  xy: 1148, 1701
+  size: 192, 184
+  orig: 192, 184
+  offset: 0, 0
+  index: -1
+dipanyouxian1
+  rotate: true
+  xy: 87, 1928
+  size: 12, 40
+  orig: 12, 40
+  offset: 0, 0
+  index: -1
+dipanyouxian2
+  rotate: false
+  xy: 2, 1933
+  size: 44, 7
+  orig: 44, 7
+  offset: 0, 0
+  index: -1
+dipanzuo
+  rotate: true
+  xy: 962, 1723
+  size: 164, 184
+  orig: 164, 184
+  offset: 0, 0
+  index: -1
+dipanzuo2
+  rotate: true
+  xy: 795, 1724
+  size: 163, 165
+  orig: 165, 165
+  offset: 1, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 916, 2
+  size: 1008, 881
+  orig: 1034, 900
+  offset: 8, 16
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 1245
+  size: 542, 512
+  orig: 542, 513
+  offset: 0, 0
+  index: -1
+jishen
+  rotate: true
+  xy: 1310, 885
+  size: 763, 681
+  orig: 763, 681
+  offset: 0, 0
+  index: -1
+jishen2
+  rotate: false
+  xy: 546, 1209
+  size: 762, 490
+  orig: 762, 490
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 1342, 1650
+  size: 230, 291
+  orig: 230, 291
+  offset: 0, 0
+  index: -1
+miaozhen
+  rotate: true
+  xy: 48, 1931
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+pai1
+  rotate: false
+  xy: 2, 1815
+  size: 190, 89
+  orig: 190, 89
+  offset: 0, 0
+  index: -1
+pai2
+  rotate: false
+  xy: 1191, 1888
+  size: 88, 52
+  orig: 88, 53
+  offset: 0, 1
+  index: -1
+yaobi
+  rotate: false
+  xy: 420, 1759
+  size: 220, 130
+  orig: 220, 130
+  offset: 0, 0
+  index: -1
+zhuanzi1
+  rotate: false
+  xy: 194, 1799
+  size: 224, 91
+  orig: 224, 91
+  offset: 0, 0
+  index: -1
+zhuanzi2
+  rotate: false
+  xy: 1630, 1882
+  size: 100, 58
+  orig: 100, 58
+  offset: 0, 0
+  index: -1
+
+UiNewFubenNuoketi2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj2
+  rotate: false
+  xy: 2, 2
+  size: 1441, 907
+  orig: 1441, 907
+  offset: 0, 0
+  index: -1

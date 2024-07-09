@@ -1,0 +1,279 @@
+
+UiMovieHbBossRole2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 1450, 121
+  size: 186, 157
+  orig: 186, 157
+  offset: 0, 0
+  index: -1
+dabil
+  rotate: true
+  xy: 0, 204
+  size: 281, 704
+  orig: 281, 704
+  offset: 0, 0
+  index: -1
+dabir
+  rotate: false
+  xy: 640, 809
+  size: 368, 440
+  orig: 368, 440
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 1008, 809
+  size: 167, 69
+  orig: 174, 69
+  offset: 7, 0
+  index: -1
+fa10
+  rotate: false
+  xy: 149, 4
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+fa11
+  rotate: true
+  xy: 616, 1249
+  size: 26, 141
+  orig: 26, 141
+  offset: 0, 0
+  index: -1
+fa12
+  rotate: true
+  xy: 616, 1275
+  size: 87, 213
+  orig: 87, 213
+  offset: 0, 0
+  index: -1
+fa13
+  rotate: true
+  xy: 993, 1270
+  size: 92, 141
+  orig: 92, 141
+  offset: 0, 0
+  index: -1
+fa14
+  rotate: true
+  xy: 846, 7
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 829, 1258
+  size: 164, 104
+  orig: 164, 107
+  offset: 0, 3
+  index: -1
+fa3
+  rotate: false
+  xy: 194, 21
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: false
+  xy: 1573, 3
+  size: 101, 118
+  orig: 101, 118
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: false
+  xy: 1115, 261
+  size: 246, 260
+  orig: 246, 260
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: true
+  xy: 660, 9
+  size: 53, 100
+  orig: 53, 100
+  offset: 0, 0
+  index: -1
+fa7
+  rotate: false
+  xy: 1450, 24
+  size: 123, 97
+  orig: 123, 97
+  offset: 0, 0
+  index: -1
+fa8
+  rotate: false
+  xy: 1361, 307
+  size: 157, 234
+  orig: 157, 234
+  offset: 0, 0
+  index: -1
+fa9
+  rotate: false
+  xy: 1275, 45
+  size: 175, 216
+  orig: 175, 216
+  offset: 0, 0
+  index: -1
+guashi
+  rotate: true
+  xy: 1134, 1288
+  size: 74, 161
+  orig: 74, 161
+  offset: 0, 0
+  index: -1
+guashi1
+  rotate: false
+  xy: 918, 16
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+guashi2
+  rotate: false
+  xy: 104, 0
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+pifengl
+  rotate: false
+  xy: 616, 1362
+  size: 589, 686
+  orig: 589, 686
+  offset: 0, 0
+  index: -1
+pifengl2
+  rotate: true
+  xy: 991, 6
+  size: 254, 284
+  orig: 254, 284
+  offset: 0, 0
+  index: -1
+pifengl3
+  rotate: true
+  xy: 640, 491
+  size: 318, 316
+  orig: 318, 316
+  offset: 0, 0
+  index: -1
+pifengl4
+  rotate: false
+  xy: 380, 9
+  size: 280, 195
+  orig: 280, 195
+  offset: 0, 0
+  index: -1
+pifengr
+  rotate: false
+  xy: 956, 521
+  size: 342, 288
+  orig: 342, 288
+  offset: 0, 0
+  index: -1
+pifengr1
+  rotate: true
+  xy: 760, 6
+  size: 56, 86
+  orig: 56, 86
+  offset: 0, 0
+  index: -1
+pifengr2
+  rotate: false
+  xy: 0, 485
+  size: 640, 743
+  orig: 640, 743
+  offset: 0, 0
+  index: -1
+pifengr4
+  rotate: true
+  xy: 0, 44
+  size: 160, 380
+  orig: 160, 380
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 1228
+  size: 616, 820
+  orig: 616, 820
+  offset: 0, 0
+  index: -1
+shizhi
+  rotate: true
+  xy: 1518, 428
+  size: 113, 84
+  orig: 113, 84
+  offset: 0, 0
+  index: -1
+wumingzhi
+  rotate: false
+  xy: 1175, 809
+  size: 140, 69
+  orig: 140, 69
+  offset: 0, 0
+  index: -1
+xiaobir
+  rotate: true
+  xy: 1008, 878
+  size: 392, 333
+  orig: 392, 333
+  offset: 0, 0
+  index: -1
+xiaozhir
+  rotate: true
+  xy: 1205, 1947
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+yiling
+  rotate: true
+  xy: 660, 62
+  size: 142, 331
+  orig: 142, 331
+  offset: 0, 0
+  index: -1
+yiling1
+  rotate: true
+  xy: 0, 5
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+yiling2
+  rotate: true
+  xy: 54, 3
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+yiling3
+  rotate: true
+  xy: 704, 260
+  size: 231, 411
+  orig: 231, 411
+  offset: 0, 0
+  index: -1
+yiling4
+  rotate: false
+  xy: 1518, 334
+  size: 89, 94
+  orig: 89, 94
+  offset: 0, 0
+  index: -1
+yixiu
+  rotate: false
+  xy: 1298, 541
+  size: 292, 268
+  orig: 292, 268
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+UiMovieLuxiya01ZsKou.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: true
+  xy: 86, 315
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+zs_tou
+  rotate: false
+  xy: 0, 0
+  size: 194, 314
+  orig: 194, 314
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 47, 319
+  size: 39, 11
+  orig: 39, 11
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 113, 314
+  size: 39, 16
+  orig: 39, 16
+  offset: 0, 0
+  index: -1
+zui3
+  rotate: false
+  xy: 0, 321
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+zui4
+  rotate: false
+  xy: 25, 321
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1

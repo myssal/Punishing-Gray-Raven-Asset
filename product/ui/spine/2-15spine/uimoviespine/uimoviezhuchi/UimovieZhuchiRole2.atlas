@@ -1,0 +1,97 @@
+
+UimovieZhuchiRole2.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: 180
+  xy: 185, 356
+  size: 158, 166
+  orig: 158, 166
+  offset: 0, 0
+  index: -1
+houfa1
+  rotate: true
+  xy: 389, 276
+  size: 397, 353
+  orig: 397, 353
+  offset: 0, 0
+  index: -1
+houfa2
+  rotate: true
+  xy: 377, 555
+  size: 69, 153
+  orig: 69, 153
+  offset: 0, 0
+  index: -1
+huzi2
+  rotate: true
+  xy: 1, 28
+  size: 78, 181
+  orig: 78, 181
+  offset: 0, 0
+  index: -1
+nianzhu1
+  rotate: false
+  xy: 692, 617
+  size: 87, 376
+  orig: 87, 376
+  offset: 0, 0
+  index: -1
+nianzhu2
+  rotate: false
+  xy: 724, 376
+  size: 59, 238
+  orig: 59, 238
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 516
+  size: 559, 775
+  orig: 559, 775
+  offset: 0, 0
+  index: -1
+yshou
+  rotate: false
+  xy: 534, 668
+  size: 222, 609
+  orig: 222, 609
+  offset: 0, 0
+  index: -1
+zdabi
+  rotate: false
+  xy: 433, 3
+  size: 142, 143
+  orig: 144, 145
+  offset: 1, 1
+  index: -1
+zshou
+  rotate: true
+  xy: 575, 2
+  size: 274, 211
+  orig: 274, 211
+  offset: 0, 0
+  index: -1
+zxiu1
+  rotate: 270
+  xy: 1, 104
+  size: 243, 644
+  orig: 243, 644
+  offset: 0, 0
+  index: -1
+zxiu2
+  rotate: false
+  xy: 1, 216
+  size: 186, 334
+  orig: 186, 334
+  offset: 0, 0
+  index: -1
+zzhi
+  rotate: false
+  xy: 182, 7
+  size: 108, 84
+  orig: 108, 84
+  offset: 0, 0
+  index: -1

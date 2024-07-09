@@ -1,0 +1,139 @@
+
+UiMovieLuxiya01Role.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_meimao
+  rotate: false
+  xy: 170, 0
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+l_yanjing
+  rotate: false
+  xy: 837, 713
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+l_yanpi
+  rotate: false
+  xy: 837, 664
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+lh1
+  rotate: false
+  xy: 821, 491
+  size: 78, 158
+  orig: 78, 158
+  offset: 0, 0
+  index: -1
+lh2
+  rotate: true
+  xy: 902, 602
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+lh3
+  rotate: false
+  xy: 656, 28
+  size: 180, 152
+  orig: 180, 152
+  offset: 0, 0
+  index: -1
+lh5
+  rotate: true
+  xy: 917, 722
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+lh6
+  rotate: false
+  xy: 733, 445
+  size: 85, 204
+  orig: 85, 204
+  offset: 0, 0
+  index: -1
+lh7
+  rotate: true
+  xy: 170, 17
+  size: 125, 144
+  orig: 125, 144
+  offset: 0, 0
+  index: -1
+lh8
+  rotate: true
+  xy: 3, 9
+  size: 133, 164
+  orig: 133, 164
+  offset: 0, 0
+  index: -1
+lh9
+  rotate: true
+  xy: 733, 365
+  size: 80, 201
+  orig: 80, 201
+  offset: 0, 0
+  index: -1
+r_meimao
+  rotate: false
+  xy: 234, 0
+  size: 57, 17
+  orig: 57, 17
+  offset: 0, 0
+  index: -1
+r_yanjing
+  rotate: false
+  xy: 837, 762
+  size: 81, 51
+  orig: 81, 51
+  offset: 0, 0
+  index: -1
+r_yanpi
+  rotate: false
+  xy: 821, 447
+  size: 82, 44
+  orig: 82, 44
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: false
+  xy: 317, 180
+  size: 413, 838
+  orig: 413, 838
+  offset: 0, 0
+  index: -1
+tf3
+  rotate: false
+  xy: 733, 813
+  size: 112, 205
+  orig: 112, 205
+  offset: 0, 0
+  index: -1
+tf4
+  rotate: false
+  xy: 3, 142
+  size: 300, 876
+  orig: 300, 876
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 733, 649
+  size: 164, 101
+  orig: 164, 101
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 317, 4
+  size: 336, 176
+  orig: 336, 176
+  offset: 0, 0
+  index: -1

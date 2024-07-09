@@ -1,0 +1,41 @@
+
+UiMovieHbBossRole.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meil
+  rotate: true
+  xy: 239, 142
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+meir
+  rotate: true
+  xy: 194, 97
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+shangyanpir
+  rotate: false
+  xy: 194, 66
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+xiayanpir
+  rotate: true
+  xy: 194, 3
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+yanzhao
+  rotate: false
+  xy: 0, 0
+  size: 194, 176
+  orig: 194, 176
+  offset: 0, 0
+  index: -1

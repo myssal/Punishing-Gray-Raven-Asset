@@ -1,0 +1,76 @@
+
+UimovieZhuchiKou.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: false
+  xy: 360, 135
+  size: 84, 119
+  orig: 84, 119
+  offset: 0, 0
+  index: -1
+chunzhu
+  rotate: false
+  xy: 386, 58
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+koudi
+  rotate: true
+  xy: 408, 1
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+kouqiang
+  rotate: true
+  xy: 416, 73
+  size: 61, 23
+  orig: 61, 23
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 1, 5
+  size: 249, 358
+  orig: 249, 358
+  offset: 0, 0
+  index: -1
+shangchi
+  rotate: true
+  xy: 375, 3
+  size: 54, 11
+  orig: 54, 11
+  offset: 0, 0
+  index: -1
+shangchun
+  rotate: true
+  xy: 360, 58
+  size: 76, 25
+  orig: 76, 25
+  offset: 0, 0
+  index: -1
+xiachi
+  rotate: true
+  xy: 360, 1
+  size: 56, 14
+  orig: 56, 14
+  offset: 0, 0
+  index: -1
+xiachun
+  rotate: true
+  xy: 386, 67
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+yflw
+  rotate: false
+  xy: 438, 20
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1

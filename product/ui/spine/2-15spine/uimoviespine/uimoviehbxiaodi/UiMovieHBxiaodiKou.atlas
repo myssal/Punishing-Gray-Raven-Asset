@@ -1,0 +1,139 @@
+
+UiMovieHBxiaodiKou.png
+size: 512,512
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+azuixin1
+  rotate: false
+  xy: 2, 14
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+azuixin2
+  rotate: false
+  xy: 198, 6
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+azuixin3
+  rotate: true
+  xy: 484, 217
+  size: 57, 22
+  orig: 57, 22
+  offset: 0, 0
+  index: -1
+azuixin4
+  rotate: false
+  xy: 96, 20
+  size: 36, 11
+  orig: 36, 11
+  offset: 0, 0
+  index: -1
+azuixin5
+  rotate: false
+  xy: 55, 7
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+azuixin6
+  rotate: true
+  xy: 227, 10
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: true
+  xy: 322, 65
+  size: 57, 90
+  orig: 57, 90
+  offset: 0, 0
+  index: -1
+bizixiayy
+  rotate: false
+  xy: 168, 10
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+jingewen7
+  rotate: true
+  xy: 456, 216
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+moernbiziyy
+  rotate: true
+  xy: 414, 40
+  size: 27, 80
+  orig: 27, 80
+  offset: 0, 0
+  index: -1
+moren1
+  rotate: false
+  xy: 322, 2
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+moren2
+  rotate: true
+  xy: 464, 11
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+moren4
+  rotate: true
+  xy: 322, 213
+  size: 61, 132
+  orig: 61, 132
+  offset: 0, 0
+  index: -1
+moren5
+  rotate: false
+  xy: 414, 69
+  size: 86, 45
+  orig: 86, 45
+  offset: 0, 0
+  index: -1
+moren6
+  rotate: true
+  xy: 322, 124
+  size: 87, 120
+  orig: 87, 120
+  offset: 0, 0
+  index: -1
+she
+  rotate: false
+  xy: 134, 16
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+tongyong1
+  rotate: true
+  xy: 400, 9
+  size: 29, 62
+  orig: 29, 62
+  offset: 0, 0
+  index: -1
+tongyong2
+  rotate: false
+  xy: 444, 116
+  size: 56, 95
+  orig: 56, 95
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 33
+  size: 241, 318
+  orig: 241, 318
+  offset: 0, 0
+  index: -1

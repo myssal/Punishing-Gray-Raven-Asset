@@ -1,0 +1,20 @@
+
+UiTurntableMainShatan.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BgShatan
+  rotate: false
+  xy: 0, 0
+  size: 1538, 791
+  orig: 1538, 792
+  offset: 0, 1
+  index: -1
+Haishui
+  rotate: false
+  xy: 0, 791
+  size: 1538, 858
+  orig: 1538, 858
+  offset: 0, 0
+  index: -1

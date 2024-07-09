@@ -1,0 +1,104 @@
+
+UiMovieLuxiya01ZsRole2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bozi
+  rotate: true
+  xy: 489, 18
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+diaozui
+  rotate: false
+  xy: 742, 14
+  size: 120, 199
+  orig: 120, 199
+  offset: 0, 0
+  index: -1
+tf10
+  rotate: false
+  xy: 0, 1292
+  size: 564, 742
+  orig: 564, 742
+  offset: 0, 0
+  index: -1
+tf7
+  rotate: true
+  xy: 0, 101
+  size: 537, 504
+  orig: 537, 504
+  offset: 0, 0
+  index: -1
+tf8
+  rotate: false
+  xy: 0, 638
+  size: 613, 654
+  orig: 613, 654
+  offset: 0, 0
+  index: -1
+tf9
+  rotate: false
+  xy: 568, 5
+  size: 174, 208
+  orig: 174, 208
+  offset: 0, 0
+  index: -1
+weijin2
+  rotate: true
+  xy: 349, 19
+  size: 82, 140
+  orig: 82, 140
+  offset: 0, 0
+  index: -1
+weijin4
+  rotate: false
+  xy: 0, 7
+  size: 184, 94
+  orig: 184, 94
+  offset: 0, 0
+  index: -1
+zs_l_shoubi
+  rotate: false
+  xy: 884, 748
+  size: 236, 546
+  orig: 236, 546
+  offset: 0, 0
+  index: -1
+zs_r_shoubi
+  rotate: false
+  xy: 613, 748
+  size: 271, 546
+  orig: 271, 546
+  offset: 0, 0
+  index: -1
+zs_st
+  rotate: true
+  xy: 504, 213
+  size: 425, 572
+  orig: 425, 572
+  offset: 0, 0
+  index: -1
+zs_tf5
+  rotate: false
+  xy: 564, 1294
+  size: 384, 740
+  orig: 384, 740
+  offset: 0, 0
+  index: -1
+zs_weijin3
+  rotate: true
+  xy: 184, 30
+  size: 71, 165
+  orig: 71, 165
+  offset: 0, 0
+  index: -1
+zs_weijin3_2
+  rotate: true
+  xy: 184, 0
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1

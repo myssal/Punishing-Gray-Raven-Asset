@@ -1,0 +1,55 @@
+
+UiMoviePMnpc02Role2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+npc21
+  rotate: true
+  xy: 0, 0
+  size: 74, 228
+  orig: 74, 228
+  offset: 0, 0
+  index: -1
+npc22
+  rotate: true
+  xy: 707, 145
+  size: 143, 194
+  orig: 143, 194
+  offset: 0, 0
+  index: -1
+npc23
+  rotate: false
+  xy: 542, 29
+  size: 165, 314
+  orig: 165, 314
+  offset: 0, 0
+  index: -1
+npc24
+  rotate: false
+  xy: 0, 343
+  size: 561, 623
+  orig: 561, 623
+  offset: 0, 0
+  index: -1
+npc25
+  rotate: true
+  xy: 0, 74
+  size: 269, 542
+  orig: 269, 542
+  offset: 0, 0
+  index: -1
+npc26
+  rotate: false
+  xy: 561, 442
+  size: 205, 524
+  orig: 205, 524
+  offset: 0, 0
+  index: -1
+npc27
+  rotate: true
+  xy: 707, 288
+  size: 154, 188
+  orig: 154, 188
+  offset: 0, 0
+  index: -1

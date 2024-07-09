@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"ulfpTCKLRV1sB5Mz6Oh7XE9DiNE","spine":"3.8.99","x":-1921,"y":-1081,"width":3842,"height":2162},"bones":[{"name":"root"}],"slots":[{"name":"beijing","bone":"root","attachment":"beijing"}],"skins":[{"name":"default","attachments":{"beijing":{"beijing":{"width":3842,"height":2162}}}}],"animations":{"Enable":{},"idle":{}}}

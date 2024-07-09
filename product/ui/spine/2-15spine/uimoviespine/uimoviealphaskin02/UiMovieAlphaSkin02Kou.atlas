@@ -1,0 +1,55 @@
+
+UiMovieAlphaSkin02Kou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: true
+  xy: 48, 207
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+kongnei
+  rotate: false
+  xy: 129, 200
+  size: 61, 26
+  orig: 62, 26
+  offset: 1, 0
+  index: -1
+lian
+  rotate: true
+  xy: 0, 0
+  size: 160, 198
+  orig: 161, 198
+  offset: 1, 0
+  index: -1
+shangchi
+  rotate: false
+  xy: 0, 216
+  size: 48, 10
+  orig: 48, 10
+  offset: 0, 0
+  index: -1
+shangzui
+  rotate: false
+  xy: 71, 160
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+xiachi
+  rotate: false
+  xy: 72, 206
+  size: 57, 20
+  orig: 57, 20
+  offset: 0, 0
+  index: -1
+xiazui
+  rotate: false
+  xy: 0, 178
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1
