@@ -1,0 +1,13 @@
+
+ActivityBaZhiBg.png
+size: 1922,1164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 0, 0
+  size: 1922, 1164
+  orig: 1922, 1164
+  offset: 0, 0
+  index: -1

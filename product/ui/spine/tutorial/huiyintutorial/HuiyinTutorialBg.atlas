@@ -1,0 +1,209 @@
+
+HuiyinTutorialBg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 952
+  size: 1921, 1081
+  orig: 1921, 1081
+  offset: 0, 0
+  index: -1
+dengpiao01
+  rotate: false
+  xy: 2021, 1167
+  size: 22, 98
+  orig: 22, 98
+  offset: 0, 0
+  index: -1
+dengpiao1
+  rotate: true
+  xy: 1035, 917
+  size: 33, 101
+  orig: 33, 101
+  offset: 0, 0
+  index: -1
+dengpidao2
+  rotate: false
+  xy: 1774, 895
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+dengzhu
+  rotate: false
+  xy: 1925, 1617
+  size: 121, 416
+  orig: 121, 416
+  offset: 0, 0
+  index: -1
+dihzhu2
+  rotate: false
+  xy: 868, 562
+  size: 529, 348
+  orig: 529, 348
+  offset: 0, 0
+  index: -1
+dipaodai7
+  rotate: true
+  xy: 1318, 12
+  size: 65, 235
+  orig: 76, 235
+  offset: 11, 0
+  index: -1
+dipiaodai1
+  rotate: true
+  xy: 1925, 912
+  size: 153, 69
+  orig: 153, 69
+  offset: 0, 0
+  index: -1
+dipiaodai10
+  rotate: true
+  xy: 1996, 834
+  size: 87, 36
+  orig: 87, 36
+  offset: 0, 0
+  index: -1
+dipiaodai2
+  rotate: true
+  xy: 1247, 931
+  size: 19, 85
+  orig: 19, 85
+  offset: 0, 0
+  index: -1
+dipiaodai3
+  rotate: true
+  xy: 1996, 923
+  size: 142, 39
+  orig: 142, 39
+  offset: 0, 0
+  index: -1
+dipiaodai4
+  rotate: false
+  xy: 1138, 919
+  size: 69, 31
+  orig: 71, 32
+  offset: 2, 1
+  index: -1
+dipiaodai5
+  rotate: true
+  xy: 1586, 506
+  size: 444, 186
+  orig: 444, 186
+  offset: 0, 0
+  index: -1
+dipiaodai6
+  rotate: false
+  xy: 1109, 2
+  size: 53, 287
+  orig: 53, 287
+  offset: 0, 0
+  index: -1
+dipiaodai8
+  rotate: false
+  xy: 2021, 1267
+  size: 24, 84
+  orig: 24, 84
+  offset: 0, 0
+  index: -1
+dipiaoidai9
+  rotate: true
+  xy: 868, 916
+  size: 34, 165
+  orig: 34, 165
+  offset: 0, 0
+  index: -1
+dizhu1
+  rotate: true
+  xy: 868, 12
+  size: 548, 239
+  orig: 548, 239
+  offset: 0, 0
+  index: -1
+jia_chuang
+  rotate: false
+  xy: 2, 101
+  size: 864, 849
+  orig: 864, 849
+  offset: 0, 0
+  index: -1
+jia_erhuai
+  rotate: true
+  xy: 1209, 922
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+jia_erhuai_l
+  rotate: false
+  xy: 2021, 1133
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+jia_head
+  rotate: false
+  xy: 1164, 28
+  size: 152, 261
+  orig: 153, 267
+  offset: 1, 6
+  index: -1
+jia_pifeng
+  rotate: true
+  xy: 1365, 79
+  size: 296, 437
+  orig: 296, 437
+  offset: 0, 0
+  index: -1
+jia_shou_l
+  rotate: false
+  xy: 1925, 1067
+  size: 94, 284
+  orig: 101, 284
+  offset: 0, 0
+  index: -1
+jia_shou_r
+  rotate: false
+  xy: 1925, 1353
+  size: 118, 262
+  orig: 137, 273
+  offset: 19, 0
+  index: -1
+jia_torso
+  rotate: false
+  xy: 1774, 453
+  size: 241, 379
+  orig: 241, 393
+  offset: 0, 14
+  index: -1
+shipaio
+  rotate: true
+  xy: 1804, 53
+  size: 398, 236
+  orig: 398, 236
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: true
+  xy: 1586, 399
+  size: 52, 199
+  orig: 52, 199
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: true
+  xy: 1399, 377
+  size: 573, 185
+  orig: 573, 185
+  offset: 0, 0
+  index: -1
+tp
+  rotate: true
+  xy: 1109, 291
+  size: 269, 254
+  orig: 269, 254
+  offset: 0, 0
+  index: -1

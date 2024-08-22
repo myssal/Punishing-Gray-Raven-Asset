@@ -1,5 +1,8 @@
 # **PGR Assets**
 
->  Assets ingame and design sheet for PGR.
+Assets in-game and design sheet for PGR.
 
->  Update for reference purpose
+Update for reference purpose.
+
+-------------------------------
+**Know issue**: some spine textures have wrong resolutions, will fix later.
