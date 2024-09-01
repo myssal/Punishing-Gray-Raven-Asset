@@ -1,0 +1,125 @@
+
+UiSummerSignInMain3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 675
+  size: 1920, 1080
+  orig: 1922, 1082
+  offset: 1, 1
+  index: -1
+p1
+  rotate: false
+  xy: 1924, 895
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+p2
+  rotate: true
+  xy: 1924, 1515
+  size: 96, 94
+  orig: 98, 96
+  offset: 1, 1
+  index: -1
+p3
+  rotate: false
+  xy: 1924, 959
+  size: 66, 68
+  orig: 68, 70
+  offset: 1, 1
+  index: -1
+p4
+  rotate: false
+  xy: 1924, 1613
+  size: 119, 142
+  orig: 121, 144
+  offset: 1, 1
+  index: -1
+p5
+  rotate: false
+  xy: 1924, 1029
+  size: 73, 73
+  orig: 75, 75
+  offset: 1, 1
+  index: -1
+p6
+  rotate: false
+  xy: 1924, 1104
+  size: 80, 87
+  orig: 82, 89
+  offset: 1, 1
+  index: -1
+p7
+  rotate: true
+  xy: 1924, 1410
+  size: 103, 93
+  orig: 105, 95
+  offset: 1, 1
+  index: -1
+ys
+  rotate: true
+  xy: 764, 199
+  size: 474, 608
+  orig: 474, 608
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: true
+  xy: 1374, 340
+  size: 333, 246
+  orig: 339, 255
+  offset: 0, 0
+  index: -1
+yy2
+  rotate: false
+  xy: 764, 15
+  size: 433, 182
+  orig: 433, 185
+  offset: 0, 1
+  index: -1
+yy3
+  rotate: true
+  xy: 1199, 2
+  size: 195, 155
+  orig: 195, 155
+  offset: 0, 0
+  index: -1
+yy4
+  rotate: false
+  xy: 1356, 25
+  size: 216, 134
+  orig: 216, 134
+  offset: 0, 0
+  index: -1
+yy5
+  rotate: false
+  xy: 1374, 161
+  size: 456, 177
+  orig: 461, 177
+  offset: 0, 0
+  index: -1
+zs1
+  rotate: true
+  xy: 2, 110
+  size: 563, 760
+  orig: 563, 760
+  offset: 0, 0
+  index: -1
+zy1
+  rotate: false
+  xy: 1622, 461
+  size: 243, 212
+  orig: 243, 212
+  offset: 0, 0
+  index: -1
+zy2
+  rotate: false
+  xy: 1924, 1193
+  size: 82, 215
+  orig: 82, 215
+  offset: 0, 0
+  index: -1
