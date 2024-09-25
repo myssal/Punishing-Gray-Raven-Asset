@@ -1,0 +1,188 @@
+
+UiGame2048ChapterSpine.png
+size: 284,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sty1
+  rotate: false
+  xy: 131, 20
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+sty10
+  rotate: false
+  xy: 179, 50
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+sty11
+  rotate: true
+  xy: 0, 1
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+sty2
+  rotate: true
+  xy: 55, 41
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+sty3
+  rotate: false
+  xy: 143, 93
+  size: 87, 44
+  orig: 87, 44
+  offset: 0, 0
+  index: -1
+sty4
+  rotate: false
+  xy: 0, 54
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+sty5
+  rotate: true
+  xy: 179, 10
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+sty6
+  rotate: true
+  xy: 247, 65
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+sty7
+  rotate: true
+  xy: 167, 27
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+sty8
+  rotate: false
+  xy: 230, 91
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+sty9
+  rotate: false
+  xy: 0, 169
+  size: 174, 115
+  orig: 174, 115
+  offset: 0, 0
+  index: -1
+stz1
+  rotate: true
+  xy: 91, 16
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+stz10
+  rotate: true
+  xy: 52, 0
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+stz11
+  rotate: false
+  xy: 229, 21
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+stz12
+  rotate: true
+  xy: 76, 24
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+stz13
+  rotate: false
+  xy: 93, 64
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+stz14
+  rotate: false
+  xy: 93, 111
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+stz15
+  rotate: false
+  xy: 218, 42
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+stz2
+  rotate: true
+  xy: 0, 22
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+stz3
+  rotate: true
+  xy: 76, 10
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+stz4
+  rotate: true
+  xy: 202, 18
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+stz5
+  rotate: true
+  xy: 174, 137
+  size: 147, 100
+  orig: 147, 100
+  offset: 0, 0
+  index: -1
+stz6
+  rotate: false
+  xy: 139, 44
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+stz7
+  rotate: false
+  xy: 28, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+stz8
+  rotate: false
+  xy: 0, 85
+  size: 93, 84
+  orig: 93, 84
+  offset: 0, 0
+  index: -1
+stz9
+  rotate: false
+  xy: 143, 140
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

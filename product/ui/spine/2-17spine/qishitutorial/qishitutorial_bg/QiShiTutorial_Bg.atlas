@@ -1,0 +1,55 @@
+
+QiShiTutorial_Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+bg
+  rotate: false
+  xy: 2, 682
+  size: 1601, 901
+  orig: 1601, 901
+  offset: 0, 0
+  index: -1
+bianan2
+  rotate: false
+  xy: 1612, 266
+  size: 269, 414
+  orig: 269, 414
+  offset: 0, 0
+  index: -1
+lunkuo
+  rotate: false
+  xy: 973, 28
+  size: 180, 207
+  orig: 180, 207
+  offset: 0, 0
+  index: -1
+lunkuo2
+  rotate: true
+  xy: 1018, 4
+  size: 327, 558
+  orig: 327, 558
+  offset: 0, 0
+  index: -1
+wu1
+  rotate: false
+  xy: 1018, 333
+  size: 591, 348
+  orig: 591, 348
+  offset: 0, 0
+  index: -1
+wu2
+  rotate: true
+  xy: 1604, 682
+  size: 866, 244
+  orig: 866, 244
+  offset: 0, 0
+  index: -1
+wu3
+  rotate: false
+  xy: 2, 206
+  size: 1015, 474
+  orig: 1015, 474
+  offset: 0, 0
+  index: -1
