@@ -1,0 +1,48 @@
+
+HeiYanloginhyh.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hyh
+  rotate: false
+  xy: 2, 108
+  size: 524, 104
+  orig: 533, 104
+  offset: 0, 0
+  index: -1
+hyh2
+  rotate: false
+  xy: 1054, 140
+  size: 524, 72
+  orig: 533, 104
+  offset: 0, 16
+  index: -1
+hyh3
+  rotate: false
+  xy: 1054, 66
+  size: 524, 72
+  orig: 533, 104
+  offset: 0, 16
+  index: -1
+hyh4
+  rotate: false
+  xy: 2, 2
+  size: 524, 104
+  orig: 533, 104
+  offset: 0, 0
+  index: -1
+hyh5
+  rotate: false
+  xy: 528, 108
+  size: 524, 104
+  orig: 533, 104
+  offset: 0, 0
+  index: -1
+hyh8
+  rotate: false
+  xy: 528, 2
+  size: 524, 104
+  orig: 533, 104
+  offset: 0, 0
+  index: -1

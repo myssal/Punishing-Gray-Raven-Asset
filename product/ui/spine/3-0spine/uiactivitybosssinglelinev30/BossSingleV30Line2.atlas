@@ -1,0 +1,13 @@
+
+BossSingleV30Line2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Line2
+  rotate: false
+  xy: 0, 0
+  size: 819, 507
+  orig: 819, 507
+  offset: 0, 0
+  index: -1

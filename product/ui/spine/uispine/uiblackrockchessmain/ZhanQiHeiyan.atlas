@@ -1,0 +1,279 @@
+
+ZhanQiHeiyan.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa1
+  rotate: true
+  xy: 983, 755
+  size: 189, 297
+  orig: 189, 297
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 860, 2
+  size: 157, 384
+  orig: 157, 384
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 1792, 1169
+  size: 193, 262
+  orig: 193, 262
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: true
+  xy: 2, 36
+  size: 77, 281
+  orig: 77, 281
+  offset: 0, 0
+  index: -1
+gs
+  rotate: true
+  xy: 1077, 350
+  size: 193, 189
+  orig: 193, 189
+  offset: 0, 0
+  index: -1
+gsd
+  rotate: true
+  xy: 689, 388
+  size: 155, 386
+  orig: 155, 386
+  offset: 0, 0
+  index: -1
+gsx
+  rotate: false
+  xy: 983, 1254
+  size: 40, 124
+  orig: 40, 124
+  offset: 0, 0
+  index: -1
+gsz
+  rotate: true
+  xy: 983, 1436
+  size: 206, 52
+  orig: 206, 52
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 1019, 177
+  size: 171, 171
+  orig: 171, 171
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 115
+  size: 290, 292
+  orig: 290, 292
+  offset: 0, 0
+  index: -1
+hf1
+  rotate: true
+  xy: 294, 28
+  size: 177, 373
+  orig: 177, 373
+  offset: 0, 0
+  index: -1
+hf2
+  rotate: false
+  xy: 2, 953
+  size: 352, 369
+  orig: 354, 371
+  offset: 1, 1
+  index: -1
+hyh
+  rotate: false
+  xy: 2, 1803
+  size: 1048, 206
+  orig: 1066, 208
+  offset: 0, 1
+  index: -1
+hyh2
+  rotate: true
+  xy: 359, 753
+  size: 1048, 206
+  orig: 1066, 208
+  offset: 0, 1
+  index: -1
+hyh3
+  rotate: false
+  xy: 344, 545
+  size: 1048, 206
+  orig: 1066, 208
+  offset: 0, 1
+  index: -1
+hyh4
+  rotate: true
+  xy: 567, 753
+  size: 1048, 206
+  orig: 1066, 208
+  offset: 0, 1
+  index: -1
+hyh5
+  rotate: true
+  xy: 775, 753
+  size: 1048, 206
+  orig: 1066, 208
+  offset: 0, 1
+  index: -1
+hyh6
+  rotate: false
+  xy: 983, 946
+  size: 1048, 206
+  orig: 1066, 208
+  offset: 0, 1
+  index: -1
+lzd
+  rotate: true
+  xy: 1987, 1358
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+lzx
+  rotate: true
+  xy: 1034, 1164
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+lzz
+  rotate: true
+  xy: 1014, 1162
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+maweiyou
+  rotate: false
+  xy: 1394, 251
+  size: 328, 693
+  orig: 328, 693
+  offset: 0, 0
+  index: -1
+maweizuo
+  rotate: false
+  xy: 2, 409
+  size: 340, 542
+  orig: 340, 542
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 1792, 1705
+  size: 304, 226
+  orig: 304, 226
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 1324
+  size: 355, 477
+  orig: 365, 483
+  offset: 10, 6
+  index: -1
+tou1
+  rotate: true
+  xy: 344, 207
+  size: 336, 343
+  orig: 386, 343
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 1724, 558
+  size: 386, 319
+  orig: 386, 319
+  offset: 0, 0
+  index: -1
+xian
+  rotate: false
+  xy: 1052, 1154
+  size: 738, 855
+  orig: 740, 857
+  offset: 1, 1
+  index: -1
+yif1
+  rotate: false
+  xy: 1724, 158
+  size: 311, 398
+  orig: 311, 398
+  offset: 0, 0
+  index: -1
+yifu2
+  rotate: true
+  xy: 1792, 1433
+  size: 270, 221
+  orig: 270, 222
+  offset: 0, 1
+  index: -1
+yjm1
+  rotate: true
+  xy: 1014, 1181
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+yjm2
+  rotate: false
+  xy: 344, 929
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 689, 2
+  size: 384, 169
+  orig: 386, 171
+  offset: 1, 1
+  index: -1
+yyb
+  rotate: true
+  xy: 1282, 869
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+yyq
+  rotate: false
+  xy: 983, 1380
+  size: 51, 54
+  orig: 53, 56
+  offset: 1, 1
+  index: -1
+zjm1
+  rotate: true
+  xy: 983, 1157
+  size: 95, 29
+  orig: 95, 29
+  offset: 0, 0
+  index: -1
+zjm2
+  rotate: false
+  xy: 1987, 1389
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+zyb
+  rotate: true
+  xy: 983, 1710
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+zyq
+  rotate: true
+  xy: 983, 1644
+  size: 64, 54
+  orig: 66, 56
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+ChiBeiZheActivity_Bg.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+bg
+  rotate: false
+  xy: 2, 3
+  size: 1738, 895
+  orig: 1738, 895
+  offset: 0, 0
+  index: -1

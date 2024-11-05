@@ -1,0 +1,13 @@
+
+BossSingleV30Line1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Line1
+  rotate: false
+  xy: 0, 0
+  size: 914, 1021
+  orig: 914, 1021
+  offset: 0, 0
+  index: -1

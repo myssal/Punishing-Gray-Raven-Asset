@@ -1,0 +1,48 @@
+
+ChiBeiZheActivity_Yun.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_yun_01
+  rotate: false
+  xy: 258, 71
+  size: 743, 378
+  orig: 743, 378
+  offset: 0, 0
+  index: -1
+Bg_yun_02
+  rotate: false
+  xy: 2, 520
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+Bg_yun_03
+  rotate: false
+  xy: 2, 588
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+Bg_yun_04
+  rotate: 180
+  xy: 1002, 4
+  size: 479, 513
+  orig: 479, 513
+  offset: 0, 0
+  index: -1
+Bg_yun_05
+  rotate: false
+  xy: 2, 110
+  size: 1055, 560
+  orig: 1055, 560
+  offset: 0, 0
+  index: -1
+Bg_yun_06
+  rotate: true
+  xy: 902, 132
+  size: 430, 406
+  orig: 446, 406
+  offset: 16, 0
+  index: -1

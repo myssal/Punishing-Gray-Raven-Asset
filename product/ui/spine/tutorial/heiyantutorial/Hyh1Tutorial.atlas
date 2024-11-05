@@ -1,0 +1,55 @@
+
+Hyh1Tutorial.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kl2.1
+  rotate: true
+  xy: 2, 75
+  size: 170, 184
+  orig: 170, 184
+  offset: 0, 0
+  index: -1
+kl2.2
+  rotate: false
+  xy: 2, 6
+  size: 73, 67
+  orig: 73, 67
+  offset: 0, 0
+  index: -1
+kl2h.2
+  rotate: false
+  xy: 451, 109
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+kl2h.3
+  rotate: false
+  xy: 451, 174
+  size: 48, 71
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+klg
+  rotate: true
+  xy: 188, 20
+  size: 151, 206
+  orig: 151, 206
+  offset: 0, 0
+  index: -1
+zh.1
+  rotate: false
+  xy: 188, 173
+  size: 261, 72
+  orig: 265, 72
+  offset: 0, 0
+  index: -1
+zh1
+  rotate: false
+  xy: 396, 2
+  size: 101, 105
+  orig: 102, 105
+  offset: 0, 0
+  index: -1
