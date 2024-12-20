@@ -1,0 +1,83 @@
+
+Dubianrole2yy.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2dyyoutui
+  rotate: false
+  xy: 1216, 35
+  size: 92, 474
+  orig: 92, 474
+  offset: 0, 0
+  index: -1
+2dyzuotui
+  rotate: false
+  xy: 1310, 2
+  size: 83, 507
+  orig: 91, 507
+  offset: 8, 0
+  index: -1
+2piaodai1
+  rotate: false
+  xy: 2, 3
+  size: 147, 218
+  orig: 147, 218
+  offset: 0, 0
+  index: -1
+2piaodai2
+  rotate: false
+  xy: 385, 92
+  size: 60, 129
+  orig: 60, 129
+  offset: 0, 0
+  index: -1
+2pifeng1
+  rotate: false
+  xy: 2, 223
+  size: 410, 286
+  orig: 410, 286
+  offset: 0, 0
+  index: -1
+2pifeng1.2
+  rotate: false
+  xy: 255, 45
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+2pifeng2
+  rotate: false
+  xy: 414, 259
+  size: 232, 250
+  orig: 232, 250
+  offset: 0, 0
+  index: -1
+2shenti
+  rotate: false
+  xy: 648, 146
+  size: 306, 363
+  orig: 334, 363
+  offset: 28, 0
+  index: -1
+2tou
+  rotate: false
+  xy: 255, 113
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+2xiabai
+  rotate: false
+  xy: 956, 169
+  size: 258, 340
+  orig: 258, 340
+  offset: 0, 0
+  index: -1
+2yaojia
+  rotate: false
+  xy: 151, 20
+  size: 102, 201
+  orig: 102, 201
+  offset: 0, 0
+  index: -1

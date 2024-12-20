@@ -1,0 +1,55 @@
+
+Dubianbjg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bjg2
+  rotate: false
+  xy: 921, 687
+  size: 890, 827
+  orig: 890, 827
+  offset: 0, 0
+  index: -1
+caihng2.1
+  rotate: false
+  xy: 2, 2
+  size: 569, 325
+  orig: 569, 325
+  offset: 0, 0
+  index: -1
+caihong1
+  rotate: false
+  xy: 1350, 1516
+  size: 82, 285
+  orig: 82, 285
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 2, 1630
+  size: 1346, 171
+  orig: 1346, 173
+  offset: 0, 1
+  index: -1
+guang2
+  rotate: false
+  xy: 921, 37
+  size: 746, 648
+  orig: 750, 650
+  offset: 2, 2
+  index: -1
+guang3
+  rotate: false
+  xy: 2, 645
+  size: 917, 983
+  orig: 931, 1023
+  offset: 4, 0
+  index: -1
+guang4
+  rotate: false
+  xy: 2, 329
+  size: 793, 314
+  orig: 795, 316
+  offset: 1, 2
+  index: -1

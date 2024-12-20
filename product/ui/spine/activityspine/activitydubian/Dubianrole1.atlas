@@ -1,0 +1,202 @@
+
+Dubianrole1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1daizi
+  rotate: false
+  xy: 295, 5
+  size: 133, 308
+  orig: 133, 308
+  offset: 0, 0
+  index: -1
+1houfa1
+  rotate: false
+  xy: 588, 171
+  size: 93, 108
+  orig: 104, 108
+  offset: 11, 0
+  index: -1
+1houfa2
+  rotate: false
+  xy: 683, 183
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+1houfa3
+  rotate: false
+  xy: 683, 101
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+1lian
+  rotate: false
+  xy: 171, 213
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+1pifeng1
+  rotate: false
+  xy: 2, 25
+  size: 291, 179
+  orig: 291, 179
+  offset: 0, 0
+  index: -1
+1pifeng2
+  rotate: false
+  xy: 171, 650
+  size: 444, 357
+  orig: 444, 357
+  offset: 0, 0
+  index: -1
+1pifeng3
+  rotate: false
+  xy: 598, 281
+  size: 221, 222
+  orig: 221, 222
+  offset: 0, 0
+  index: -1
+1shenti1
+  rotate: false
+  xy: 2, 206
+  size: 167, 801
+  orig: 167, 801
+  offset: 0, 0
+  index: -1
+1shenti2
+  rotate: false
+  xy: 617, 505
+  size: 115, 502
+  orig: 115, 502
+  offset: 0, 0
+  index: -1
+1tfs1
+  rotate: false
+  xy: 565, 49
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+1tfs2
+  rotate: false
+  xy: 606, 66
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+1tfs3
+  rotate: false
+  xy: 565, 116
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+1tfs4
+  rotate: false
+  xy: 653, 41
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+1tfs5
+  rotate: false
+  xy: 262, 211
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+1tfx1
+  rotate: false
+  xy: 598, 594
+  size: 14, 35
+  orig: 16, 36
+  offset: 1, 0
+  index: -1
+1tfx2
+  rotate: false
+  xy: 565, 229
+  size: 18, 41
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+1tfx3
+  rotate: false
+  xy: 565, 186
+  size: 18, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+1tfy1
+  rotate: false
+  xy: 262, 247
+  size: 31, 66
+  orig: 32, 67
+  offset: 1, 0
+  index: -1
+1tfy2
+  rotate: false
+  xy: 565, 272
+  size: 21, 65
+  orig: 21, 65
+  offset: 0, 0
+  index: -1
+1tfz
+  rotate: false
+  xy: 598, 568
+  size: 8, 24
+  orig: 10, 26
+  offset: 1, 1
+  index: -1
+1xiabai
+  rotate: false
+  xy: 171, 315
+  size: 311, 333
+  orig: 319, 333
+  offset: 0, 0
+  index: -1
+1yanqiou
+  rotate: false
+  xy: 598, 638
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+1yanxian
+  rotate: false
+  xy: 598, 631
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+1yanyy
+  rotate: false
+  xy: 2, 11
+  size: 20, 12
+  orig: 21, 12
+  offset: 1, 0
+  index: -1
+1yaojia
+  rotate: false
+  xy: 430, 114
+  size: 133, 199
+  orig: 133, 199
+  offset: 0, 0
+  index: -1
+1youshou
+  rotate: false
+  xy: 484, 339
+  size: 112, 309
+  orig: 112, 309
+  offset: 0, 0
+  index: -1
+1zuoshou
+  rotate: false
+  xy: 779, 2
+  size: 75, 277
+  orig: 75, 277
+  offset: 0, 0
+  index: -1

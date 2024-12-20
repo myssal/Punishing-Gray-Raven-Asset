@@ -1,0 +1,90 @@
+
+DubianLogin01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feisha1
+  rotate: false
+  xy: 2, 1344
+  size: 216, 104
+  orig: 216, 104
+  offset: 0, 0
+  index: -1
+feisha2
+  rotate: false
+  xy: 597, 682
+  size: 507, 370
+  orig: 507, 370
+  offset: 0, 0
+  index: -1
+feisha3
+  rotate: false
+  xy: 2, 754
+  size: 593, 298
+  orig: 635, 327
+  offset: 33, 0
+  index: -1
+feisha4
+  rotate: false
+  xy: 1206, 1229
+  size: 816, 219
+  orig: 816, 271
+  offset: 0, 26
+  index: -1
+qianjing
+  rotate: false
+  xy: 2, 270
+  size: 580, 482
+  orig: 580, 482
+  offset: 0, 0
+  index: -1
+qianjing2
+  rotate: false
+  xy: 1106, 631
+  size: 552, 421
+  orig: 552, 421
+  offset: 0, 0
+  index: -1
+shachen31
+  rotate: false
+  xy: 575, 1253
+  size: 252, 195
+  orig: 252, 195
+  offset: 0, 0
+  index: -1
+shachen32
+  rotate: false
+  xy: 353, 1313
+  size: 220, 135
+  orig: 220, 135
+  offset: 0, 0
+  index: -1
+shachen36
+  rotate: false
+  xy: 220, 1337
+  size: 131, 111
+  orig: 131, 111
+  offset: 0, 0
+  index: -1
+shachen37
+  rotate: false
+  xy: 829, 1253
+  size: 375, 195
+  orig: 375, 195
+  offset: 0, 0
+  index: -1
+shachen38
+  rotate: false
+  xy: 584, 2
+  size: 1022, 627
+  orig: 1072, 691
+  offset: 25, 32
+  index: -1
+shachen39
+  rotate: false
+  xy: 2, 1054
+  size: 1688, 173
+  orig: 1701, 228
+  offset: 0, 24
+  index: -1

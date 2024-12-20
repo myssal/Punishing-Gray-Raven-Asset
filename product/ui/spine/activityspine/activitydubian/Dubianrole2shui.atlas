@@ -1,0 +1,13 @@
+
+Dubianrole2shui.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2shuiwen
+  rotate: false
+  xy: 2, 2
+  size: 1244, 767
+  orig: 1244, 767
+  offset: 0, 0
+  index: -1

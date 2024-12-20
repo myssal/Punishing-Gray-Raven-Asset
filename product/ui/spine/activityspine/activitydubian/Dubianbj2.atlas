@@ -1,0 +1,20 @@
+
+Dubianbj2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj2
+  rotate: false
+  xy: 2, 560
+  size: 1921, 602
+  orig: 1921, 602
+  offset: 0, 0
+  index: -1
+shui
+  rotate: false
+  xy: 2, 2
+  size: 1886, 556
+  orig: 1886, 556
+  offset: 0, 0
+  index: -1

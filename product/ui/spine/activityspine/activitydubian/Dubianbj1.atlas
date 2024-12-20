@@ -1,0 +1,41 @@
+
+Dubianbj1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj1
+  rotate: false
+  xy: 2, 2
+  size: 1921, 1081
+  orig: 1921, 1081
+  offset: 0, 0
+  index: -1
+qjy.1
+  rotate: false
+  xy: 29, 1215
+  size: 774, 428
+  orig: 774, 428
+  offset: 0, 0
+  index: -1
+qjy.2
+  rotate: false
+  xy: 1670, 1085
+  size: 211, 558
+  orig: 211, 558
+  offset: 0, 0
+  index: -1
+qjy.3
+  rotate: false
+  xy: 2, 1609
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+qjz
+  rotate: false
+  xy: 805, 1152
+  size: 863, 491
+  orig: 863, 491
+  offset: 0, 0
+  index: -1
