@@ -27,28 +27,28 @@ hf3
   index: -1
 hf4
   rotate: true
-  xy: 948, 301
+  xy: 948, 303
   size: 540, 668
   orig: 540, 668
   offset: 0, 0
   index: -1
 kou
   rotate: true
-  xy: 932, 786
+  xy: 932, 788
   size: 22, 10
   orig: 22, 10
   offset: 0, 0
   index: -1
 kou2
   rotate: false
-  xy: 1161, 843
+  xy: 1161, 845
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 kou3
   rotate: false
-  xy: 1114, 841
+  xy: 1114, 843
   size: 14, 10
   orig: 14, 10
   offset: 0, 0
@@ -69,44 +69,44 @@ piaodai2
   index: -1
 piaodai3
   rotate: true
-  xy: 1745, 1185
+  xy: 1743, 1185
   size: 23, 43
   orig: 23, 43
   offset: 0, 0
   index: -1
 piaodai4
   rotate: false
-  xy: 1000, 849
+  xy: 1000, 851
   size: 58, 46
   orig: 58, 46
   offset: 0, 0
   index: -1
 piaodai5
   rotate: true
-  xy: 1391, 862
+  xy: 1391, 864
   size: 15, 38
   orig: 15, 38
   offset: 0, 0
   index: -1
 piaodai6
   rotate: false
-  xy: 1217, 855
+  xy: 1217, 857
   size: 11, 40
   orig: 11, 40
   offset: 0, 0
   index: -1
 siyecao
   rotate: true
-  xy: 1812, 957
+  xy: 1810, 957
   size: 44, 45
   orig: 44, 45
   offset: 0, 0
   index: -1
 st
   rotate: true
-  xy: 681, 1116
-  size: 676, 757
-  orig: 676, 757
+  xy: 681, 1118
+  size: 674, 755
+  orig: 674, 755
   offset: 0, 0
   index: -1
 tf1
@@ -132,7 +132,7 @@ tf11
   index: -1
 tf12
   rotate: true
-  xy: 1702, 943
+  xy: 1700, 943
   size: 58, 110
   orig: 58, 110
   offset: 0, 0
@@ -146,21 +146,21 @@ tf13
   index: -1
 tf14
   rotate: false
-  xy: 1881, 1337
+  xy: 1879, 1337
   size: 96, 218
   orig: 96, 218
   offset: 0, 0
   index: -1
 tf15
   rotate: false
-  xy: 1851, 1185
+  xy: 1849, 1185
   size: 115, 83
   orig: 115, 83
   offset: 0, 0
   index: -1
 tf16
-  rotate: true
-  xy: 1966, 1184
+  rotate: false
+  xy: 1964, 1195
   size: 84, 73
   orig: 84, 73
   offset: 0, 0
@@ -174,14 +174,14 @@ tf2
   index: -1
 tf3
   rotate: true
-  xy: 681, 780
+  xy: 681, 782
   size: 61, 162
   orig: 61, 162
   offset: 0, 0
   index: -1
 tf4
   rotate: true
-  xy: 1000, 895
+  xy: 1000, 897
   size: 221, 229
   orig: 221, 229
   offset: 0, 0
@@ -195,63 +195,63 @@ tf5
   index: -1
 tf6
   rotate: false
-  xy: 1696, 1208
+  xy: 1694, 1208
   size: 155, 115
   orig: 155, 115
   offset: 0, 0
   index: -1
 tf7
   rotate: false
-  xy: 1702, 1001
+  xy: 1700, 1001
   size: 277, 183
   orig: 277, 183
   offset: 0, 0
   index: -1
 tf8
   rotate: true
-  xy: 1851, 1268
+  xy: 1849, 1268
   size: 55, 190
   orig: 55, 190
   offset: 0, 0
   index: -1
 tf9
   rotate: true
-  xy: 1797, 527
+  xy: 1975, 1327
   size: 30, 73
   orig: 30, 73
   offset: 0, 0
   index: -1
 tou
   rotate: true
-  xy: 681, 841
+  xy: 681, 843
   size: 275, 319
   orig: 275, 319
   offset: 0, 0
   index: -1
 toushi
   rotate: true
-  xy: 1229, 877
+  xy: 1229, 879
   size: 239, 202
   orig: 239, 202
   offset: 0, 0
   index: -1
 toushi2
   rotate: false
-  xy: 1977, 1357
+  xy: 1975, 1357
   size: 65, 69
   orig: 65, 69
   offset: 0, 0
   index: -1
 toushi3
   rotate: false
-  xy: 843, 780
+  xy: 843, 782
   size: 89, 61
   orig: 89, 61
   offset: 0, 0
   index: -1
 xx
   rotate: false
-  xy: 1977, 1426
+  xy: 1975, 1426
   size: 71, 129
   orig: 71, 129
   offset: 0, 0
@@ -272,14 +272,14 @@ xx3
   index: -1
 yjm
   rotate: false
-  xy: 1264, 843
+  xy: 1264, 845
   size: 67, 34
   orig: 67, 34
   offset: 0, 0
   index: -1
 yjm2
   rotate: false
-  xy: 1788, 1185
+  xy: 1786, 1185
   size: 43, 23
   orig: 43, 23
   offset: 0, 0
@@ -293,63 +293,63 @@ ymm
   index: -1
 youbi
   rotate: false
-  xy: 1881, 1555
+  xy: 1879, 1555
   size: 163, 237
   orig: 163, 237
   offset: 0, 0
   index: -1
 youbi2
   rotate: false
-  xy: 1696, 1323
+  xy: 1694, 1323
   size: 185, 469
   orig: 185, 469
   offset: 0, 0
   index: -1
 youbi3
   rotate: true
-  xy: 1857, 976
+  xy: 1855, 976
   size: 25, 34
   orig: 25, 34
   offset: 0, 0
   index: -1
 ysyp
   rotate: false
-  xy: 1114, 851
+  xy: 1114, 853
   size: 69, 44
   orig: 69, 44
   offset: 0, 0
   index: -1
 yxyp
   rotate: false
-  xy: 1058, 850
+  xy: 1058, 852
   size: 56, 45
   orig: 56, 45
   offset: 0, 0
   index: -1
 yy
   rotate: true
-  xy: 1331, 845
+  xy: 1331, 847
   size: 32, 60
   orig: 32, 60
   offset: 0, 0
   index: -1
 yyb
   rotate: true
-  xy: 1183, 841
+  xy: 1183, 843
   size: 54, 34
   orig: 54, 34
   offset: 0, 0
   index: -1
 yyz
   rotate: false
-  xy: 1228, 841
+  xy: 1228, 843
   size: 36, 36
   orig: 36, 36
   offset: 0, 0
   index: -1
 zhuangshi
   rotate: true
-  xy: 1438, 943
+  xy: 1436, 943
   size: 241, 264
   orig: 241, 264
   offset: 0, 0
@@ -363,42 +363,42 @@ zjm
   index: -1
 zjm2
   rotate: false
-  xy: 1128, 842
+  xy: 1128, 844
   size: 33, 9
   orig: 33, 9
   offset: 0, 0
   index: -1
 zmm
   rotate: false
-  xy: 1058, 843
+  xy: 1058, 845
   size: 50, 7
   orig: 50, 7
   offset: 0, 0
   index: -1
 zsyp
   rotate: false
-  xy: 1977, 1327
+  xy: 1797, 527
   size: 48, 30
   orig: 48, 30
   offset: 0, 0
   index: -1
 zui
   rotate: true
-  xy: 932, 808
+  xy: 932, 810
   size: 33, 16
   orig: 33, 16
   offset: 0, 0
   index: -1
 zuobi
   rotate: false
-  xy: 1438, 1184
+  xy: 1436, 1184
   size: 258, 608
   orig: 258, 608
   offset: 0, 0
   index: -1
 zxyp
   rotate: false
-  xy: 1696, 1184
+  xy: 1694, 1184
   size: 49, 24
   orig: 49, 24
   offset: 0, 0

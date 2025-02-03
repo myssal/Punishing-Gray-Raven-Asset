@@ -1,0 +1,293 @@
+
+UiSkinMovieLuxiyaHSV32Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg_huahai0
+  rotate: false
+  xy: 704, 1114
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+Bg_huahai1
+  rotate: false
+  xy: 726, 1106
+  size: 20, 73
+  orig: 20, 73
+  offset: 0, 0
+  index: -1
+Bg_huahai13
+  rotate: false
+  xy: 345, 1156
+  size: 6, 24
+  orig: 6, 24
+  offset: 0, 0
+  index: -1
+Bg_huahai14
+  rotate: false
+  xy: 279, 1145
+  size: 64, 35
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+Bg_huahai15
+  rotate: false
+  xy: 572, 1153
+  size: 78, 27
+  orig: 78, 27
+  offset: 0, 0
+  index: -1
+Bg_huahai16
+  rotate: false
+  xy: 481, 1112
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+Bg_huahai17
+  rotate: false
+  xy: 652, 1128
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+Bg_huahai18
+  rotate: false
+  xy: 975, 1104
+  size: 19, 75
+  orig: 19, 75
+  offset: 0, 0
+  index: -1
+Bg_huahai19
+  rotate: false
+  xy: 533, 1115
+  size: 37, 64
+  orig: 37, 64
+  offset: 0, 0
+  index: -1
+Bg_huahai21
+  rotate: true
+  xy: 1885, 357
+  size: 822, 150
+  orig: 822, 150
+  offset: 0, 0
+  index: -1
+Bg_huahai22
+  rotate: 270
+  xy: 1349, 107
+  size: 111, 538
+  orig: 116, 538
+  offset: 5, 0
+  index: -1
+Bg_huahai23
+  rotate: false
+  xy: 917, 455
+  size: 569, 390
+  orig: 569, 392
+  offset: 0, 2
+  index: -1
+Bg_huahai24
+  rotate: 180
+  xy: 1154, 218
+  size: 347, 300
+  orig: 347, 300
+  offset: 0, 0
+  index: -1
+Bg_huahai25x00
+  rotate: false
+  xy: 1463, 414
+  size: 398, 306
+  orig: 398, 306
+  offset: 0, 0
+  index: -1
+Bg_huahai25x01
+  rotate: true
+  xy: 513, 150
+  size: 142, 227
+  orig: 142, 227
+  offset: 0, 0
+  index: -1
+Bg_huahai25x02
+  rotate: true
+  xy: 378, 50
+  size: 118, 206
+  orig: 118, 206
+  offset: 0, 0
+  index: -1
+Bg_huahai25x03
+  rotate: true
+  xy: 2, 22
+  size: 127, 153
+  orig: 127, 153
+  offset: 0, 0
+  index: -1
+Bg_huahai26
+  rotate: true
+  xy: 1557, 207
+  size: 263, 340
+  orig: 263, 340
+  offset: 0, 0
+  index: -1
+Bg_huahai27
+  rotate: false
+  xy: 703, 28
+  size: 216, 135
+  orig: 216, 135
+  offset: 0, 0
+  index: -1
+Bg_huahai28
+  rotate: false
+  xy: 156, 16
+  size: 155, 131
+  orig: 155, 131
+  offset: 0, 0
+  index: -1
+Bg_huahai29
+  rotate: false
+  xy: 188, 1119
+  size: 109, 61
+  orig: 109, 61
+  offset: 0, 0
+  index: -1
+Bg_huahai3
+  rotate: false
+  xy: 1014, 1106
+  size: 14, 74
+  orig: 14, 74
+  offset: 0, 0
+  index: -1
+Bg_huahai30
+  rotate: false
+  xy: 1798, 450
+  size: 102, 158
+  orig: 102, 158
+  offset: 0, 0
+  index: -1
+Bg_huahai31
+  rotate: true
+  xy: 735, 1016
+  size: 164, 241
+  orig: 164, 241
+  offset: 0, 0
+  index: -1
+Bg_huahai32
+  rotate: true
+  xy: 927, 31
+  size: 126, 289
+  orig: 126, 289
+  offset: 0, 0
+  index: -1
+Bg_huahai33
+  rotate: true
+  xy: 1223, 16
+  size: 200, 204
+  orig: 200, 204
+  offset: 0, 0
+  index: -1
+Bg_huahai34
+  rotate: 270
+  xy: 1768, 42
+  size: 192, 277
+  orig: 192, 277
+  offset: 0, 0
+  index: -1
+Bg_huahai35
+  rotate: true
+  xy: 557, 266
+  size: 148, 540
+  orig: 148, 540
+  offset: 0, 0
+  index: -1
+Bg_huahai36
+  rotate: true
+  xy: 764, 153
+  size: 132, 439
+  orig: 132, 439
+  offset: 0, 0
+  index: -1
+Bg_huahai37
+  rotate: 270
+  xy: 681, 547
+  size: 234, 311
+  orig: 234, 311
+  offset: 0, 0
+  index: -1
+Bg_huahai38
+  rotate: false
+  xy: 2, 527
+  size: 719, 180
+  orig: 719, 180
+  offset: 0, 0
+  index: -1
+Bg_huahai39x0
+  rotate: false
+  xy: 2, 709
+  size: 740, 470
+  orig: 740, 470
+  offset: 0, 0
+  index: -1
+Bg_huahai40
+  rotate: 270
+  xy: 251, 163
+  size: 251, 284
+  orig: 251, 284
+  offset: 0, 0
+  index: -1
+Bg_huahai41
+  rotate: true
+  xy: 1650, 721
+  size: 458, 240
+  orig: 458, 240
+  offset: 0, 0
+  index: -1
+Bg_huahai42
+  rotate: 180
+  xy: 2, 150
+  size: 261, 259
+  orig: 261, 259
+  offset: 0, 0
+  index: -1
+Bg_huahai43
+  rotate: 180
+  xy: 149, 399
+  size: 948, 147
+  orig: 948, 148
+  offset: 0, 0
+  index: -1
+Bg_huahai44
+  rotate: 180
+  xy: 1375, 741
+  size: 399, 90
+  orig: 408, 90
+  offset: 4, 0
+  index: -1
+Bg_huahai45
+  rotate: false
+  xy: 2, 1150
+  size: 184, 30
+  orig: 184, 30
+  offset: 0, 0
+  index: -1
+Bg_huahai46
+  rotate: false
+  xy: 1320, 4
+  size: 716, 53
+  orig: 716, 53
+  offset: 0, 0
+  index: -1
+Bg_huahai47
+  rotate: 180
+  xy: 691, 783
+  size: 982, 396
+  orig: 982, 396
+  offset: 0, 0
+  index: -1
+Bg_huahai5
+  rotate: false
+  xy: 996, 1117
+  size: 17, 63
+  orig: 18, 63
+  offset: 0, 0
+  index: -1

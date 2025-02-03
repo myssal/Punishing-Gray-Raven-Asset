@@ -1,0 +1,139 @@
+
+UiMovieLuxiyaCG1V32_Fn.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_qianguang_1
+  rotate: false
+  xy: 2, 324
+  size: 792, 186
+  orig: 792, 186
+  offset: 0, 0
+  index: -1
+Effect_qianjinngrguang
+  rotate: false
+  xy: 666, 64
+  size: 546, 258
+  orig: 546, 258
+  offset: 0, 0
+  index: -1
+Fg_geziA_1
+  rotate: true
+  xy: 1498, 5
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+Fg_geziA_2
+  rotate: false
+  xy: 153, 13
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Fg_geziA_3
+  rotate: false
+  xy: 1036, 389
+  size: 166, 121
+  orig: 166, 121
+  offset: 0, 0
+  index: -1
+Fg_geziA_4
+  rotate: true
+  xy: 324, 6
+  size: 99, 44
+  orig: 99, 44
+  offset: 0, 0
+  index: -1
+Fg_geziB_1
+  rotate: false
+  xy: 392, 71
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+Fg_geziB_2
+  rotate: false
+  xy: 127, 4
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+Fg_geziB_3
+  rotate: true
+  xy: 370, 67
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+Fg_geziC_1
+  rotate: false
+  xy: 127, 34
+  size: 111, 71
+  orig: 111, 71
+  offset: 0, 0
+  index: -1
+Fg_geziC_2
+  rotate: true
+  xy: 370, 18
+  size: 44, 86
+  orig: 44, 86
+  offset: 0, 0
+  index: -1
+Fg_geziC_3
+  rotate: false
+  xy: 458, 15
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+Fg_qianjinghua_1
+  rotate: true
+  xy: 240, 4
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+Fg_qianjinghua_2
+  rotate: false
+  xy: 920, 340
+  size: 114, 170
+  orig: 114, 170
+  offset: 0, 0
+  index: -1
+Fg_qianjinghua_3
+  rotate: false
+  xy: 2, 2
+  size: 123, 103
+  orig: 123, 103
+  offset: 0, 0
+  index: -1
+Fg_qianjinghua_4
+  rotate: true
+  xy: 1498, 156
+  size: 354, 234
+  orig: 354, 234
+  offset: 0, 0
+  index: -1
+Fg_taiyangguang
+  rotate: true
+  xy: 1214, 6
+  size: 504, 282
+  orig: 529, 289
+  offset: 17, 1
+  index: -1
+Fg_taiyangzhaoshe
+  rotate: false
+  xy: 2, 107
+  size: 662, 215
+  orig: 662, 215
+  offset: 0, 0
+  index: -1
+Role_78
+  rotate: true
+  xy: 796, 338
+  size: 172, 122
+  orig: 172, 122
+  offset: 0, 0
+  index: -1

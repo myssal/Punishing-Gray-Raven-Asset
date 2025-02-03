@@ -1,0 +1,188 @@
+
+UiMovieLuxiyaV32_Role.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+luxiya1
+  rotate: true
+  xy: 495, 1110
+  size: 431, 57
+  orig: 433, 59
+  offset: 1, 1
+  index: -1
+luxiya2
+  rotate: false
+  xy: 509, 1655
+  size: 44, 391
+  orig: 46, 393
+  offset: 1, 1
+  index: -1
+luxiya3
+  rotate: false
+  xy: 2, 1773
+  size: 55, 214
+  orig: 57, 217
+  offset: 1, 2
+  index: -1
+luxiya38
+  rotate: false
+  xy: 80, 1869
+  size: 14, 54
+  orig: 16, 56
+  offset: 1, 1
+  index: -1
+luxiya39
+  rotate: false
+  xy: 59, 1878
+  size: 19, 70
+  orig: 21, 72
+  offset: 1, 1
+  index: -1
+luxiya4
+  rotate: true
+  xy: 518, 180
+  size: 238, 63
+  orig: 240, 65
+  offset: 1, 1
+  index: -1
+luxiya40
+  rotate: false
+  xy: 2, 161
+  size: 280, 215
+  orig: 282, 217
+  offset: 1, 1
+  index: -1
+luxiya41
+  rotate: true
+  xy: 368, 1432
+  size: 560, 139
+  orig: 560, 139
+  offset: 0, 0
+  index: -1
+luxiya42
+  rotate: true
+  xy: 2, 1120
+  size: 350, 95
+  orig: 350, 95
+  offset: 0, 0
+  index: -1
+luxiya43
+  rotate: true
+  xy: 23, 75
+  size: 87, 519
+  orig: 87, 519
+  offset: 0, 0
+  index: -1
+luxiya44
+  rotate: true
+  xy: 531, 1497
+  size: 213, 72
+  orig: 213, 72
+  offset: 0, 0
+  index: -1
+luxiya45
+  rotate: false
+  xy: 369, 195
+  size: 147, 202
+  orig: 149, 204
+  offset: 1, 1
+  index: -1
+luxiya46
+  rotate: true
+  xy: 504, 70
+  size: 96, 106
+  orig: 96, 106
+  offset: 0, 0
+  index: -1
+luxiya47
+  rotate: true
+  xy: 554, 1110
+  size: 105, 56
+  orig: 105, 56
+  offset: 0, 0
+  index: -1
+luxiya48
+  rotate: false
+  xy: 2, 2000
+  size: 18, 46
+  orig: 20, 48
+  offset: 1, 1
+  index: -1
+luxiya49
+  rotate: true
+  xy: 284, 93
+  size: 100, 172
+  orig: 100, 172
+  offset: 0, 0
+  index: -1
+luxiya50
+  rotate: false
+  xy: 554, 1297
+  size: 44, 202
+  orig: 44, 202
+  offset: 0, 0
+  index: -1
+luxiya51
+  rotate: 270
+  xy: 554, 1197
+  size: 122, 107
+  orig: 122, 107
+  offset: 0, 0
+  index: -1
+luxiya52
+  rotate: false
+  xy: 2, 1388
+  size: 378, 658
+  orig: 378, 658
+  offset: 0, 0
+  index: -1
+luxiya53
+  rotate: false
+  xy: 544, 952
+  size: 55, 156
+  orig: 55, 156
+  offset: 0, 0
+  index: -1
+luxiya54
+  rotate: false
+  xy: 555, 1973
+  size: 55, 73
+  orig: 55, 73
+  offset: 0, 0
+  index: -1
+luxiya55
+  rotate: false
+  xy: 441, 420
+  size: 139, 547
+  orig: 139, 547
+  offset: 0, 0
+  index: -1
+luxiya56
+  rotate: 180
+  xy: 547, 548
+  size: 73, 405
+  orig: 73, 405
+  offset: 0, 0
+  index: -1
+luxiya57
+  rotate: false
+  xy: 317, 399
+  size: 176, 1051
+  orig: 176, 1051
+  offset: 0, 0
+  index: -1
+luxiya58
+  rotate: 180
+  xy: 28, 3
+  size: 553, 77
+  orig: 553, 77
+  offset: 0, 0
+  index: -1
+luxiya59
+  rotate: 270
+  xy: 157, 335
+  size: 1131, 210
+  orig: 1131, 210
+  offset: 0, 0
+  index: -1

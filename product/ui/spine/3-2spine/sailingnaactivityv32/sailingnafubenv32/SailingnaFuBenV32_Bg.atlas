@@ -1,0 +1,153 @@
+
+SailingnaFuBenV32_Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BG_Sky
+  rotate: true
+  xy: 2, 1420
+  size: 318, 277
+  orig: 751, 368
+  offset: 286, 30
+  index: -1
+BG_yun_01
+  rotate: false
+  xy: 293, 1614
+  size: 520, 221
+  orig: 523, 226
+  offset: 0, 5
+  index: -1
+BG_yun_02
+  rotate: false
+  xy: 1378, 1954
+  size: 197, 89
+  orig: 238, 103
+  offset: 14, 11
+  index: -1
+BG_yun_03
+  rotate: false
+  xy: 1224, 1969
+  size: 152, 74
+  orig: 164, 80
+  offset: 12, 1
+  index: -1
+BG_yun_04_1
+  rotate: false
+  xy: 1258, 1320
+  size: 785, 287
+  orig: 785, 287
+  offset: 0, 0
+  index: -1
+BG_yun_04_2
+  rotate: false
+  xy: 2, 1065
+  size: 626, 312
+  orig: 643, 313
+  offset: 11, 1
+  index: -1
+BG_yun_04_3
+  rotate: false
+  xy: 1211, 952
+  size: 641, 366
+  orig: 657, 375
+  offset: 1, 0
+  index: -1
+BG_yun_05_1
+  rotate: false
+  xy: 772, 1837
+  size: 478, 130
+  orig: 478, 132
+  offset: 0, 1
+  index: -1
+BG_yun_05_2
+  rotate: false
+  xy: 777, 1365
+  size: 479, 242
+  orig: 481, 242
+  offset: 0, 0
+  index: -1
+BG_yun_06
+  rotate: false
+  xy: 263, 1875
+  size: 507, 119
+  orig: 542, 137
+  offset: 34, 18
+  index: -1
+BG_yun_07
+  rotate: false
+  xy: 630, 969
+  size: 579, 394
+  orig: 580, 394
+  offset: 1, 0
+  index: -1
+BG_yun_08
+  rotate: false
+  xy: 281, 1379
+  size: 494, 233
+  orig: 516, 251
+  offset: 19, 0
+  index: -1
+BG_yun_09
+  rotate: false
+  xy: 1049, 1972
+  size: 173, 71
+  orig: 198, 115
+  offset: 25, 5
+  index: -1
+BG_yun_10
+  rotate: false
+  xy: 1577, 1953
+  size: 379, 90
+  orig: 380, 96
+  offset: 1, 3
+  index: -1
+BG_yun_11
+  rotate: false
+  xy: 815, 1609
+  size: 986, 216
+  orig: 992, 216
+  offset: 6, 0
+  index: -1
+BG_yun_12
+  rotate: false
+  xy: 1252, 1827
+  size: 682, 124
+  orig: 686, 124
+  offset: 0, 0
+  index: -1
+BG_yun_13
+  rotate: false
+  xy: 2, 1740
+  size: 289, 133
+  orig: 289, 133
+  offset: 0, 0
+  index: -1
+BG_yun_14
+  rotate: false
+  xy: 766, 1996
+  size: 281, 47
+  orig: 281, 47
+  offset: 0, 0
+  index: -1
+BG_yun_14_2
+  rotate: false
+  xy: 164, 2000
+  size: 600, 43
+  orig: 611, 50
+  offset: 4, 1
+  index: -1
+BG_yun_15
+  rotate: false
+  xy: 2, 1890
+  size: 259, 108
+  orig: 259, 108
+  offset: 0, 0
+  index: -1
+BG_yun_16
+  rotate: false
+  xy: 2, 2002
+  size: 160, 41
+  orig: 160, 41
+  offset: 0, 0
+  index: -1

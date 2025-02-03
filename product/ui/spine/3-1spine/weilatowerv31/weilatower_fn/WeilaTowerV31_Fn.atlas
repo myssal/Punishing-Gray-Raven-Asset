@@ -1,0 +1,272 @@
+
+WeilaTowerV31_Fn.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_guangyun
+  rotate: false
+  xy: 1181, 24
+  size: 78, 75
+  orig: 78, 79
+  offset: 0, 4
+  index: -1
+Effect_shuidian
+  rotate: true
+  xy: 1574, 37
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+Effect_shuidian_10
+  rotate: 180
+  xy: 1088, 159
+  size: 416, 191
+  orig: 416, 191
+  offset: 0, 0
+  index: -1
+Effect_shuidian_2
+  rotate: false
+  xy: 407, 28
+  size: 110, 86
+  orig: 110, 86
+  offset: 0, 0
+  index: -1
+Effect_shuidian_3
+  rotate: false
+  xy: 2, 297
+  size: 28, 33
+  orig: 33, 33
+  offset: 5, 0
+  index: -1
+Effect_shuidian_4
+  rotate: false
+  xy: 1391, 11
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+Effect_shuidian_5
+  rotate: false
+  xy: 147, 297
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+Effect_shuidian_6
+  rotate: 180
+  xy: 1966, 18
+  size: 56, 116
+  orig: 56, 116
+  offset: 0, 0
+  index: -1
+Effect_shuidian_8
+  rotate: false
+  xy: 2, 82
+  size: 144, 127
+  orig: 144, 127
+  offset: 0, 0
+  index: -1
+Effect_shuidian_9
+  rotate: true
+  xy: 319, 83
+  size: 121, 206
+  orig: 121, 206
+  offset: 0, 0
+  index: -1
+Effect_xingxing1
+  rotate: false
+  xy: 1463, 17
+  size: 109, 63
+  orig: 109, 78
+  offset: 0, 0
+  index: -1
+Effect_xingxing2
+  rotate: false
+  xy: 1892, 21
+  size: 89, 78
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+Effect_xingxing3
+  rotate: false
+  xy: 1781, 28
+  size: 109, 63
+  orig: 109, 78
+  offset: 0, 0
+  index: -1
+Effect_xingxing4
+  rotate: 180
+  xy: 749, 4
+  size: 82, 62
+  orig: 82, 62
+  offset: 0, 0
+  index: -1
+Effect_xingxing5
+  rotate: false
+  xy: 1306, 22
+  size: 87, 72
+  orig: 111, 72
+  offset: 24, 0
+  index: -1
+Fg_qtou
+  rotate: false
+  xy: 844, 249
+  size: 380, 238
+  orig: 380, 238
+  offset: 0, 0
+  index: -1
+Fg_qtoushui
+  rotate: false
+  xy: 207, 19
+  size: 182, 43
+  orig: 182, 43
+  offset: 0, 0
+  index: -1
+Fg_qzhua
+  rotate: false
+  xy: 1506, 17
+  size: 313, 331
+  orig: 313, 331
+  offset: 0, 0
+  index: -1
+Fg_qzhua2
+  rotate: false
+  xy: 760, 21
+  size: 311, 124
+  orig: 311, 124
+  offset: 0, 0
+  index: -1
+Fg_shuihua10
+  rotate: false
+  xy: 1297, 350
+  size: 217, 137
+  orig: 217, 137
+  offset: 0, 0
+  index: -1
+Fg_shuihua10a
+  rotate: true
+  xy: 527, 90
+  size: 132, 136
+  orig: 132, 136
+  offset: 0, 0
+  index: -1
+Fg_shuihua11
+  rotate: false
+  xy: 359, 275
+  size: 146, 102
+  orig: 146, 102
+  offset: 0, 0
+  index: -1
+Fg_shuihua12
+  rotate: true
+  xy: 1637, 300
+  size: 187, 183
+  orig: 203, 194
+  offset: 16, 0
+  index: -1
+Fg_shuihua13
+  rotate: true
+  xy: 2, 285
+  size: 202, 494
+  orig: 202, 494
+  offset: 0, 0
+  index: -1
+Fg_shuihua15
+  rotate: 180
+  xy: 1624, 158
+  size: 282, 176
+  orig: 282, 176
+  offset: 0, 0
+  index: -1
+Fg_shuihua16
+  rotate: false
+  xy: 148, 145
+  size: 86, 18
+  orig: 90, 18
+  offset: 4, 0
+  index: -1
+Fg_shuihua17
+  rotate: false
+  xy: 518, 31
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+Fg_shuihua17a
+  rotate: true
+  xy: 1516, 212
+  size: 275, 151
+  orig: 275, 151
+  offset: 0, 0
+  index: -1
+Fg_shuihua17b
+  rotate: false
+  xy: 1074, 38
+  size: 155, 94
+  orig: 155, 94
+  offset: 0, 0
+  index: -1
+Fg_shuihua18
+  rotate: false
+  xy: 1088, 57
+  size: 346, 132
+  orig: 346, 132
+  offset: 0, 0
+  index: -1
+Fg_shuihua2
+  rotate: false
+  xy: 1436, 68
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+Fg_shuihua3
+  rotate: false
+  xy: 2, 157
+  size: 841, 329
+  orig: 912, 329
+  offset: 0, 0
+  index: -1
+Fg_shuihua4
+  rotate: false
+  xy: 2, 331
+  size: 158, 66
+  orig: 158, 66
+  offset: 0, 0
+  index: -1
+Fg_shuihua5
+  rotate: true
+  xy: 1883, 242
+  size: 245, 118
+  orig: 245, 118
+  offset: 0, 0
+  index: -1
+Fg_shuihua6
+  rotate: false
+  xy: 56, 32
+  size: 226, 105
+  orig: 226, 105
+  offset: 0, 0
+  index: -1
+Fg_shuihua7
+  rotate: false
+  xy: 1759, 119
+  size: 232, 141
+  orig: 232, 141
+  offset: 0, 0
+  index: -1
+Fg_shuihua8
+  rotate: false
+  xy: 593, 23
+  size: 178, 72
+  orig: 178, 72
+  offset: 0, 0
+  index: -1
+Fg_shuihua9
+  rotate: 180
+  xy: 802, 133
+  size: 283, 126
+  orig: 283, 126
+  offset: 0, 0
+  index: -1

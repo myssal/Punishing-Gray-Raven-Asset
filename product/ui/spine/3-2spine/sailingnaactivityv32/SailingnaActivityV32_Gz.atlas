@@ -1,0 +1,111 @@
+
+SailingnaActivityV32_Gz.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_dadi
+  rotate: 180
+  xy: 2, 3
+  size: 1044, 152
+  orig: 1251, 223
+  offset: 106, 48
+  index: -1
+Bg_yuanjin
+  rotate: false
+  xy: 2, 156
+  size: 1036, 342
+  orig: 1251, 342
+  offset: 108, 0
+  index: -1
+MS_Gezi_2_1
+  rotate: false
+  xy: 1028, 408
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+MS_Gezi_2_2
+  rotate: true
+  xy: 1043, 122
+  size: 60, 47
+  orig: 60, 48
+  offset: 0, 1
+  index: -1
+MS_Gezi_2_3
+  rotate: true
+  xy: 1042, 184
+  size: 62, 45
+  orig: 62, 45
+  offset: 0, 0
+  index: -1
+MS_Gezi_2_4
+  rotate: false
+  xy: 1046, 53
+  size: 40, 68
+  orig: 40, 68
+  offset: 0, 0
+  index: -1
+MS_Gezi_3_1
+  rotate: false
+  xy: 1066, 8
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1
+MS_Gezi_3_2
+  rotate: false
+  xy: 215, 120
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+MS_Gezi_3_3
+  rotate: false
+  xy: 167, 122
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+MS_Gezi_4_1
+  rotate: false
+  xy: 120, 125
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+MS_Gezi_4_2
+  rotate: false
+  xy: 96, 125
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+MS_Gezi_4_3
+  rotate: false
+  xy: 26, 130
+  size: 36, 25
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+MS_Gezi_5_1
+  rotate: false
+  xy: 51, 129
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+MS_Gezi_5_2
+  rotate: false
+  xy: 2, 143
+  size: 28, 12
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+MS_Gezi_5_3
+  rotate: false
+  xy: 78, 136
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1

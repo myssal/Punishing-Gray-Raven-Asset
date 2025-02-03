@@ -1,0 +1,244 @@
+
+SailingnaTutorialV32Fn.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_fk_01
+  rotate: false
+  xy: 1504, 501
+  size: 450, 244
+  orig: 452, 244
+  offset: 1, 0
+  index: -1
+Effect_liufuang_1
+  rotate: false
+  xy: 1036, 377
+  size: 466, 368
+  orig: 466, 368
+  offset: 0, 0
+  index: -1
+Effect_liufuang_2
+  rotate: false
+  xy: 739, 48
+  size: 187, 217
+  orig: 200, 265
+  offset: 13, 48
+  index: -1
+Effect_liufuang_3
+  rotate: false
+  xy: 514, 488
+  size: 520, 341
+  orig: 520, 341
+  offset: 0, 0
+  index: -1
+Effect_liufuang_4
+  rotate: false
+  xy: 2, 5
+  size: 319, 260
+  orig: 328, 260
+  offset: 0, 0
+  index: -1
+Effect_qj_01
+  rotate: false
+  xy: 1978, 1300
+  size: 36, 107
+  orig: 146, 179
+  offset: 62, 34
+  index: -1
+Effect_qj_02
+  rotate: true
+  xy: 898, 181
+  size: 83, 147
+  orig: 130, 174
+  offset: 4, 27
+  index: -1
+Effect_qj_03
+  rotate: false
+  xy: 510, 119
+  size: 227, 145
+  orig: 253, 196
+  offset: 26, 51
+  index: -1
+Effect_qj_04
+  rotate: false
+  xy: 322, 72
+  size: 186, 192
+  orig: 186, 192
+  offset: 0, 0
+  index: -1
+Effect_qj_05
+  rotate: true
+  xy: 514, 380
+  size: 106, 261
+  orig: 106, 269
+  offset: 0, 8
+  index: -1
+Effect_qj_06
+  rotate: false
+  xy: 777, 363
+  size: 222, 123
+  orig: 222, 123
+  offset: 0, 0
+  index: -1
+Effect_qj_07
+  rotate: false
+  xy: 1176, 199
+  size: 248, 65
+  orig: 249, 65
+  offset: 1, 0
+  index: -1
+Effect_qj_08
+  rotate: true
+  xy: 2, 362
+  size: 467, 510
+  orig: 467, 510
+  offset: 0, 0
+  index: -1
+Effect_qj_09
+  rotate: true
+  xy: 1036, 760
+  size: 69, 367
+  orig: 102, 367
+  offset: 33, 0
+  index: -1
+Effect_slngd50
+  rotate: true
+  xy: 1482, 747
+  size: 660, 494
+  orig: 660, 494
+  offset: 0, 0
+  index: -1
+Effect_star_01
+  rotate: false
+  xy: 1956, 571
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Effect_star_02
+  rotate: false
+  xy: 2034, 1401
+  size: 5, 6
+  orig: 37, 41
+  offset: 18, 18
+  index: -1
+Effect_yeufu_01
+  rotate: false
+  xy: 2, 831
+  size: 1478, 576
+  orig: 1504, 762
+  offset: 8, 2
+  index: -1
+Effect_yeufu_02
+  rotate: false
+  xy: 861, 2
+  size: 314, 262
+  orig: 314, 262
+  offset: 0, 0
+  index: -1
+Fg_dadi
+  rotate: false
+  xy: 2, 266
+  size: 1537, 94
+  orig: 1537, 124
+  offset: 0, 0
+  index: -1
+Fg_dadi2x1
+  rotate: false
+  xy: 1541, 190
+  size: 483, 131
+  orig: 483, 131
+  offset: 0, 0
+  index: -1
+Fg_dadi2x2
+  rotate: false
+  xy: 1541, 323
+  size: 432, 176
+  orig: 432, 176
+  offset: 0, 0
+  index: -1
+Fg_huaban_01
+  rotate: true
+  xy: 1956, 657
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1
+Fg_huaban_02
+  rotate: false
+  xy: 1405, 749
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+Fg_huaban_03
+  rotate: false
+  xy: 1978, 1230
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+Fg_shitou_01
+  rotate: false
+  xy: 2024, 1358
+  size: 23, 23
+  orig: 28, 25
+  offset: 3, 2
+  index: -1
+Fg_shitou_02
+  rotate: false
+  xy: 2016, 1377
+  size: 21, 31
+  orig: 28, 40
+  offset: 2, 9
+  index: -1
+Fg_shitou_03
+  rotate: false
+  xy: 2001, 1117
+  size: 45, 47
+  orig: 60, 47
+  offset: 6, 0
+  index: -1
+Fg_shitou_04
+  rotate: false
+  xy: 2006, 1009
+  size: 39, 40
+  orig: 50, 72
+  offset: 4, 25
+  index: -1
+Fg_shitou_05
+  rotate: false
+  xy: 1991, 1060
+  size: 54, 56
+  orig: 66, 81
+  offset: 8, 14
+  index: -1
+Fg_shitou_06
+  rotate: false
+  xy: 1426, 210
+  size: 78, 56
+  orig: 91, 62
+  offset: 6, 2
+  index: -1
+Fg_shitou_07
+  rotate: 180
+  xy: 1956, 503
+  size: 77, 67
+  orig: 128, 133
+  offset: 38, 30
+  index: -1
+Fg_shitou_08
+  rotate: 180
+  xy: 1978, 1159
+  size: 61, 70
+  orig: 61, 85
+  offset: 0, 15
+  index: -1
+Fg_shitou_09
+  rotate: false
+  xy: 2006, 1033
+  size: 40, 46
+  orig: 61, 66
+  offset: 21, 0
+  index: -1

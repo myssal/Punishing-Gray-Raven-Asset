@@ -1,0 +1,48 @@
+
+UiMovieLuxiyaV32_Kou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+luxiya32
+  rotate: false
+  xy: 2, 163
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+luxiya33
+  rotate: false
+  xy: 2, 141
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+luxiya34
+  rotate: false
+  xy: 39, 189
+  size: 24, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+luxiya35
+  rotate: false
+  xy: 39, 199
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+luxiya36
+  rotate: false
+  xy: 2, 185
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+luxiya37
+  rotate: false
+  xy: 2, 2
+  size: 216, 205
+  orig: 216, 205
+  offset: 0, 0
+  index: -1

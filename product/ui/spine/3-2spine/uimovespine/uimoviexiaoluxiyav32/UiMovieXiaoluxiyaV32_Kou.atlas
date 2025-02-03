@@ -1,0 +1,41 @@
+
+UiMovieXiaoluxiyaV32_Kou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kouqiang
+  rotate: false
+  xy: 2, 199
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 2, 3
+  size: 220, 236
+  orig: 230, 277
+  offset: 10, 0
+  index: -1
+shangya
+  rotate: false
+  xy: 43, 228
+  size: 21, 11
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+shangzui
+  rotate: false
+  xy: 2, 220
+  size: 40, 19
+  orig: 41, 20
+  offset: 0, 1
+  index: -1
+xiazui
+  rotate: false
+  xy: 2, 5
+  size: 40, 18
+  orig: 40, 19
+  offset: 0, 1
+  index: -1

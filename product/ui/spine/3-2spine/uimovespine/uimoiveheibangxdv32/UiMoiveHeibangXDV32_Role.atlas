@@ -1,0 +1,76 @@
+
+UiMoiveHeibangXDV32_Role.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+xiaodi10
+  rotate: false
+  xy: 510, 197
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+xiaodi11
+  rotate: false
+  xy: 447, 1234
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+xiaodi12
+  rotate: false
+  xy: 495, 1249
+  size: 71, 62
+  orig: 71, 62
+  offset: 0, 0
+  index: -1
+xiaodi13
+  rotate: 180
+  xy: 2, 256
+  size: 566, 1078
+  orig: 566, 1078
+  offset: 0, 0
+  index: -1
+xiaodi14
+  rotate: false
+  xy: 2, 1237
+  size: 557, 802
+  orig: 557, 802
+  offset: 0, 0
+  index: -1
+xiaodi15
+  rotate: false
+  xy: 416, 13
+  size: 162, 241
+  orig: 162, 241
+  offset: 0, 0
+  index: -1
+xiaodi16
+  rotate: false
+  xy: 482, 1620
+  size: 169, 344
+  orig: 169, 344
+  offset: 0, 0
+  index: -1
+xiaodi17
+  rotate: true
+  xy: 2, 4
+  size: 251, 412
+  orig: 251, 412
+  offset: 0, 0
+  index: -1
+xiaodi7
+  rotate: false
+  xy: 369, 535
+  size: 271, 697
+  orig: 271, 697
+  offset: 0, 0
+  index: -1
+xiaodi9
+  rotate: 180
+  xy: 525, 383
+  size: 153, 174
+  orig: 153, 174
+  offset: 0, 0
+  index: -1

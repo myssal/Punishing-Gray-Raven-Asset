@@ -1,0 +1,104 @@
+
+UiMovieYoushiV32_Role.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Ldabi
+  rotate: 270
+  xy: 2, 113
+  size: 102, 351
+  orig: 102, 351
+  offset: 0, 0
+  index: -1
+Lxiaobi
+  rotate: 180
+  xy: 82, 202
+  size: 271, 151
+  orig: 271, 151
+  offset: 0, 0
+  index: -1
+Lxiu
+  rotate: true
+  xy: 2, 32
+  size: 82, 190
+  orig: 82, 190
+  offset: 0, 0
+  index: -1
+Rdabi
+  rotate: 180
+  xy: 2, 660
+  size: 402, 156
+  orig: 402, 156
+  offset: 0, 0
+  index: -1
+Rxiaobi
+  rotate: true
+  xy: 2, 501
+  size: 163, 416
+  orig: 165, 416
+  offset: 0, 0
+  index: -1
+Rxiu1
+  rotate: 270
+  xy: 224, 3
+  size: 153, 192
+  orig: 153, 192
+  offset: 0, 0
+  index: -1
+Rxiu2
+  rotate: false
+  xy: 2, 1160
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+houfa2
+  rotate: false
+  xy: 2, 1240
+  size: 56, 110
+  orig: 56, 110
+  offset: 0, 0
+  index: -1
+houfa3
+  rotate: false
+  xy: 279, 819
+  size: 113, 51
+  orig: 113, 51
+  offset: 0, 0
+  index: -1
+houfa4
+  rotate: false
+  xy: 294, 601
+  size: 121, 68
+  orig: 121, 68
+  offset: 0, 0
+  index: -1
+houfa5
+  rotate: false
+  xy: 336, 152
+  size: 91, 238
+  orig: 91, 238
+  offset: 0, 0
+  index: -1
+houfa6
+  rotate: false
+  xy: 2, 342
+  size: 371, 158
+  orig: 371, 158
+  offset: 0, 0
+  index: -1
+lalian
+  rotate: false
+  xy: 2, 1397
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 810
+  size: 393, 720
+  orig: 407, 720
+  offset: 0, 0
+  index: -1

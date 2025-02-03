@@ -1,0 +1,62 @@
+
+UiMoiveHeibangLDV32_Kou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+hei1
+  rotate: false
+  xy: 156, 325
+  size: 78, 25
+  orig: 78, 26
+  offset: 0, 1
+  index: -1
+hei2
+  rotate: true
+  xy: 2, 279
+  size: 76, 31
+  orig: 84, 32
+  offset: 0, 1
+  index: -1
+hei3
+  rotate: false
+  xy: 141, 344
+  size: 66, 13
+  orig: 66, 14
+  offset: 0, 0
+  index: -1
+hei4
+  rotate: false
+  xy: 2, 9
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+hei5
+  rotate: false
+  xy: 193, 294
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+hei6
+  rotate: false
+  xy: 33, 327
+  size: 16, 29
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+hei7
+  rotate: false
+  xy: 216, 262
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1
+hei8
+  rotate: false
+  xy: 2, 3
+  size: 260, 353
+  orig: 260, 354
+  offset: 0, 1
+  index: -1

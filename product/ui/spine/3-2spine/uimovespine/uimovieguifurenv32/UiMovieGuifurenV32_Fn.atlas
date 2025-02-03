@@ -1,0 +1,146 @@
+
+UiMovieGuifurenV32_Fn.png
+size: 1024,512
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+guifu28
+  rotate: true
+  xy: 421, 170
+  size: 141, 84
+  orig: 141, 84
+  offset: 0, 0
+  index: -1
+guifu29
+  rotate: false
+  xy: 507, 3
+  size: 47, 308
+  orig: 47, 308
+  offset: 0, 0
+  index: -1
+guifu30
+  rotate: false
+  xy: 534, 199
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+guifu31
+  rotate: 180
+  xy: 565, 143
+  size: 78, 168
+  orig: 78, 168
+  offset: 0, 0
+  index: -1
+guifu32
+  rotate: false
+  xy: 670, 255
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+guifu33
+  rotate: true
+  xy: 828, 253
+  size: 58, 11
+  orig: 58, 11
+  offset: 0, 0
+  index: -1
+guifu34
+  rotate: true
+  xy: 890, 268
+  size: 43, 13
+  orig: 45, 15
+  offset: 0, 2
+  index: -1
+guifu35
+  rotate: 270
+  xy: 840, 246
+  size: 65, 15
+  orig: 65, 16
+  offset: 0, 0
+  index: -1
+guifu36
+  rotate: true
+  xy: 879, 260
+  size: 51, 13
+  orig: 51, 13
+  offset: 0, 0
+  index: -1
+guifu37
+  rotate: 270
+  xy: 752, 249
+  size: 62, 26
+  orig: 62, 26
+  offset: 0, 0
+  index: -1
+guifu38
+  rotate: false
+  xy: 275, 290
+  size: 49, 22
+  orig: 50, 22
+  offset: 0, 0
+  index: -1
+guifu39
+  rotate: true
+  xy: 698, 247
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+guifu40
+  rotate: true
+  xy: 777, 252
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+guifu41
+  rotate: false
+  xy: 603, 288
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+guifu42
+  rotate: false
+  xy: 856, 289
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+guifu43
+  rotate: true
+  xy: 729, 259
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+guifu44
+  rotate: true
+  xy: 805, 271
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+guifu45
+  rotate: false
+  xy: 633, 248
+  size: 35, 63
+  orig: 35, 63
+  offset: 0, 0
+  index: -1
+guifu46
+  rotate: true
+  xy: 275, 103
+  size: 208, 145
+  orig: 208, 149
+  offset: 0, 0
+  index: -1
+guifu47
+  rotate: false
+  xy: 2, 77
+  size: 271, 235
+  orig: 271, 244
+  offset: 0, 9
+  index: -1

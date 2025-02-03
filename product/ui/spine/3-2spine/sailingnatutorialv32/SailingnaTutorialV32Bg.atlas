@@ -1,0 +1,139 @@
+
+SailingnaTutorialV32Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_snlgd1
+  rotate: false
+  xy: 2, 3
+  size: 644, 340
+  orig: 644, 340
+  offset: 0, 0
+  index: -1
+Bg_snlgd10
+  rotate: false
+  xy: 710, 21
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Bg_snlgd11
+  rotate: false
+  xy: 648, 60
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+Bg_snlgd13
+  rotate: false
+  xy: 648, 192
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+Bg_snlgd17
+  rotate: false
+  xy: 2, 644
+  size: 1537, 865
+  orig: 1537, 865
+  offset: 0, 0
+  index: -1
+Bg_snlgd19
+  rotate: false
+  xy: 675, 21
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+Bg_snlgd2
+  rotate: false
+  xy: 868, 229
+  size: 888, 414
+  orig: 888, 414
+  offset: 0, 0
+  index: -1
+Bg_snlgd20
+  rotate: false
+  xy: 696, 60
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+Bg_snlgd21
+  rotate: false
+  xy: 678, 7
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+Bg_snlgd23
+  rotate: false
+  xy: 648, 87
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+Bg_snlgd26
+  rotate: false
+  xy: 648, 286
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+Bg_snlgd3
+  rotate: false
+  xy: 648, 158
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+Bg_snlgd32
+  rotate: false
+  xy: 710, 6
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+Bg_snlgd4
+  rotate: false
+  xy: 1540, 644
+  size: 304, 865
+  orig: 304, 865
+  offset: 0, 0
+  index: -1
+Bg_snlgd5
+  rotate: true
+  xy: 2, 346
+  size: 297, 865
+  orig: 297, 865
+  offset: 0, 0
+  index: -1
+Bg_snlgd6
+  rotate: false
+  xy: 648, 248
+  size: 97, 36
+  orig: 97, 36
+  offset: 0, 0
+  index: -1
+Bg_snlgd7
+  rotate: false
+  xy: 648, 118
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+Bg_snlgd8
+  rotate: false
+  xy: 648, 4
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+Bg_snlgd9
+  rotate: false
+  xy: 648, 29
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1476 @@
+
+UiSkinMovieLuxiyaHSV32Role.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Role_luxiya0
+  rotate: false
+  xy: 1299, 1639
+  size: 116, 67
+  orig: 116, 67
+  offset: 0, 0
+  index: -1
+Role_luxiya1
+  rotate: true
+  xy: 374, 483
+  size: 137, 409
+  orig: 137, 409
+  offset: 0, 0
+  index: -1
+Role_luxiya10
+  rotate: true
+  xy: 1326, 441
+  size: 52, 182
+  orig: 52, 182
+  offset: 0, 0
+  index: -1
+Role_luxiya100
+  rotate: false
+  xy: 1204, 1611
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+Role_luxiya101
+  rotate: false
+  xy: 401, 1563
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+Role_luxiya102
+  rotate: false
+  xy: 914, 1317
+  size: 81, 57
+  orig: 81, 58
+  offset: 0, 0
+  index: -1
+Role_luxiya103
+  rotate: false
+  xy: 1857, 1346
+  size: 106, 38
+  orig: 106, 38
+  offset: 0, 0
+  index: -1
+Role_luxiya104
+  rotate: false
+  xy: 1696, 1424
+  size: 66, 104
+  orig: 66, 104
+  offset: 0, 0
+  index: -1
+Role_luxiya105
+  rotate: false
+  xy: 1803, 1731
+  size: 83, 29
+  orig: 83, 29
+  offset: 0, 0
+  index: -1
+Role_luxiya106
+  rotate: false
+  xy: 2003, 1427
+  size: 16, 200
+  orig: 16, 201
+  offset: 0, 0
+  index: -1
+Role_luxiya107
+  rotate: false
+  xy: 2, 271
+  size: 136, 128
+  orig: 136, 128
+  offset: 0, 0
+  index: -1
+Role_luxiya108
+  rotate: false
+  xy: 457, 1164
+  size: 100, 36
+  orig: 100, 36
+  offset: 0, 0
+  index: -1
+Role_luxiya109
+  rotate: false
+  xy: 1268, 1705
+  size: 195, 55
+  orig: 195, 55
+  offset: 0, 0
+  index: -1
+Role_luxiya11
+  rotate: false
+  xy: 2017, 1410
+  size: 28, 231
+  orig: 28, 231
+  offset: 0, 0
+  index: -1
+Role_luxiya110
+  rotate: true
+  xy: 470, 421
+  size: 122, 305
+  orig: 122, 305
+  offset: 0, 0
+  index: -1
+Role_luxiya111
+  rotate: true
+  xy: 2, 1125
+  size: 199, 643
+  orig: 210, 643
+  offset: 11, 0
+  index: -1
+Role_luxiya112
+  rotate: 270
+  xy: 1391, 1055
+  size: 239, 331
+  orig: 241, 331
+  offset: 0, 0
+  index: -1
+Role_luxiya113
+  rotate: 270
+  xy: 106, 958
+  size: 189, 253
+  orig: 189, 253
+  offset: 0, 0
+  index: -1
+Role_luxiya114
+  rotate: true
+  xy: 210, 1256
+  size: 101, 312
+  orig: 107, 312
+  offset: 0, 0
+  index: -1
+Role_luxiya115
+  rotate: false
+  xy: 2, 1286
+  size: 75, 199
+  orig: 75, 202
+  offset: 0, 0
+  index: -1
+Role_luxiya116
+  rotate: false
+  xy: 222, 931
+  size: 190, 36
+  orig: 190, 36
+  offset: 0, 0
+  index: -1
+Role_luxiya117
+  rotate: false
+  xy: 394, 1729
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+Role_luxiya118
+  rotate: true
+  xy: 1578, 580
+  size: 148, 219
+  orig: 148, 219
+  offset: 0, 0
+  index: -1
+Role_luxiya119
+  rotate: true
+  xy: 171, 445
+  size: 149, 210
+  orig: 149, 210
+  offset: 0, 0
+  index: -1
+Role_luxiya12
+  rotate: 180
+  xy: 1763, 1401
+  size: 237, 359
+  orig: 237, 359
+  offset: 0, 0
+  index: -1
+Role_luxiya120
+  rotate: true
+  xy: 770, 452
+  size: 110, 306
+  orig: 110, 309
+  offset: 0, 0
+  index: -1
+Role_luxiya121
+  rotate: true
+  xy: 1368, 335
+  size: 70, 364
+  orig: 70, 364
+  offset: 0, 0
+  index: -1
+Role_luxiya122
+  rotate: false
+  xy: 517, 583
+  size: 448, 159
+  orig: 448, 159
+  offset: 0, 0
+  index: -1
+Role_luxiya123
+  rotate: false
+  xy: 1316, 1486
+  size: 548, 273
+  orig: 548, 273
+  offset: 0, 0
+  index: -1
+Role_luxiya124
+  rotate: 180
+  xy: 82, 1359
+  size: 557, 280
+  orig: 616, 294
+  offset: 0, 14
+  index: -1
+Role_luxiya125
+  rotate: false
+  xy: 757, 1593
+  size: 357, 167
+  orig: 357, 167
+  offset: 0, 0
+  index: -1
+Role_luxiya126
+  rotate: true
+  xy: 1395, 25
+  size: 111, 304
+  orig: 111, 304
+  offset: 0, 0
+  index: -1
+Role_luxiya127
+  rotate: 270
+  xy: 447, 253
+  size: 179, 197
+  orig: 179, 197
+  offset: 0, 0
+  index: -1
+Role_luxiya128
+  rotate: false
+  xy: 1152, 45
+  size: 258, 98
+  orig: 258, 98
+  offset: 0, 0
+  index: -1
+Role_luxiya129
+  rotate: false
+  xy: 1883, 245
+  size: 163, 144
+  orig: 163, 144
+  offset: 0, 0
+  index: -1
+Role_luxiya13
+  rotate: 180
+  xy: 1838, 628
+  size: 208, 261
+  orig: 208, 261
+  offset: 0, 0
+  index: -1
+Role_luxiya130
+  rotate: false
+  xy: 2, 899
+  size: 54, 105
+  orig: 54, 105
+  offset: 0, 0
+  index: -1
+Role_luxiya131
+  rotate: false
+  xy: 1551, 634
+  size: 24, 87
+  orig: 24, 87
+  offset: 0, 0
+  index: -1
+Role_luxiya132
+  rotate: 180
+  xy: 545, 214
+  size: 641, 158
+  orig: 641, 158
+  offset: 0, 0
+  index: -1
+Role_luxiya133
+  rotate: false
+  xy: 439, 65
+  size: 226, 88
+  orig: 226, 88
+  offset: 0, 0
+  index: -1
+Role_luxiya134
+  rotate: false
+  xy: 1758, 579
+  size: 194, 70
+  orig: 194, 70
+  offset: 0, 0
+  index: -1
+Role_luxiya135
+  rotate: false
+  xy: 2, 869
+  size: 851, 159
+  orig: 851, 163
+  offset: 0, 0
+  index: -1
+Role_luxiya136
+  rotate: true
+  xy: 414, 937
+  size: 44, 285
+  orig: 44, 285
+  offset: 0, 0
+  index: -1
+Role_luxiya137
+  rotate: 180
+  xy: 124, 179
+  size: 398, 105
+  orig: 430, 106
+  offset: 32, 1
+  index: -1
+Role_luxiya138
+  rotate: true
+  xy: 817, 96
+  size: 162, 407
+  orig: 162, 407
+  offset: 0, 0
+  index: -1
+Role_luxiya139
+  rotate: false
+  xy: 2, 1454
+  size: 1329, 306
+  orig: 1462, 308
+  offset: 133, 0
+  index: -1
+Role_luxiya14
+  rotate: 270
+  xy: 1186, 1283
+  size: 217, 599
+  orig: 217, 599
+  offset: 0, 0
+  index: -1
+Role_luxiya140
+  rotate: false
+  xy: 1664, 48
+  size: 310, 62
+  orig: 310, 62
+  offset: 0, 0
+  index: -1
+Role_luxiya141
+  rotate: false
+  xy: 1359, 1089
+  size: 48, 194
+  orig: 49, 194
+  offset: 0, 0
+  index: -1
+Role_luxiya142
+  rotate: false
+  xy: 1286, 820
+  size: 624, 130
+  orig: 624, 130
+  offset: 0, 0
+  index: -1
+Role_luxiya143
+  rotate: 180
+  xy: 61, 506
+  size: 250, 221
+  orig: 250, 221
+  offset: 0, 0
+  index: -1
+Role_luxiya144
+  rotate: 180
+  xy: 1217, 537
+  size: 640, 133
+  orig: 641, 133
+  offset: 0, 0
+  index: -1
+Role_luxiya145
+  rotate: false
+  xy: 1218, 117
+  size: 172, 118
+  orig: 172, 118
+  offset: 0, 0
+  index: -1
+Role_luxiya146
+  rotate: false
+  xy: 1214, 250
+  size: 368, 52
+  orig: 368, 52
+  offset: 0, 0
+  index: -1
+Role_luxiya147
+  rotate: 270
+  xy: 1441, 75
+  size: 124, 263
+  orig: 124, 263
+  offset: 0, 0
+  index: -1
+Role_luxiya148
+  rotate: false
+  xy: 1957, 58
+  size: 89, 175
+  orig: 89, 175
+  offset: 0, 0
+  index: -1
+Role_luxiya149
+  rotate: false
+  xy: 17, 86
+  size: 86, 193
+  orig: 86, 193
+  offset: 0, 0
+  index: -1
+Role_luxiya15
+  rotate: true
+  xy: 1598, 1121
+  size: 221, 366
+  orig: 221, 368
+  offset: 0, 2
+  index: -1
+Role_luxiya150
+  rotate: false
+  xy: 697, 1136
+  size: 663, 275
+  orig: 663, 275
+  offset: 0, 0
+  index: -1
+Role_luxiya151
+  rotate: true
+  xy: 211, 122
+  size: 132, 340
+  orig: 132, 341
+  offset: 0, 0
+  index: -1
+Role_luxiya152
+  rotate: false
+  xy: 576, 174
+  size: 218, 48
+  orig: 221, 48
+  offset: 0, 0
+  index: -1
+Role_luxiya153
+  rotate: false
+  xy: 282, 1697
+  size: 91, 15
+  orig: 91, 15
+  offset: 0, 0
+  index: -1
+Role_luxiya154
+  rotate: false
+  xy: 1086, 988
+  size: 103, 53
+  orig: 104, 53
+  offset: 0, 0
+  index: -1
+Role_luxiya155
+  rotate: 270
+  xy: 2, 7
+  size: 137, 195
+  orig: 137, 195
+  offset: 0, 0
+  index: -1
+Role_luxiya156
+  rotate: false
+  xy: 742, 705
+  size: 911, 148
+  orig: 911, 149
+  offset: 0, 0
+  index: -1
+Role_luxiya157
+  rotate: true
+  xy: 497, 633
+  size: 47, 125
+  orig: 47, 125
+  offset: 0, 0
+  index: -1
+Role_luxiya158
+  rotate: false
+  xy: 1399, 125
+  size: 77, 102
+  orig: 81, 102
+  offset: 4, 0
+  index: -1
+Role_luxiya159
+  rotate: false
+  xy: 1306, 464
+  size: 24, 93
+  orig: 24, 93
+  offset: 0, 0
+  index: -1
+Role_luxiya16
+  rotate: false
+  xy: 521, 1222
+  size: 394, 269
+  orig: 394, 269
+  offset: 0, 0
+  index: -1
+Role_luxiya160
+  rotate: 270
+  xy: 98, 634
+  size: 184, 577
+  orig: 184, 577
+  offset: 0, 0
+  index: -1
+Role_luxiya161
+  rotate: false
+  xy: 1286, 548
+  size: 126, 49
+  orig: 126, 49
+  offset: 0, 0
+  index: -1
+Role_luxiya162
+  rotate: true
+  xy: 1061, 810
+  size: 29, 134
+  orig: 29, 134
+  offset: 0, 0
+  index: -1
+Role_luxiya163
+  rotate: false
+  xy: 1080, 308
+  size: 283, 117
+  orig: 283, 117
+  offset: 0, 0
+  index: -1
+Role_luxiya164
+  rotate: false
+  xy: 1499, 369
+  size: 199, 50
+  orig: 199, 51
+  offset: 0, 0
+  index: -1
+Role_luxiya165
+  rotate: true
+  xy: 742, 563
+  size: 52, 227
+  orig: 52, 227
+  offset: 0, 0
+  index: -1
+Role_luxiya166
+  rotate: 180
+  xy: 1265, 412
+  size: 586, 116
+  orig: 586, 117
+  offset: 0, 0
+  index: -1
+Role_luxiya167
+  rotate: true
+  xy: 712, 74
+  size: 88, 224
+  orig: 89, 224
+  offset: 0, 0
+  index: -1
+Role_luxiya168
+  rotate: true
+  xy: 2, 341
+  size: 141, 465
+  orig: 141, 466
+  offset: 0, 1
+  index: -1
+Role_luxiya169
+  rotate: true
+  xy: 169, 4
+  size: 169, 277
+  orig: 169, 278
+  offset: 0, 1
+  index: -1
+Role_luxiya170
+  rotate: true
+  xy: 1651, 191
+  size: 77, 321
+  orig: 77, 321
+  offset: 0, 0
+  index: -1
+Role_luxiya171
+  rotate: false
+  xy: 1234, 1103
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1
+Role_luxiya172
+  rotate: false
+  xy: 666, 357
+  size: 331, 96
+  orig: 332, 96
+  offset: 0, 0
+  index: -1
+Role_luxiya173
+  rotate: false
+  xy: 1831, 936
+  size: 86, 102
+  orig: 86, 102
+  offset: 0, 0
+  index: -1
+Role_luxiya174
+  rotate: false
+  xy: 1831, 836
+  size: 185, 68
+  orig: 185, 68
+  offset: 0, 0
+  index: -1
+Role_luxiya175
+  rotate: true
+  xy: 616, 658
+  size: 52, 125
+  orig: 53, 125
+  offset: 0, 0
+  index: -1
+Role_luxiya176
+  rotate: false
+  xy: 1493, 708
+  size: 467, 124
+  orig: 467, 124
+  offset: 0, 0
+  index: -1
+Role_luxiya177
+  rotate: false
+  xy: 1739, 930
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+Role_luxiya178
+  rotate: false
+  xy: 1407, 1196
+  size: 18, 86
+  orig: 19, 86
+  offset: 0, 0
+  index: -1
+Role_luxiya179
+  rotate: false
+  xy: 1008, 1562
+  size: 113, 18
+  orig: 114, 18
+  offset: 0, 0
+  index: -1
+Role_luxiya18
+  rotate: false
+  xy: 844, 890
+  size: 394, 157
+  orig: 394, 157
+  offset: 0, 0
+  index: -1
+Role_luxiya180
+  rotate: false
+  xy: 854, 171
+  size: 353, 105
+  orig: 353, 105
+  offset: 0, 0
+  index: -1
+Role_luxiya181
+  rotate: false
+  xy: 2029, 343
+  size: 17, 117
+  orig: 17, 117
+  offset: 0, 0
+  index: -1
+Role_luxiya182
+  rotate: 180
+  xy: 119, 226
+  size: 353, 116
+  orig: 353, 118
+  offset: 0, 2
+  index: -1
+Role_luxiya183
+  rotate: 180
+  xy: 1621, 915
+  size: 366, 207
+  orig: 366, 207
+  offset: 0, 0
+  index: -1
+Role_luxiya184
+  rotate: true
+  xy: 529, 939
+  size: 30, 129
+  orig: 30, 130
+  offset: 0, 0
+  index: -1
+Role_luxiya185
+  rotate: false
+  xy: 71, 709
+  size: 137, 31
+  orig: 137, 31
+  offset: 0, 0
+  index: -1
+Role_luxiya186
+  rotate: false
+  xy: 2, 1673
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+Role_luxiya187
+  rotate: false
+  xy: 652, 288
+  size: 85, 92
+  orig: 87, 92
+  offset: 2, 0
+  index: -1
+Role_luxiya188
+  rotate: false
+  xy: 1066, 1744
+  size: 59, 17
+  orig: 59, 17
+  offset: 0, 0
+  index: -1
+Role_luxiya189
+  rotate: false
+  xy: 998, 1581
+  size: 111, 78
+  orig: 125, 82
+  offset: 0, 0
+  index: -1
+Role_luxiya19
+  rotate: false
+  xy: 811, 991
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+Role_luxiya190
+  rotate: false
+  xy: 1185, 277
+  size: 702, 53
+  orig: 703, 53
+  offset: 0, 0
+  index: -1
+Role_luxiya191
+  rotate: false
+  xy: 1965, 1120
+  size: 74, 280
+  orig: 74, 280
+  offset: 0, 0
+  index: -1
+Role_luxiya192
+  rotate: 270
+  xy: 740, 794
+  size: 124, 319
+  orig: 124, 319
+  offset: 0, 0
+  index: -1
+Role_luxiya193
+  rotate: false
+  xy: 2, 740
+  size: 215, 169
+  orig: 215, 169
+  offset: 0, 0
+  index: -1
+Role_luxiya194
+  rotate: true
+  xy: 1229, 655
+  size: 118, 339
+  orig: 118, 339
+  offset: 0, 0
+  index: -1
+Role_luxiya195
+  rotate: true
+  xy: 851, 648
+  size: 96, 331
+  orig: 96, 331
+  offset: 0, 0
+  index: -1
+Role_luxiya196
+  rotate: false
+  xy: 729, 1222
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+Role_luxiya197
+  rotate: false
+  xy: 311, 1063
+  size: 187, 103
+  orig: 187, 103
+  offset: 0, 0
+  index: -1
+Role_luxiya198
+  rotate: false
+  xy: 314, 594
+  size: 185, 188
+  orig: 185, 191
+  offset: 0, 3
+  index: -1
+Role_luxiya199
+  rotate: false
+  xy: 1265, 1112
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+Role_luxiya2
+  rotate: false
+  xy: 1090, 414
+  size: 17, 127
+  orig: 17, 127
+  offset: 0, 0
+  index: -1
+Role_luxiya20
+  rotate: false
+  xy: 201, 1702
+  size: 197, 57
+  orig: 197, 57
+  offset: 0, 0
+  index: -1
+Role_luxiya200
+  rotate: false
+  xy: 1852, 74
+  size: 65, 146
+  orig: 65, 146
+  offset: 0, 0
+  index: -1
+Role_luxiya201
+  rotate: false
+  xy: 1508, 942
+  size: 159, 136
+  orig: 159, 136
+  offset: 0, 0
+  index: -1
+Role_luxiya202
+  rotate: false
+  xy: 701, 929
+  size: 48, 132
+  orig: 48, 132
+  offset: 0, 0
+  index: -1
+Role_luxiya203
+  rotate: false
+  xy: 125, 604
+  size: 130, 43
+  orig: 130, 44
+  offset: 0, 0
+  index: -1
+Role_luxiya204
+  rotate: false
+  xy: 869, 1578
+  size: 106, 22
+  orig: 107, 22
+  offset: 1, 0
+  index: -1
+Role_luxiya205
+  rotate: false
+  xy: 925, 1372
+  size: 147, 84
+  orig: 148, 84
+  offset: 0, 0
+  index: -1
+Role_luxiya206
+  rotate: false
+  xy: 1953, 1588
+  size: 84, 172
+  orig: 84, 172
+  offset: 0, 0
+  index: -1
+Role_luxiya207
+  rotate: true
+  xy: 1706, 344
+  size: 53, 184
+  orig: 53, 184
+  offset: 0, 0
+  index: -1
+Role_luxiya208
+  rotate: false
+  xy: 2, 661
+  size: 57, 84
+  orig: 57, 86
+  offset: 0, 0
+  index: -1
+Role_luxiya209
+  rotate: 270
+  xy: 1853, 456
+  size: 126, 194
+  orig: 126, 194
+  offset: 0, 0
+  index: -1
+Role_luxiya21
+  rotate: false
+  xy: 1000, 525
+  size: 216, 145
+  orig: 216, 145
+  offset: 0, 0
+  index: -1
+Role_luxiya22
+  rotate: false
+  xy: 2, 1053
+  size: 97, 81
+  orig: 97, 81
+  offset: 0, 0
+  index: -1
+Role_luxiya23
+  rotate: false
+  xy: 2, 485
+  size: 70, 152
+  orig: 72, 156
+  offset: 1, 4
+  index: -1
+Role_luxiya24
+  rotate: false
+  xy: 1720, 1088
+  size: 106, 50
+  orig: 107, 50
+  offset: 0, 0
+  index: -1
+Role_luxiya25
+  rotate: false
+  xy: 1182, 1592
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+Role_luxiya26
+  rotate: false
+  xy: 2, 1479
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+Role_luxiya27
+  rotate: false
+  xy: 1783, 1523
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+Role_luxiya28
+  rotate: false
+  xy: 63, 1318
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+Role_luxiya29
+  rotate: false
+  xy: 101, 1695
+  size: 46, 17
+  orig: 46, 17
+  offset: 0, 0
+  index: -1
+Role_luxiya3
+  rotate: false
+  xy: 1582, 387
+  size: 418, 87
+  orig: 421, 87
+  offset: 3, 0
+  index: -1
+Role_luxiya30
+  rotate: false
+  xy: 2, 1702
+  size: 197, 57
+  orig: 197, 57
+  offset: 0, 0
+  index: -1
+Role_luxiya31
+  rotate: true
+  xy: 689, 1064
+  size: 76, 224
+  orig: 76, 224
+  offset: 0, 0
+  index: -1
+Role_luxiya32
+  rotate: true
+  xy: 89, 51
+  size: 154, 276
+  orig: 154, 276
+  offset: 0, 0
+  index: -1
+Role_luxiya33
+  rotate: 180
+  xy: 522, 3
+  size: 139, 126
+  orig: 139, 126
+  offset: 0, 0
+  index: -1
+Role_luxiya34
+  rotate: false
+  xy: 1324, 481
+  size: 330, 132
+  orig: 331, 132
+  offset: 1, 0
+  index: -1
+Role_luxiya35
+  rotate: false
+  xy: 359, 967
+  size: 340, 258
+  orig: 340, 258
+  offset: 0, 0
+  index: -1
+Role_luxiya36
+  rotate: false
+  xy: 980, 530
+  size: 41, 115
+  orig: 41, 115
+  offset: 0, 0
+  index: -1
+Role_luxiya37
+  rotate: false
+  xy: 1437, 767
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+Role_luxiya38
+  rotate: false
+  xy: 1811, 822
+  size: 78, 32
+  orig: 84, 32
+  offset: 6, 0
+  index: -1
+Role_luxiya39
+  rotate: false
+  xy: 371, 1021
+  size: 45, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+Role_luxiya4
+  rotate: false
+  xy: 1183, 946
+  size: 373, 158
+  orig: 373, 158
+  offset: 0, 0
+  index: -1
+Role_luxiya40
+  rotate: false
+  xy: 1463, 1019
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Role_luxiya41
+  rotate: false
+  xy: 69, 1500
+  size: 59, 95
+  orig: 59, 95
+  offset: 0, 0
+  index: -1
+Role_luxiya42
+  rotate: true
+  xy: 656, 123
+  size: 134, 171
+  orig: 134, 171
+  offset: 0, 0
+  index: -1
+Role_luxiya43
+  rotate: true
+  xy: 1695, 116
+  size: 132, 169
+  orig: 132, 172
+  offset: 0, 3
+  index: -1
+Role_luxiya44
+  rotate: false
+  xy: 1191, 684
+  size: 43, 81
+  orig: 43, 82
+  offset: 0, 1
+  index: -1
+Role_luxiya45
+  rotate: false
+  xy: 43, 1478
+  size: 34, 65
+  orig: 34, 67
+  offset: 0, 2
+  index: -1
+Role_luxiya46
+  rotate: false
+  xy: 2037, 1669
+  size: 10, 49
+  orig: 10, 51
+  offset: 0, 1
+  index: -1
+Role_luxiya47
+  rotate: false
+  xy: 676, 1727
+  size: 8, 33
+  orig: 9, 35
+  offset: 1, 1
+  index: -1
+Role_luxiya48
+  rotate: false
+  xy: 1316, 1686
+  size: 76, 24
+  orig: 76, 24
+  offset: 0, 0
+  index: -1
+Role_luxiya49
+  rotate: false
+  xy: 38, 116
+  size: 80, 165
+  orig: 80, 165
+  offset: 0, 0
+  index: -1
+Role_luxiya5
+  rotate: true
+  xy: 1048, 819
+  size: 84, 223
+  orig: 85, 223
+  offset: 1, 0
+  index: -1
+Role_luxiya50
+  rotate: false
+  xy: 691, 1706
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+Role_luxiya51
+  rotate: false
+  xy: 765, 250
+  size: 213, 108
+  orig: 213, 108
+  offset: 0, 0
+  index: -1
+Role_luxiya52
+  rotate: false
+  xy: 1744, 1352
+  size: 212, 60
+  orig: 212, 60
+  offset: 0, 0
+  index: -1
+Role_luxiya53
+  rotate: false
+  xy: 1978, 969
+  size: 65, 149
+  orig: 65, 149
+  offset: 0, 0
+  index: -1
+Role_luxiya54
+  rotate: false
+  xy: 751, 973
+  size: 37, 98
+  orig: 37, 98
+  offset: 0, 0
+  index: -1
+Role_luxiya55
+  rotate: false
+  xy: 641, 1457
+  size: 65, 101
+  orig: 65, 102
+  offset: 0, 0
+  index: -1
+Role_luxiya56
+  rotate: false
+  xy: 392, 774
+  size: 346, 114
+  orig: 346, 114
+  offset: 0, 0
+  index: -1
+Role_luxiya57
+  rotate: false
+  xy: 868, 1032
+  size: 400, 224
+  orig: 400, 226
+  offset: 0, 2
+  index: -1
+Role_luxiya58
+  rotate: false
+  xy: 144, 369
+  size: 197, 79
+  orig: 197, 79
+  offset: 0, 0
+  index: -1
+Role_luxiya59
+  rotate: false
+  xy: 1300, 1463
+  size: 99, 33
+  orig: 99, 33
+  offset: 0, 0
+  index: -1
+Role_luxiya6
+  rotate: false
+  xy: 1463, 147
+  size: 209, 89
+  orig: 214, 94
+  offset: 0, 5
+  index: -1
+Role_luxiya60
+  rotate: false
+  xy: 1208, 1728
+  size: 96, 32
+  orig: 97, 32
+  offset: 0, 0
+  index: -1
+Role_luxiya61
+  rotate: false
+  xy: 1067, 1664
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+Role_luxiya62
+  rotate: false
+  xy: 52, 922
+  size: 78, 31
+  orig: 79, 31
+  offset: 0, 0
+  index: -1
+Role_luxiya63
+  rotate: false
+  xy: 1941, 1269
+  size: 13, 75
+  orig: 14, 75
+  offset: 0, 0
+  index: -1
+Role_luxiya64
+  rotate: false
+  xy: 1660, 975
+  size: 14, 78
+  orig: 14, 78
+  offset: 0, 0
+  index: -1
+Role_luxiya65
+  rotate: false
+  xy: 659, 6
+  size: 40, 128
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+Role_luxiya66
+  rotate: true
+  xy: 434, 1532
+  size: 60, 184
+  orig: 60, 184
+  offset: 0, 0
+  index: -1
+Role_luxiya67
+  rotate: true
+  xy: 966, 230
+  size: 68, 142
+  orig: 68, 143
+  offset: 0, 1
+  index: -1
+Role_luxiya68
+  rotate: false
+  xy: 1203, 1330
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+Role_luxiya69
+  rotate: false
+  xy: 12, 1017
+  size: 92, 34
+  orig: 92, 34
+  offset: 0, 0
+  index: -1
+Role_luxiya7
+  rotate: false
+  xy: 507, 257
+  size: 83, 119
+  orig: 103, 119
+  offset: 0, 0
+  index: -1
+Role_luxiya70
+  rotate: true
+  xy: 218, 815
+  size: 54, 128
+  orig: 54, 128
+  offset: 0, 0
+  index: -1
+Role_luxiya71
+  rotate: false
+  xy: 2003, 902
+  size: 43, 127
+  orig: 43, 127
+  offset: 0, 0
+  index: -1
+Role_luxiya72
+  rotate: false
+  xy: 1616, 888
+  size: 105, 33
+  orig: 105, 33
+  offset: 0, 0
+  index: -1
+Role_luxiya73
+  rotate: false
+  xy: 1805, 1411
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: -1
+Role_luxiya74
+  rotate: false
+  xy: 1785, 798
+  size: 132, 44
+  orig: 132, 44
+  offset: 0, 0
+  index: -1
+Role_luxiya75
+  rotate: false
+  xy: 1332, 1600
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Role_luxiya76
+  rotate: false
+  xy: 833, 1150
+  size: 74, 18
+  orig: 74, 18
+  offset: 0, 0
+  index: -1
+Role_luxiya77
+  rotate: false
+  xy: 1590, 865
+  size: 115, 28
+  orig: 115, 28
+  offset: 0, 0
+  index: -1
+Role_luxiya78
+  rotate: false
+  xy: 538, 711
+  size: 218, 73
+  orig: 218, 79
+  offset: 0, 0
+  index: -1
+Role_luxiya79
+  rotate: false
+  xy: 1103, 1579
+  size: 64, 14
+  orig: 65, 14
+  offset: 0, 0
+  index: -1
+Role_luxiya8
+  rotate: true
+  xy: 949, 38
+  size: 73, 364
+  orig: 73, 364
+  offset: 0, 0
+  index: -1
+Role_luxiya80
+  rotate: false
+  xy: 1465, 896
+  size: 151, 49
+  orig: 151, 49
+  offset: 0, 0
+  index: -1
+Role_luxiya81
+  rotate: false
+  xy: 1052, 1592
+  size: 158, 167
+  orig: 158, 167
+  offset: 0, 0
+  index: -1
+Role_luxiya82
+  rotate: false
+  xy: 620, 1520
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+Role_luxiya83
+  rotate: false
+  xy: 1933, 1725
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+Role_luxiya84
+  rotate: false
+  xy: 1072, 1414
+  size: 15, 60
+  orig: 15, 60
+  offset: 0, 0
+  index: -1
+Role_luxiya85
+  rotate: false
+  xy: 736, 1679
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+Role_luxiya86
+  rotate: true
+  xy: 1115, 399
+  size: 135, 151
+  orig: 135, 151
+  offset: 0, 0
+  index: -1
+Role_luxiya86x01
+  rotate: false
+  xy: 685, 1726
+  size: 8, 33
+  orig: 8, 33
+  offset: 0, 0
+  index: -1
+Role_luxiya87
+  rotate: false
+  xy: 1801, 634
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+Role_luxiya88
+  rotate: false
+  xy: 2, 1610
+  size: 30, 62
+  orig: 30, 62
+  offset: 0, 0
+  index: -1
+Role_luxiya89
+  rotate: false
+  xy: 988, 341
+  size: 101, 175
+  orig: 101, 175
+  offset: 0, 0
+  index: -1
+Role_luxiya9
+  rotate: true
+  xy: 1074, 228
+  size: 87, 715
+  orig: 87, 715
+  offset: 0, 0
+  index: -1
+Role_luxiya90
+  rotate: false
+  xy: 622, 1737
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+Role_luxiya91
+  rotate: false
+  xy: 1058, 1018
+  size: 65, 37
+  orig: 65, 37
+  offset: 0, 0
+  index: -1
+Role_luxiya92
+  rotate: false
+  xy: 1918, 86
+  size: 33, 121
+  orig: 33, 121
+  offset: 0, 0
+  index: -1
+Role_luxiya93
+  rotate: false
+  xy: 466, 1236
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+Role_luxiya94
+  rotate: false
+  xy: 890, 1263
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+Role_luxiya95
+  rotate: false
+  xy: 1088, 1419
+  size: 107, 78
+  orig: 107, 78
+  offset: 0, 0
+  index: -1
+Role_luxiya96
+  rotate: false
+  xy: 1332, 766
+  size: 109, 46
+  orig: 109, 46
+  offset: 0, 0
+  index: -1
+Role_luxiya97
+  rotate: false
+  xy: 1223, 1483
+  size: 111, 59
+  orig: 111, 59
+  offset: 0, 0
+  index: -1
+Role_luxiya98
+  rotate: false
+  xy: 884, 1412
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+Role_luxiya99
+  rotate: false
+  xy: 1672, 1711
+  size: 129, 48
+  orig: 129, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+LilisiTutorialV31_Fn.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_starglow_2
+  rotate: false
+  xy: 2, 26
+  size: 315, 268
+  orig: 315, 268
+  offset: 0, 0
+  index: -1
+Fg_puke_6_1
+  rotate: true
+  xy: 496, 4
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_6_2
+  rotate: false
+  xy: 673, 119
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_6_3
+  rotate: true
+  xy: 673, 4
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_a1
+  rotate: false
+  xy: 319, 119
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_a2
+  rotate: true
+  xy: 319, 3
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_a3
+  rotate: false
+  xy: 496, 119
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_b_1
+  rotate: false
+  xy: 966, 119
+  size: 113, 168
+  orig: 113, 168
+  offset: 0, 0
+  index: -1
+Fg_puke_b_2
+  rotate: false
+  xy: 850, 119
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1
+Fg_puke_b_3
+  rotate: true
+  xy: 850, 4
+  size: 114, 175
+  orig: 114, 175
+  offset: 0, 0
+  index: -1

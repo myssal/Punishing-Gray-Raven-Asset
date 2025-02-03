@@ -1,0 +1,104 @@
+
+UiMovieYoushiV32_Fn.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+fadai
+  rotate: false
+  xy: 25, 88
+  size: 270, 103
+  orig: 270, 103
+  offset: 0, 0
+  index: -1
+houfa1
+  rotate: false
+  xy: 2, 615
+  size: 248, 195
+  orig: 248, 195
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: 270
+  xy: 38, 397
+  size: 121, 203
+  orig: 121, 203
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 250, 235
+  size: 82, 196
+  orig: 82, 196
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: true
+  xy: 271, 624
+  size: 186, 65
+  orig: 186, 65
+  offset: 0, 0
+  index: -1
+qianfa1
+  rotate: true
+  xy: 37, 137
+  size: 100, 253
+  orig: 100, 253
+  offset: 0, 0
+  index: -1
+qianfa2
+  rotate: true
+  xy: 278, 7
+  size: 127, 57
+  orig: 127, 57
+  offset: 0, 0
+  index: -1
+qianfa3
+  rotate: 180
+  xy: 51, 4
+  size: 217, 61
+  orig: 217, 61
+  offset: 0, 0
+  index: -1
+qianfa4
+  rotate: false
+  xy: 93, 27
+  size: 153, 76
+  orig: 153, 76
+  offset: 0, 0
+  index: -1
+qianfa5
+  rotate: false
+  xy: 2, 396
+  size: 31, 131
+  orig: 31, 131
+  offset: 0, 0
+  index: -1
+qianfa6
+  rotate: 180
+  xy: 2, 269
+  size: 227, 134
+  orig: 227, 134
+  offset: 0, 0
+  index: -1
+qianfa7
+  rotate: false
+  xy: 49, 196
+  size: 239, 101
+  orig: 239, 101
+  offset: 0, 0
+  index: -1
+qianfa8
+  rotate: 270
+  xy: 226, 394
+  size: 288, 82
+  orig: 288, 82
+  offset: 0, 0
+  index: -1
+qianfa9
+  rotate: false
+  xy: 2, 516
+  size: 239, 114
+  orig: 239, 114
+  offset: 0, 0
+  index: -1

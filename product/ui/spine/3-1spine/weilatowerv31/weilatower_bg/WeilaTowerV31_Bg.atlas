@@ -1,0 +1,41 @@
+
+WeilaTowerV31_Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_bg
+  rotate: false
+  xy: 2, 541
+  size: 1239, 666
+  orig: 1239, 666
+  offset: 0, 0
+  index: -1
+Bg_bg_2
+  rotate: false
+  xy: 2, 434
+  size: 341, 67
+  orig: 341, 67
+  offset: 0, 0
+  index: -1
+Bg_bg_3
+  rotate: false
+  xy: 2, 503
+  size: 633, 36
+  orig: 633, 36
+  offset: 0, 0
+  index: -1
+Bg_guang
+  rotate: false
+  xy: 2, 3
+  size: 1041, 536
+  orig: 1041, 536
+  offset: 0, 0
+  index: -1
+Bg_zhuayy
+  rotate: false
+  xy: 2, 340
+  size: 34, 93
+  orig: 34, 93
+  offset: 0, 0
+  index: -1

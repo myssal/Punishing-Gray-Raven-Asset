@@ -1,0 +1,48 @@
+
+UiMovieXizhuangnanV32_Fn.png
+size: 512,128
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+xizhuang29
+  rotate: false
+  xy: 2, 2
+  size: 206, 75
+  orig: 206, 75
+  offset: 0, 0
+  index: -1
+xizhuang30
+  rotate: false
+  xy: 266, 25
+  size: 42, 52
+  orig: 42, 52
+  offset: 0, 0
+  index: -1
+xizhuang31
+  rotate: false
+  xy: 249, 13
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+xizhuang32
+  rotate: 270
+  xy: 285, 28
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+xizhuang33
+  rotate: true
+  xy: 232, 17
+  size: 60, 16
+  orig: 60, 16
+  offset: 0, 0
+  index: -1
+xizhuang34
+  rotate: true
+  xy: 210, 16
+  size: 61, 20
+  orig: 61, 20
+  offset: 0, 0
+  index: -1

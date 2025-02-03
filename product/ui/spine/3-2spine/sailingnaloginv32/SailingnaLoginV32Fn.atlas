@@ -1,0 +1,111 @@
+
+SailingnaLoginV32Fn.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fg_slndlt_1
+  rotate: false
+  xy: 948, 313
+  size: 186, 137
+  orig: 195, 147
+  offset: 4, 6
+  index: -1
+Fg_slndlt_10
+  rotate: true
+  xy: 502, 2
+  size: 1226, 347
+  orig: 1226, 347
+  offset: 0, 0
+  index: -1
+Fg_slndlt_11
+  rotate: 270
+  xy: 717, 820
+  size: 408, 477
+  orig: 408, 477
+  offset: 0, 0
+  index: -1
+Fg_slndlt_12
+  rotate: 270
+  xy: 1032, 937
+  size: 292, 165
+  orig: 292, 165
+  offset: 0, 0
+  index: -1
+Fg_slndlt_13
+  rotate: true
+  xy: 742, 313
+  size: 442, 354
+  orig: 442, 354
+  offset: 0, 0
+  index: -1
+Fg_slndlt_14
+  rotate: false
+  xy: 427, 917
+  size: 124, 311
+  orig: 132, 311
+  offset: 0, 0
+  index: -1
+Fg_slndlt_15
+  rotate: false
+  xy: 2, 260
+  size: 232, 141
+  orig: 232, 141
+  offset: 0, 0
+  index: -1
+Fg_slndlt_15_1
+  rotate: false
+  xy: 2, 897
+  size: 64, 37
+  orig: 68, 44
+  offset: 0, 0
+  index: -1
+Fg_slndlt_16
+  rotate: false
+  xy: 828, 834
+  size: 212, 249
+  orig: 212, 249
+  offset: 0, 0
+  index: -1
+Fg_slndlt_2
+  rotate: true
+  xy: 701, 12
+  size: 299, 252
+  orig: 303, 261
+  offset: 0, 4
+  index: -1
+Fg_slndlt_3
+  rotate: false
+  xy: 2, 32
+  size: 418, 220
+  orig: 423, 225
+  offset: 5, 0
+  index: -1
+Fg_slndlt_4
+  rotate: false
+  xy: 955, 126
+  size: 145, 185
+  orig: 153, 194
+  offset: 5, 5
+  index: -1
+Fg_slndlt_5
+  rotate: false
+  xy: 2, 376
+  size: 177, 158
+  orig: 188, 168
+  offset: 6, 4
+  index: -1
+Fg_slndlt_6
+  rotate: false
+  xy: 955, 3
+  size: 160, 121
+  orig: 169, 133
+  offset: 5, 5
+  index: -1
+Fg_slndlt_9
+  rotate: false
+  xy: 2, 239
+  size: 543, 990
+  orig: 543, 990
+  offset: 0, 0
+  index: -1

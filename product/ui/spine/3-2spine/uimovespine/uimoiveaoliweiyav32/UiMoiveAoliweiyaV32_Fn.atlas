@@ -1,0 +1,202 @@
+
+UiMoiveAoliweiyaV32_Fn.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+aoli10
+  rotate: 270
+  xy: 167, 15
+  size: 121, 208
+  orig: 121, 208
+  offset: 0, 0
+  index: -1
+aoli11
+  rotate: 270
+  xy: 14, 8
+  size: 60, 239
+  orig: 60, 239
+  offset: 0, 0
+  index: -1
+aoli12
+  rotate: true
+  xy: 658, 7
+  size: 57, 110
+  orig: 57, 110
+  offset: 0, 0
+  index: -1
+aoli13
+  rotate: 270
+  xy: 396, 122
+  size: 104, 298
+  orig: 110, 303
+  offset: 6, 5
+  index: -1
+aoli14
+  rotate: true
+  xy: 628, 119
+  size: 78, 117
+  orig: 80, 117
+  offset: 2, 0
+  index: -1
+aoli15
+  rotate: 270
+  xy: 111, 4
+  size: 35, 100
+  orig: 35, 100
+  offset: 0, 0
+  index: -1
+aoli16
+  rotate: false
+  xy: 255, 11
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+aoli17
+  rotate: 270
+  xy: 409, 36
+  size: 107, 342
+  orig: 109, 342
+  offset: 2, 0
+  index: -1
+aoli18
+  rotate: true
+  xy: 720, 57
+  size: 94, 84
+  orig: 94, 84
+  offset: 0, 0
+  index: -1
+aoli19
+  rotate: true
+  xy: 376, 9
+  size: 35, 87
+  orig: 35, 87
+  offset: 0, 0
+  index: -1
+aoli20
+  rotate: true
+  xy: 167, 67
+  size: 157, 380
+  orig: 157, 380
+  offset: 0, 0
+  index: -1
+aoli21
+  rotate: false
+  xy: 757, 140
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+aoli22
+  rotate: false
+  xy: 27, 8
+  size: 80, 19
+  orig: 80, 19
+  offset: 0, 0
+  index: -1
+aoli23
+  rotate: false
+  xy: 214, 8
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+aoli24
+  rotate: false
+  xy: 51, 30
+  size: 46, 15
+  orig: 46, 15
+  offset: 0, 0
+  index: -1
+aoli25
+  rotate: false
+  xy: 586, 7
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+aoli26
+  rotate: false
+  xy: 167, 218
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+aoli27
+  rotate: false
+  xy: 167, 210
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+aoli28
+  rotate: false
+  xy: 750, 203
+  size: 55, 22
+  orig: 60, 25
+  offset: 0, 3
+  index: -1
+aoli29
+  rotate: true
+  xy: 776, 133
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+aoli30
+  rotate: true
+  xy: 769, 7
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+aoli31
+  rotate: false
+  xy: 167, 202
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+aoli32
+  rotate: false
+  xy: 359, 4
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+aoli33
+  rotate: false
+  xy: 540, 11
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+aoli34
+  rotate: 180
+  xy: 2, 23
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+aoli35
+  rotate: false
+  xy: 2, 63
+  size: 163, 161
+  orig: 163, 161
+  offset: 0, 0
+  index: -1
+aoli57
+  rotate: false
+  xy: 465, 11
+  size: 74, 35
+  orig: 74, 35
+  offset: 0, 0
+  index: -1
+aoli9
+  rotate: false
+  xy: 286, 22
+  size: 17, 40
+  orig: 17, 40
+  offset: 0, 0
+  index: -1

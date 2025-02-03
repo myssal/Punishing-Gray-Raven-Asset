@@ -1,0 +1,90 @@
+
+UiMoiveHeibangXDV32_Fn.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+xiaodi18
+  rotate: false
+  xy: 2, 65
+  size: 81, 24
+  orig: 81, 24
+  offset: 0, 0
+  index: -1
+xiaodi19
+  rotate: true
+  xy: 85, 32
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+xiaodi20
+  rotate: 270
+  xy: 176, 34
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+xiaodi21
+  rotate: false
+  xy: 76, 11
+  size: 55, 28
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+xiaodi22
+  rotate: true
+  xy: 131, 19
+  size: 70, 19
+  orig: 70, 19
+  offset: 0, 0
+  index: -1
+xiaodi23
+  rotate: false
+  xy: 2, 35
+  size: 72, 29
+  orig: 72, 29
+  offset: 0, 0
+  index: -1
+xiaodi24
+  rotate: false
+  xy: 143, 6
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+xiaodi25
+  rotate: true
+  xy: 143, 28
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+xiaodi26
+  rotate: true
+  xy: 172, 3
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+xiaodi27
+  rotate: true
+  xy: 108, 40
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+xiaodi29
+  rotate: 180
+  xy: 2, 9
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+xiaodi30
+  rotate: true
+  xy: 158, 33
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1

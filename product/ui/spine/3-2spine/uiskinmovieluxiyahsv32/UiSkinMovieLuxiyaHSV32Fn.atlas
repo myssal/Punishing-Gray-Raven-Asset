@@ -1,0 +1,153 @@
+
+UiSkinMovieLuxiyaHSV32Fn.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Effect_guangxiao0
+  rotate: false
+  xy: 309, 1303
+  size: 212, 548
+  orig: 212, 548
+  offset: 0, 0
+  index: -1
+Effect_guangxiao1
+  rotate: false
+  xy: 309, 594
+  size: 266, 707
+  orig: 266, 707
+  offset: 0, 0
+  index: -1
+Effect_guangxiao2
+  rotate: 180
+  xy: 254, 154
+  size: 423, 1038
+  orig: 423, 1038
+  offset: 0, 0
+  index: -1
+Effect_guangxiao3
+  rotate: false
+  xy: 2, 476
+  size: 315, 274
+  orig: 315, 274
+  offset: 0, 0
+  index: -1
+Effect_guangxiao4
+  rotate: false
+  xy: 2, 1466
+  size: 52, 97
+  orig: 52, 97
+  offset: 0, 0
+  index: -1
+Effect_guangxiao5
+  rotate: false
+  xy: 508, 802
+  size: 135, 125
+  orig: 135, 125
+  offset: 0, 0
+  index: -1
+Effect_guangxiao6
+  rotate: false
+  xy: 250, 83
+  size: 184, 157
+  orig: 184, 157
+  offset: 0, 0
+  index: -1
+Effect_guangxiao7
+  rotate: false
+  xy: 375, 1204
+  size: 228, 82
+  orig: 228, 82
+  offset: 0, 0
+  index: -1
+Fg_qj0
+  rotate: false
+  xy: 2, 1194
+  size: 306, 658
+  orig: 306, 658
+  offset: 0, 0
+  index: -1
+Fg_qj1
+  rotate: false
+  xy: 2, 1413
+  size: 103, 50
+  orig: 103, 50
+  offset: 0, 0
+  index: -1
+Fg_qj10
+  rotate: false
+  xy: 2, 27
+  size: 99, 35
+  orig: 99, 35
+  offset: 0, 0
+  index: -1
+Fg_qj11
+  rotate: false
+  xy: 203, 9
+  size: 113, 36
+  orig: 113, 36
+  offset: 0, 0
+  index: -1
+Fg_qj12
+  rotate: false
+  xy: 309, 1627
+  size: 112, 204
+  orig: 112, 204
+  offset: 0, 0
+  index: -1
+Fg_qj13
+  rotate: false
+  xy: 423, 33
+  size: 238, 139
+  orig: 238, 139
+  offset: 0, 0
+  index: -1
+Fg_qj2
+  rotate: false
+  xy: 2, 1377
+  size: 115, 50
+  orig: 115, 50
+  offset: 0, 0
+  index: -1
+Fg_qj3
+  rotate: true
+  xy: 2, 751
+  size: 612, 267
+  orig: 612, 267
+  offset: 0, 0
+  index: -1
+Fg_qj4
+  rotate: false
+  xy: 2, 3
+  size: 247, 470
+  orig: 247, 470
+  offset: 0, 0
+  index: -1
+Fg_qj5
+  rotate: false
+  xy: 209, 1797
+  size: 90, 54
+  orig: 93, 56
+  offset: 1, 2
+  index: -1
+Fg_qj7
+  rotate: false
+  xy: 436, 1397
+  size: 224, 94
+  orig: 228, 99
+  offset: 2, 3
+  index: -1
+Fg_qj8x02
+  rotate: false
+  xy: 448, 888
+  size: 79, 314
+  orig: 79, 314
+  offset: 0, 0
+  index: -1
+Fg_qj9
+  rotate: false
+  xy: 342, 1289
+  size: 161, 151
+  orig: 161, 151
+  offset: 0, 0
+  index: -1

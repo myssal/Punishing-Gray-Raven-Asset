@@ -1,0 +1,48 @@
+
+UiMovieXizhuangnanV32_Kou.png
+size: 512,512
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+xizhuang1
+  rotate: true
+  xy: 205, 237
+  size: 81, 29
+  orig: 81, 29
+  offset: 0, 0
+  index: -1
+xizhuang2
+  rotate: true
+  xy: 2, 237
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+xizhuang3
+  rotate: false
+  xy: 35, 304
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+xizhuang35
+  rotate: false
+  xy: 2, 3
+  size: 229, 315
+  orig: 229, 315
+  offset: 0, 0
+  index: -1
+xizhuang4
+  rotate: false
+  xy: 171, 304
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+xizhuang5
+  rotate: true
+  xy: 231, 270
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1

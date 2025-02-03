@@ -1,0 +1,48 @@
+
+UiMovieYoushiV32_Kou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+kouqiang
+  rotate: false
+  xy: 186, 4
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+shangya
+  rotate: false
+  xy: 18, 4
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+shangzui
+  rotate: false
+  xy: 164, 198
+  size: 53, 23
+  orig: 56, 24
+  offset: 3, 1
+  index: -1
+tou
+  rotate: false
+  xy: 2, 3
+  size: 232, 233
+  orig: 232, 233
+  offset: 0, 0
+  index: -1
+xiaya
+  rotate: false
+  xy: 2, 231
+  size: 13, 7
+  orig: 15, 8
+  offset: 1, 0
+  index: -1
+xiazui
+  rotate: false
+  xy: 2, 16
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1

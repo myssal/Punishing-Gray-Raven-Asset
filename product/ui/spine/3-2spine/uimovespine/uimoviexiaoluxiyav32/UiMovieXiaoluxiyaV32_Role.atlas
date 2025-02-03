@@ -1,0 +1,111 @@
+
+UiMovieXiaoluxiyaV32_Role.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Lshou
+  rotate: 180
+  xy: 324, 158
+  size: 119, 520
+  orig: 119, 520
+  offset: 0, 0
+  index: -1
+Lyinling
+  rotate: false
+  xy: 2, 417
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+Rshou
+  rotate: true
+  xy: 430, 374
+  size: 525, 122
+  orig: 525, 122
+  offset: 0, 0
+  index: -1
+Ryiling
+  rotate: false
+  xy: 378, 748
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+fa
+  rotate: true
+  xy: 445, 72
+  size: 299, 162
+  orig: 299, 162
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: 270
+  xy: 2, 64
+  size: 283, 321
+  orig: 283, 321
+  offset: 0, 0
+  index: -1
+lingjie1
+  rotate: false
+  xy: 2, 669
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+lingjie2
+  rotate: false
+  xy: 393, 817
+  size: 43, 78
+  orig: 44, 78
+  offset: 0, 0
+  index: -1
+lingjie3
+  rotate: false
+  xy: 398, 7
+  size: 78, 48
+  orig: 78, 48
+  offset: 0, 0
+  index: -1
+pozi
+  rotate: false
+  xy: 356, 680
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+qianfa5
+  rotate: 180
+  xy: 545, 373
+  size: 101, 445
+  orig: 101, 445
+  offset: 0, 0
+  index: -1
+qianfa6
+  rotate: false
+  xy: 2, 465
+  size: 44, 192
+  orig: 44, 192
+  offset: 0, 0
+  index: -1
+qianfa7
+  rotate: 270
+  xy: 12, 4
+  size: 108, 437
+  orig: 108, 437
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 345
+  size: 397, 554
+  orig: 397, 554
+  offset: 0, 0
+  index: -1
+yilin
+  rotate: false
+  xy: 2, 366
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1

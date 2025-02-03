@@ -1,0 +1,160 @@
+
+SailingnaLoginV32Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_slndit_0
+  rotate: false
+  xy: 2, 697
+  size: 153, 235
+  orig: 153, 235
+  offset: 0, 0
+  index: -1
+Bg_slndit_1
+  rotate: true
+  xy: 1093, 373
+  size: 347, 424
+  orig: 347, 424
+  offset: 0, 0
+  index: -1
+Bg_slndit_1_1
+  rotate: false
+  xy: 156, 714
+  size: 108, 147
+  orig: 108, 147
+  offset: 0, 0
+  index: -1
+Bg_slndit_2
+  rotate: 270
+  xy: 1074, 483
+  size: 463, 400
+  orig: 464, 400
+  offset: 0, 0
+  index: -1
+Bg_slndit_3
+  rotate: true
+  xy: 1320, 1151
+  size: 272, 190
+  orig: 272, 215
+  offset: 0, 0
+  index: -1
+Bg_slndit_4
+  rotate: 180
+  xy: 652, 293
+  size: 440, 292
+  orig: 440, 292
+  offset: 0, 0
+  index: -1
+Bg_slndit_6
+  rotate: false
+  xy: 2, 286
+  size: 511, 314
+  orig: 511, 314
+  offset: 0, 0
+  index: -1
+Bg_slndit_7
+  rotate: true
+  xy: 886, 505
+  size: 530, 270
+  orig: 530, 272
+  offset: 0, 1
+  index: -1
+Bg_slndit_9
+  rotate: false
+  xy: 2, 1088
+  size: 1281, 721
+  orig: 1281, 721
+  offset: 0, 0
+  index: -1
+Fg_slndlt_24
+  rotate: true
+  xy: 1284, 1446
+  size: 363, 126
+  orig: 363, 126
+  offset: 0, 0
+  index: -1
+Fg_slndlt_25
+  rotate: false
+  xy: 2, 596
+  size: 258, 100
+  orig: 258, 100
+  offset: 0, 0
+  index: -1
+Fg_slndlt_26
+  rotate: false
+  xy: 1292, 58
+  size: 121, 335
+  orig: 121, 335
+  offset: 0, 0
+  index: -1
+Mg_slndlt_21
+  rotate: false
+  xy: 619, 11
+  size: 277, 217
+  orig: 288, 222
+  offset: 0, 0
+  index: -1
+Mg_slndlt_22
+  rotate: false
+  xy: 2, 236
+  size: 251, 104
+  orig: 261, 123
+  offset: 0, 16
+  index: -1
+Mg_slndlt_23
+  rotate: false
+  xy: 1249, 843
+  size: 128, 307
+  orig: 150, 307
+  offset: 11, 0
+  index: -1
+Mg_slndlt_26
+  rotate: 180
+  xy: 891, 3
+  size: 399, 415
+  orig: 399, 415
+  offset: 0, 0
+  index: -1
+Mg_slndlt_27
+  rotate: false
+  xy: 2, 24
+  size: 130, 86
+  orig: 132, 88
+  offset: 2, 0
+  index: -1
+Mg_slndlt_28
+  rotate: 180
+  xy: 123, 66
+  size: 588, 332
+  orig: 588, 370
+  offset: 0, 14
+  index: -1
+Mg_slndlt_29
+  rotate: false
+  xy: 2, 442
+  size: 917, 645
+  orig: 917, 645
+  offset: 0, 0
+  index: -1
+Mg_slndlt_7
+  rotate: false
+  xy: 734, 557
+  size: 88, 180
+  orig: 115, 180
+  offset: 14, 0
+  index: -1
+Mg_slndlt_8
+  rotate: false
+  xy: 1351, 390
+  size: 162, 192
+  orig: 174, 207
+  offset: 0, 7
+  index: -1
+Mg_slndlt_9
+  rotate: false
+  xy: 1284, 1395
+  size: 154, 63
+  orig: 160, 80
+  offset: 0, 5
+  index: -1

@@ -1,0 +1,265 @@
+
+UiMovieGuifurenV32_Role.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+guifu49
+  rotate: false
+  xy: 362, 502
+  size: 42, 133
+  orig: 42, 133
+  offset: 0, 0
+  index: -1
+guifu50
+  rotate: false
+  xy: 549, 345
+  size: 30, 215
+  orig: 34, 217
+  offset: 0, 2
+  index: -1
+guifu51
+  rotate: true
+  xy: 1867, 395
+  size: 133, 144
+  orig: 133, 149
+  offset: 0, 1
+  index: -1
+guifu52
+  rotate: false
+  xy: 1620, 490
+  size: 128, 145
+  orig: 128, 145
+  offset: 0, 0
+  index: -1
+guifu53
+  rotate: false
+  xy: 1322, 453
+  size: 108, 182
+  orig: 108, 182
+  offset: 0, 0
+  index: -1
+guifu54
+  rotate: 180
+  xy: 697, 296
+  size: 311, 339
+  orig: 311, 339
+  offset: 0, 0
+  index: -1
+guifu55
+  rotate: false
+  xy: 1534, 411
+  size: 48, 79
+  orig: 48, 79
+  offset: 0, 0
+  index: -1
+guifu56
+  rotate: 180
+  xy: 1002, 355
+  size: 137, 120
+  orig: 137, 120
+  offset: 0, 0
+  index: -1
+guifu57
+  rotate: 180
+  xy: 1120, 59
+  size: 108, 576
+  orig: 108, 576
+  offset: 0, 0
+  index: -1
+guifu58
+  rotate: 180
+  xy: 1515, 171
+  size: 118, 464
+  orig: 118, 464
+  offset: 0, 0
+  index: -1
+guifu59
+  rotate: false
+  xy: 1395, 332
+  size: 203, 83
+  orig: 203, 83
+  offset: 0, 0
+  index: -1
+guifu60
+  rotate: false
+  xy: 1206, 352
+  size: 190, 102
+  orig: 190, 122
+  offset: 0, 10
+  index: -1
+guifu61
+  rotate: 270
+  xy: 1430, 407
+  size: 228, 115
+  orig: 228, 115
+  offset: 0, 0
+  index: -1
+guifu62
+  rotate: 270
+  xy: 1845, 416
+  size: 219, 91
+  orig: 219, 91
+  offset: 0, 0
+  index: -1
+guifu63
+  rotate: false
+  xy: 2, 465
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+guifu64
+  rotate: false
+  xy: 1633, 457
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+guifu65
+  rotate: false
+  xy: 343, 437
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+guifu66
+  rotate: false
+  xy: 1580, 599
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+guifu67
+  rotate: false
+  xy: 802, 593
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+guifu68
+  rotate: false
+  xy: 1034, 454
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+guifu69
+  rotate: false
+  xy: 871, 477
+  size: 255, 158
+  orig: 256, 158
+  offset: 1, 0
+  index: -1
+guifu70
+  rotate: false
+  xy: 1687, 452
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+guifu71
+  rotate: false
+  xy: 2012, 494
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+guifu72
+  rotate: false
+  xy: 379, 244
+  size: 183, 391
+  orig: 195, 391
+  offset: 0, 0
+  index: -1
+guifu73
+  rotate: false
+  xy: 2, 2
+  size: 437, 633
+  orig: 437, 633
+  offset: 0, 0
+  index: -1
+guifu74
+  rotate: false
+  xy: 548, 260
+  size: 148, 375
+  orig: 148, 375
+  offset: 0, 0
+  index: -1
+guifu75
+  rotate: 270
+  xy: 1748, 462
+  size: 174, 99
+  orig: 174, 100
+  offset: 0, 1
+  index: -1
+guifu76
+  rotate: false
+  xy: 1676, 367
+  size: 177, 111
+  orig: 177, 111
+  offset: 0, 0
+  index: -1
+guifu77
+  rotate: true
+  xy: 1192, 443
+  size: 193, 128
+  orig: 198, 128
+  offset: 5, 0
+  index: -1
+guifu78
+  rotate: true
+  xy: 1938, 530
+  size: 105, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1
+guifu79
+  rotate: false
+  xy: 1074, 436
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+guifu80
+  rotate: false
+  xy: 828, 552
+  size: 53, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+guifu81
+  rotate: false
+  xy: 871, 523
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+guifu82
+  rotate: false
+  xy: 1821, 481
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+guifu83
+  rotate: false
+  xy: 1956, 356
+  size: 90, 50
+  orig: 90, 50
+  offset: 0, 0
+  index: -1
+guifu84
+  rotate: false
+  xy: 2, 508
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+guifu85
+  rotate: 180
+  xy: 698, 378
+  size: 157, 98
+  orig: 157, 103
+  offset: 0, 0
+  index: -1

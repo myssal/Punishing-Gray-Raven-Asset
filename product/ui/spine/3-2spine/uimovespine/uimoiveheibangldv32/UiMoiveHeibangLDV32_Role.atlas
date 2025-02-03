@@ -1,0 +1,83 @@
+
+UiMoiveHeibangLDV32_Role.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+hei10
+  rotate: 180
+  xy: 950, 3
+  size: 528, 141
+  orig: 528, 146
+  offset: 0, 0
+  index: -1
+hei11
+  rotate: false
+  xy: 973, 165
+  size: 276, 684
+  orig: 276, 684
+  offset: 0, 0
+  index: -1
+hei12
+  rotate: true
+  xy: 1455, 11
+  size: 242, 155
+  orig: 242, 155
+  offset: 0, 0
+  index: -1
+hei13
+  rotate: false
+  xy: 1372, 553
+  size: 182, 268
+  orig: 182, 268
+  offset: 0, 0
+  index: -1
+hei14
+  rotate: false
+  xy: 2, 77
+  size: 628, 807
+  orig: 628, 807
+  offset: 0, 0
+  index: -1
+hei15
+  rotate: true
+  xy: 1189, 92
+  size: 763, 197
+  orig: 763, 197
+  offset: 0, 0
+  index: -1
+hei16
+  rotate: 270
+  xy: 582, 70
+  size: 792, 421
+  orig: 792, 421
+  offset: 0, 0
+  index: -1
+hei17
+  rotate: true
+  xy: 1350, 160
+  size: 391, 148
+  orig: 391, 148
+  offset: 0, 0
+  index: -1
+hei18
+  rotate: 270
+  xy: 1489, 240
+  size: 178, 149
+  orig: 178, 149
+  offset: 0, 0
+  index: -1
+hei19
+  rotate: false
+  xy: 519, 746
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+hei9
+  rotate: 180
+  xy: 2, 15
+  size: 468, 122
+  orig: 468, 122
+  offset: 0, 0
+  index: -1

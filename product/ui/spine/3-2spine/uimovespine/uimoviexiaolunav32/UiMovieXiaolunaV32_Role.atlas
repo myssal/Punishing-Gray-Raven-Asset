@@ -1,0 +1,139 @@
+
+UiMovieXiaolunaV32_Role.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+xiaoluna27
+  rotate: true
+  xy: 361, 552
+  size: 281, 177
+  orig: 283, 179
+  offset: 1, 1
+  index: -1
+xiaoluna28
+  rotate: true
+  xy: 2, 258
+  size: 158, 420
+  orig: 158, 420
+  offset: 0, 0
+  index: -1
+xiaoluna29
+  rotate: false
+  xy: 475, 459
+  size: 60, 57
+  orig: 62, 59
+  offset: 1, 1
+  index: -1
+xiaoluna30
+  rotate: false
+  xy: 432, 1033
+  size: 79, 31
+  orig: 79, 31
+  offset: 0, 0
+  index: -1
+xiaoluna31
+  rotate: false
+  xy: 353, 459
+  size: 125, 73
+  orig: 125, 73
+  offset: 0, 0
+  index: -1
+xiaoluna32
+  rotate: false
+  xy: 424, 276
+  size: 109, 181
+  orig: 111, 183
+  offset: 1, 1
+  index: -1
+xiaoluna33
+  rotate: false
+  xy: 477, 94
+  size: 58, 69
+  orig: 60, 71
+  offset: 1, 1
+  index: -1
+xiaoluna34
+  rotate: false
+  xy: 435, 994
+  size: 64, 38
+  orig: 66, 40
+  offset: 1, 1
+  index: -1
+xiaoluna35
+  rotate: false
+  xy: 2, 693
+  size: 56, 177
+  orig: 56, 177
+  offset: 0, 0
+  index: -1
+xiaoluna36
+  rotate: false
+  xy: 100, 102
+  size: 431, 178
+  orig: 431, 178
+  offset: 0, 0
+  index: -1
+xiaoluna37
+  rotate: false
+  xy: 2, 856
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+xiaoluna38
+  rotate: false
+  xy: 437, 835
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+xiaoluna39
+  rotate: false
+  xy: 2, 954
+  size: 27, 26
+  orig: 29, 28
+  offset: 1, 1
+  index: -1
+xiaoluna40
+  rotate: false
+  xy: 465, 875
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+xiaoluna41
+  rotate: false
+  xy: 490, 915
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+xiaoluna42
+  rotate: false
+  xy: 2, 552
+  size: 427, 587
+  orig: 427, 587
+  offset: 0, 0
+  index: -1
+xiaoluna43
+  rotate: false
+  xy: 2, 417
+  size: 349, 133
+  orig: 351, 135
+  offset: 1, 1
+  index: -1
+xiaoluna44
+  rotate: 270
+  xy: 2, 3
+  size: 103, 507
+  orig: 103, 507
+  offset: 0, 0
+  index: -1
+xiaoluna45
+  rotate: false
+  xy: 368, 835
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+UiMoiveLuxiyaHJV32_Kou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Face
+  rotate: false
+  xy: 2, 3
+  size: 200, 221
+  orig: 200, 221
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 166, 178
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 178, 171
+  size: 23, 5
+  orig: 23, 5
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 171, 189
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: false
+  xy: 2, 7
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: false
+  xy: 2, 216
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1

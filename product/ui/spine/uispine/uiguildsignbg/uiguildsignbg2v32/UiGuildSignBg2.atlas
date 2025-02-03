@@ -1,0 +1,69 @@
+
+UiGuildSignBg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+di_1
+  rotate: false
+  xy: 560, 162
+  size: 491, 923
+  orig: 491, 923
+  offset: 0, 0
+  index: -1
+di_2
+  rotate: false
+  xy: 2, 141
+  size: 556, 944
+  orig: 556, 944
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: true
+  xy: 2, 18
+  size: 121, 164
+  orig: 121, 164
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 705, 3
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 497, 3
+  size: 157, 207
+  orig: 157, 213
+  offset: 0, 6
+  index: -1
+hudiejie_1
+  rotate: false
+  xy: 247, 51
+  size: 210, 88
+  orig: 210, 88
+  offset: 0, 0
+  index: -1
+yuefu_1
+  rotate: false
+  xy: 168, 19
+  size: 77, 120
+  orig: 77, 120
+  offset: 0, 0
+  index: -1
+yuefu_2
+  rotate: false
+  xy: 440, 89
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yuefu_3
+  rotate: false
+  xy: 337, 12
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1

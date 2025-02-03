@@ -1,0 +1,139 @@
+
+UiMovieXizhuangnanV32_Role.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+xizhuang36
+  rotate: false
+  xy: 1646, 520
+  size: 115, 143
+  orig: 115, 143
+  offset: 0, 0
+  index: -1
+xizhuang37
+  rotate: 270
+  xy: 1970, 570
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+xizhuang38
+  rotate: false
+  xy: 1922, 532
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1
+xizhuang39
+  rotate: false
+  xy: 2, 556
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+xizhuang40
+  rotate: false
+  xy: 28, 522
+  size: 55, 43
+  orig: 55, 43
+  offset: 0, 0
+  index: -1
+xizhuang41
+  rotate: false
+  xy: 1849, 523
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+xizhuang42
+  rotate: 270
+  xy: 735, 349
+  size: 315, 185
+  orig: 319, 185
+  offset: 0, 0
+  index: -1
+xizhuang43
+  rotate: false
+  xy: 1025, 210
+  size: 146, 453
+  orig: 146, 453
+  offset: 0, 0
+  index: -1
+xizhuang44
+  rotate: 180
+  xy: 1172, 256
+  size: 168, 407
+  orig: 168, 407
+  offset: 0, 0
+  index: -1
+xizhuang45
+  rotate: false
+  xy: 1138, 519
+  size: 87, 144
+  orig: 87, 144
+  offset: 0, 0
+  index: -1
+xizhuang46
+  rotate: false
+  xy: 1763, 523
+  size: 84, 140
+  orig: 84, 140
+  offset: 0, 0
+  index: -1
+xizhuang47
+  rotate: 270
+  xy: 1916, 580
+  size: 84, 64
+  orig: 84, 64
+  offset: 0, 0
+  index: -1
+xizhuang48
+  rotate: true
+  xy: 1849, 581
+  size: 83, 65
+  orig: 83, 65
+  offset: 0, 0
+  index: -1
+xizhuang49
+  rotate: false
+  xy: 923, 314
+  size: 100, 349
+  orig: 100, 349
+  offset: 0, 0
+  index: -1
+xizhuang50
+  rotate: false
+  xy: 2, 3
+  size: 533, 660
+  orig: 533, 660
+  offset: 0, 0
+  index: -1
+xizhuang51
+  rotate: false
+  xy: 1513, 510
+  size: 131, 153
+  orig: 131, 153
+  offset: 0, 0
+  index: -1
+xizhuang52
+  rotate: false
+  xy: 480, 232
+  size: 175, 431
+  orig: 175, 431
+  offset: 0, 0
+  index: -1
+xizhuang53
+  rotate: true
+  xy: 1342, 449
+  size: 214, 169
+  orig: 214, 169
+  offset: 0, 0
+  index: -1
+xizhuang54
+  rotate: 180
+  xy: 634, 255
+  size: 167, 408
+  orig: 167, 408
+  offset: 0, 0
+  index: -1

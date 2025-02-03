@@ -1,0 +1,41 @@
+
+UiMovieGuifurenV32_Kou.png
+size: 256,512
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+guifu1
+  rotate: false
+  xy: 121, 236
+  size: 59, 23
+  orig: 59, 23
+  offset: 0, 0
+  index: -1
+guifu2
+  rotate: true
+  xy: 2, 201
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+guifu3
+  rotate: true
+  xy: 181, 234
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+guifu4
+  rotate: false
+  xy: 25, 243
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+guifu48
+  rotate: false
+  xy: 2, 2
+  size: 187, 257
+  orig: 187, 257
+  offset: 0, 0
+  index: -1

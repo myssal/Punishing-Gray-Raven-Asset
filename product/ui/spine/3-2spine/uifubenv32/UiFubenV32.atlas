@@ -1,0 +1,13 @@
+
+UiFubenV32.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BgNewCommonSelena03
+  rotate: false
+  xy: 2, 3
+  size: 876, 845
+  orig: 972, 870
+  offset: 89, 16
+  index: -1

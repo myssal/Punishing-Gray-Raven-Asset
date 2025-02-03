@@ -1,0 +1,174 @@
+
+UiMovieXiaoluxiyaV32_RoleFn.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ljiemao
+  rotate: false
+  xy: 198, 550
+  size: 35, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+Lmei
+  rotate: false
+  xy: 2, 13
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+Lshangyanpi
+  rotate: false
+  xy: 2, 72
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1
+Lxiayanpi
+  rotate: true
+  xy: 2, 392
+  size: 50, 23
+  orig: 50, 24
+  offset: 0, 1
+  index: -1
+Lyan
+  rotate: true
+  xy: 118, 10
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+Lyanbai
+  rotate: false
+  xy: 2, 27
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+Rjiemao
+  rotate: false
+  xy: 168, 3
+  size: 52, 30
+  orig: 53, 33
+  offset: 0, 2
+  index: -1
+Rmei
+  rotate: false
+  xy: 52, 9
+  size: 50, 11
+  orig: 50, 11
+  offset: 0, 0
+  index: -1
+Rshangyanpi
+  rotate: true
+  xy: 73, 30
+  size: 69, 47
+  orig: 69, 47
+  offset: 0, 0
+  index: -1
+Rxiayanpi
+  rotate: 270
+  xy: 53, 23
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+Ryan
+  rotate: false
+  xy: 193, 315
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+Ryanbai
+  rotate: false
+  xy: 123, 53
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+fayin1
+  rotate: 270
+  xy: 177, 18
+  size: 77, 38
+  orig: 77, 38
+  offset: 0, 0
+  index: -1
+fayin2
+  rotate: true
+  xy: 2, 117
+  size: 35, 135
+  orig: 35, 135
+  offset: 0, 0
+  index: -1
+fayin3
+  rotate: true
+  xy: 169, 190
+  size: 133, 52
+  orig: 133, 52
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: false
+  xy: 2, 232
+  size: 112, 157
+  orig: 112, 159
+  offset: 0, 2
+  index: -1
+liuhai2
+  rotate: false
+  xy: 110, 94
+  size: 108, 40
+  orig: 108, 40
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: true
+  xy: 84, 336
+  size: 212, 88
+  orig: 212, 88
+  offset: 0, 0
+  index: -1
+liuhai4
+  rotate: 270
+  xy: 118, 135
+  size: 39, 107
+  orig: 39, 107
+  offset: 0, 0
+  index: -1
+liuhai5
+  rotate: false
+  xy: 2, 389
+  size: 95, 215
+  orig: 95, 215
+  offset: 0, 0
+  index: -1
+qianfa1
+  rotate: true
+  xy: 81, 554
+  size: 51, 125
+  orig: 53, 125
+  offset: 0, 0
+  index: -1
+qianfa2
+  rotate: false
+  xy: 113, 181
+  size: 59, 177
+  orig: 59, 177
+  offset: 0, 0
+  index: -1
+qianfa3
+  rotate: false
+  xy: 2, 150
+  size: 116, 57
+  orig: 116, 57
+  offset: 0, 0
+  index: -1
+qianfa4
+  rotate: true
+  xy: 158, 358
+  size: 203, 69
+  orig: 203, 69
+  offset: 0, 0
+  index: -1

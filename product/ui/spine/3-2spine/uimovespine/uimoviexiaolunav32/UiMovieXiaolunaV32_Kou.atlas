@@ -1,0 +1,48 @@
+
+UiMovieXiaolunaV32_Kou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+xiaoluna1
+  rotate: true
+  xy: 200, 162
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+xiaoluna2
+  rotate: false
+  xy: 164, 203
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+xiaoluna26
+  rotate: false
+  xy: 2, 2
+  size: 214, 223
+  orig: 214, 223
+  offset: 0, 0
+  index: -1
+xiaoluna3
+  rotate: true
+  xy: 2, 172
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+xiaoluna4
+  rotate: 270
+  xy: 213, 131
+  size: 30, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+xiaoluna5
+  rotate: false
+  xy: 2, 204
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
