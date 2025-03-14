@@ -1,0 +1,90 @@
+
+JieTaWeiActivityV33_Fuben.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Role_qiang_01
+  rotate: false
+  xy: 2, 879
+  size: 176, 256
+  orig: 176, 256
+  offset: 0, 0
+  index: -1
+Role_qiang_02
+  rotate: 180
+  xy: 2, 267
+  size: 175, 122
+  orig: 175, 122
+  offset: 0, 0
+  index: -1
+Role_qiang_03
+  rotate: true
+  xy: 2, 528
+  size: 158, 172
+  orig: 158, 172
+  offset: 0, 0
+  index: -1
+Role_qiang_04
+  rotate: 270
+  xy: 2, 186
+  size: 91, 142
+  orig: 91, 142
+  offset: 0, 0
+  index: -1
+Role_qiang_05
+  rotate: false
+  xy: 2, 19
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+Role_qiang_06
+  rotate: false
+  xy: 146, 216
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+Role_qiang_07
+  rotate: false
+  xy: 74, 4
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+Role_qiang_08
+  rotate: 180
+  xy: 101, 4
+  size: 63, 56
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+Role_qiang_09
+  rotate: 180
+  xy: 2, 679
+  size: 178, 235
+  orig: 178, 254
+  offset: 0, 19
+  index: -1
+Role_qiang_10
+  rotate: true
+  xy: 2, 43
+  size: 69, 174
+  orig: 69, 174
+  offset: 0, 0
+  index: -1
+Role_ys_01
+  rotate: 180
+  xy: 79, 107
+  size: 97, 109
+  orig: 97, 118
+  offset: 0, 0
+  index: -1
+Role_ys_02
+  rotate: true
+  xy: 2, 387
+  size: 139, 152
+  orig: 139, 188
+  offset: 0, 0
+  index: -1

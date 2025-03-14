@@ -1,0 +1,342 @@
+
+JieTaWeiActivityV33_Fn.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_hbs
+  rotate: true
+  xy: 650, 1506
+  size: 540, 304
+  orig: 540, 304
+  offset: 0, 0
+  index: -1
+Effect_hbs2
+  rotate: true
+  xy: 956, 1506
+  size: 540, 304
+  orig: 540, 304
+  offset: 0, 0
+  index: -1
+Fn_1_glass_01
+  rotate: false
+  xy: 488, 1557
+  size: 55, 51
+  orig: 66, 57
+  offset: 7, 4
+  index: -1
+Fn_1_glass_02
+  rotate: false
+  xy: 1974, 1852
+  size: 68, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+Fn_1_glass_03
+  rotate: true
+  xy: 1037, 1197
+  size: 307, 228
+  orig: 310, 243
+  offset: 0, 15
+  index: -1
+Fn_1_glass_04
+  rotate: false
+  xy: 814, 903
+  size: 144, 85
+  orig: 144, 85
+  offset: 0, 0
+  index: -1
+Fn_1_glass_05
+  rotate: true
+  xy: 1002, 1111
+  size: 84, 216
+  orig: 84, 216
+  offset: 0, 0
+  index: -1
+Fn_1_glass_06
+  rotate: false
+  xy: 1962, 1773
+  size: 45, 77
+  orig: 45, 79
+  offset: 0, 1
+  index: -1
+Fn_2_glass_01
+  rotate: false
+  xy: 1700, 864
+  size: 103, 102
+  orig: 113, 103
+  offset: 6, 0
+  index: -1
+Fn_2_glass_02
+  rotate: false
+  xy: 476, 2000
+  size: 137, 46
+  orig: 156, 78
+  offset: 3, 11
+  index: -1
+Fn_2_glass_03
+  rotate: false
+  xy: 1976, 1910
+  size: 62, 136
+  orig: 64, 136
+  offset: 2, 0
+  index: -1
+Fn_2_glass_04
+  rotate: false
+  xy: 1656, 1966
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+Fn_2_glass_05
+  rotate: false
+  xy: 1722, 2000
+  size: 42, 46
+  orig: 80, 83
+  offset: 25, 31
+  index: -1
+Fn_3_glass_01
+  rotate: true
+  xy: 1721, 1068
+  size: 137, 325
+  orig: 173, 327
+  offset: 29, 0
+  index: -1
+Fn_3_glass_02
+  rotate: false
+  xy: 1546, 991
+  size: 171, 200
+  orig: 173, 203
+  offset: 2, 0
+  index: -1
+Fn_3_glass_03
+  rotate: true
+  xy: 1267, 1103
+  size: 215, 268
+  orig: 215, 268
+  offset: 0, 0
+  index: -1
+Fn_3_glass_04
+  rotate: true
+  xy: 305, 1063
+  size: 180, 293
+  orig: 182, 293
+  offset: 2, 0
+  index: -1
+Fn_3_glass_05
+  rotate: true
+  xy: 1262, 1640
+  size: 406, 392
+  orig: 456, 420
+  offset: 47, 28
+  index: -1
+Fn_a1_glass_01
+  rotate: false
+  xy: 731, 990
+  size: 183, 98
+  orig: 184, 98
+  offset: 0, 0
+  index: -1
+Fn_a1_glass_02
+  rotate: true
+  xy: 2, 1231
+  size: 432, 311
+  orig: 432, 311
+  offset: 0, 0
+  index: -1
+Fn_a1_glass_03
+  rotate: false
+  xy: 1731, 1472
+  size: 117, 105
+  orig: 117, 105
+  offset: 0, 0
+  index: -1
+Fn_a1_glass_04
+  rotate: false
+  xy: 408, 940
+  size: 147, 121
+  orig: 147, 121
+  offset: 0, 0
+  index: -1
+Fn_a2_glass_01
+  rotate: false
+  xy: 1719, 968
+  size: 183, 98
+  orig: 184, 98
+  offset: 0, 0
+  index: -1
+Fn_a2_glass_02
+  rotate: false
+  xy: 1613, 1194
+  size: 432, 311
+  orig: 432, 311
+  offset: 0, 0
+  index: -1
+Fn_a2_glass_03
+  rotate: false
+  xy: 148, 1970
+  size: 114, 76
+  orig: 116, 77
+  offset: 0, 0
+  index: -1
+Fn_a2_glass_04
+  rotate: false
+  xy: 2, 915
+  size: 147, 121
+  orig: 147, 121
+  offset: 0, 0
+  index: -1
+Fn_b1_glass_01
+  rotate: true
+  xy: 1656, 1579
+  size: 467, 319
+  orig: 467, 319
+  offset: 0, 0
+  index: -1
+Fn_b1_glass_02
+  rotate: false
+  xy: 234, 957
+  size: 172, 104
+  orig: 172, 110
+  offset: 0, 3
+  index: -1
+Fn_b1_glass_03
+  rotate: false
+  xy: 69, 1839
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+Fn_b1_glass_04
+  rotate: true
+  xy: 1904, 914
+  size: 152, 96
+  orig: 152, 100
+  offset: 0, 4
+  index: -1
+Fn_b1_glass_06
+  rotate: true
+  xy: 1002, 955
+  size: 146, 270
+  orig: 148, 270
+  offset: 0, 0
+  index: -1
+Fn_b2_glass_01
+  rotate: false
+  xy: 1262, 1320
+  size: 467, 319
+  orig: 467, 319
+  offset: 0, 0
+  index: -1
+Fn_b2_glass_02
+  rotate: true
+  xy: 545, 1570
+  size: 172, 103
+  orig: 172, 106
+  offset: 0, 3
+  index: -1
+Fn_b2_glass_03
+  rotate: false
+  xy: 1942, 1731
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+Fn_b2_glass_04
+  rotate: false
+  xy: 1546, 893
+  size: 152, 96
+  orig: 152, 100
+  offset: 0, 4
+  index: -1
+Fn_b2_glass_05
+  rotate: false
+  xy: 3, 1822
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+Fn_b2_glass_06
+  rotate: true
+  xy: 1274, 956
+  size: 145, 270
+  orig: 145, 270
+  offset: 0, 0
+  index: -1
+Fn_c_glass_01
+  rotate: true
+  xy: 2, 1881
+  size: 165, 144
+  orig: 165, 146
+  offset: 0, 2
+  index: -1
+Fn_c_glass_02
+  rotate: true
+  xy: 2, 1038
+  size: 199, 230
+  orig: 204, 240
+  offset: 0, 0
+  index: -1
+Fn_c_glass_03
+  rotate: false
+  xy: 1881, 1518
+  size: 165, 164
+  orig: 169, 164
+  offset: 4, 0
+  index: -1
+Fn_c_glass_04
+  rotate: false
+  xy: 320, 1245
+  size: 328, 294
+  orig: 332, 294
+  offset: 0, 0
+  index: -1
+Fn_c_glass_05
+  rotate: false
+  xy: 1576, 1579
+  size: 51, 59
+  orig: 52, 60
+  offset: 1, 1
+  index: -1
+Fn_c_glass_06
+  rotate: true
+  xy: 650, 1090
+  size: 196, 350
+  orig: 196, 351
+  offset: 0, 1
+  index: -1
+Fn_d_glass_01
+  rotate: false
+  xy: 510, 1815
+  size: 138, 142
+  orig: 138, 142
+  offset: 0, 0
+  index: -1
+Fn_d_glass_02
+  rotate: 270
+  xy: 592, 898
+  size: 208, 222
+  orig: 208, 222
+  offset: 0, 0
+  index: -1
+Fn_hm_1
+  rotate: false
+  xy: 264, 1995
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+Fn_s_glass
+  rotate: false
+  xy: 2, 1529
+  size: 647, 518
+  orig: 647, 518
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 650, 1288
+  size: 384, 216
+  orig: 384, 216
+  offset: 0, 0
+  index: -1

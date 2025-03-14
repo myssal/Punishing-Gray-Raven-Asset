@@ -1,0 +1,20 @@
+
+JieTaWeiActivityV33_Bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg
+  rotate: false
+  xy: 2, 883
+  size: 1801, 1016
+  orig: 1801, 1016
+  offset: 0, 0
+  index: -1
+Bg_biao
+  rotate: true
+  xy: 1804, 883
+  size: 340, 93
+  orig: 340, 93
+  offset: 0, 0
+  index: -1

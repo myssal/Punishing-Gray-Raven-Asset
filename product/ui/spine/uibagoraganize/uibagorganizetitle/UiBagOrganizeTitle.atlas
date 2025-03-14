@@ -1,0 +1,13 @@
+
+UiBagOrganizeTitle.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+xian_1
+  rotate: false
+  xy: 2, 2
+  size: 36, 89
+  orig: 36, 89
+  offset: 0, 0
+  index: -1
