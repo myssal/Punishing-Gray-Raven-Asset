@@ -1,0 +1,27 @@
+
+Weila_S_Login_Effect4V34.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fg_4
+  rotate: false
+  xy: 2, 111
+  size: 180, 393
+  orig: 180, 393
+  offset: 0, 0
+  index: -1
+Fg_5
+  rotate: false
+  xy: 2, 4
+  size: 99, 216
+  orig: 99, 216
+  offset: 0, 0
+  index: -1
+Fg_6
+  rotate: false
+  xy: 2, 430
+  size: 120, 73
+  orig: 120, 73
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+GuiQiActivtyV35_Role.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Role_1
+  rotate: false
+  xy: 482, 8
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+Role_10
+  rotate: 270
+  xy: 271, 4
+  size: 71, 209
+  orig: 78, 209
+  offset: 7, 0
+  index: -1
+Role_11
+  rotate: 180
+  xy: 695, 189
+  size: 49, 173
+  orig: 49, 180
+  offset: 0, 7
+  index: -1
+Role_12
+  rotate: false
+  xy: 767, 110
+  size: 67, 129
+  orig: 72, 135
+  offset: 0, 0
+  index: -1
+Role_2
+  rotate: false
+  xy: 549, 9
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+Role_3
+  rotate: false
+  xy: 707, 71
+  size: 30, 38
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+Role_4
+  rotate: false
+  xy: 813, 243
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+Role_5
+  rotate: 180
+  xy: 753, 5
+  size: 83, 112
+  orig: 83, 112
+  offset: 0, 0
+  index: -1
+Role_6_0
+  rotate: 270
+  xy: 603, 197
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1
+Role_6_1
+  rotate: false
+  xy: 707, 6
+  size: 16, 51
+  orig: 16, 51
+  offset: 0, 0
+  index: -1
+Role_6_2
+  rotate: false
+  xy: 795, 202
+  size: 42, 41
+  orig: 42, 43
+  offset: 0, 2
+  index: -1
+Role_6_3
+  rotate: false
+  xy: 804, 215
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+Role_6_4
+  rotate: false
+  xy: 707, 27
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+Role_6_5
+  rotate: false
+  xy: 730, 5
+  size: 20, 54
+  orig: 20, 54
+  offset: 0, 0
+  index: -1
+Role_7
+  rotate: 180
+  xy: 415, 38
+  size: 196, 324
+  orig: 224, 324
+  offset: 28, 0
+  index: -1
+Role_8
+  rotate: false
+  xy: 707, 70
+  size: 71, 133
+  orig: 71, 133
+  offset: 0, 0
+  index: -1
+Role_9
+  rotate: false
+  xy: 508, 12
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+Role_Effect_1
+  rotate: false
+  xy: 586, 24
+  size: 119, 171
+  orig: 119, 171
+  offset: 0, 0
+  index: -1
+Role_Effect_2
+  rotate: false
+  xy: 2, 12
+  size: 267, 376
+  orig: 267, 376
+  offset: 0, 0
+  index: -1
+Role_Effect_3
+  rotate: false
+  xy: 271, 76
+  size: 148, 312
+  orig: 148, 312
+  offset: 0, 0
+  index: -1
+Role__head
+  rotate: false
+  xy: 742, 296
+  size: 96, 93
+  orig: 96, 93
+  offset: 0, 0
+  index: -1

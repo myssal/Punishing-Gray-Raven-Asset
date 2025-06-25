@@ -1,0 +1,20 @@
+
+WeilaDaoWuMovieV34_Bg.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BG
+  rotate: false
+  xy: 2, 3
+  size: 1585, 892
+  orig: 1585, 892
+  offset: 0, 0
+  index: -1
+Role_69
+  rotate: true
+  xy: 1589, 650
+  size: 246, 164
+  orig: 246, 164
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+GuiQiActivtyV35_Fn2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_glow1
+  rotate: false
+  xy: 2, 137
+  size: 425, 481
+  orig: 444, 489
+  offset: 15, 7
+  index: -1
+Fn_Li_1
+  rotate: false
+  xy: 2, 424
+  size: 136, 193
+  orig: 136, 193
+  offset: 0, 0
+  index: -1
+Fn_Li_1_glass
+  rotate: 180
+  xy: 79, 3
+  size: 331, 295
+  orig: 331, 312
+  offset: 0, 17
+  index: -1
+Fn_Li_2
+  rotate: false
+  xy: 2, 405
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+Fn_Li_3
+  rotate: 180
+  xy: 357, 225
+  size: 326, 392
+  orig: 391, 521
+  offset: 14, 109
+  index: -1
+Fn_Li_4
+  rotate: false
+  xy: 131, 500
+  size: 67, 88
+  orig: 67, 88
+  offset: 0, 0
+  index: -1

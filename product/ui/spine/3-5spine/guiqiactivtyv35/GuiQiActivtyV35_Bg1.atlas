@@ -1,0 +1,20 @@
+
+GuiQiActivtyV35_Bg1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_Fn
+  rotate: false
+  xy: 2, 3
+  size: 810, 898
+  orig: 988, 1010
+  offset: 135, 112
+  index: -1
+Bg_yinzhi
+  rotate: false
+  xy: 262, 18
+  size: 350, 228
+  orig: 409, 296
+  offset: 59, 68
+  index: -1

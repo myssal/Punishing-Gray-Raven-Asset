@@ -1,0 +1,90 @@
+
+ChaoLifuDarkSkinBg.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 401, 373
+  size: 1152, 648
+  orig: 1152, 648
+  offset: 0, 0
+  index: -1
+fuyoupao1
+  rotate: true
+  xy: 550, 3
+  size: 368, 647
+  orig: 368, 647
+  offset: 0, 0
+  index: -1
+fuyoupao2
+  rotate: true
+  xy: 1199, 80
+  size: 291, 290
+  orig: 291, 290
+  offset: 0, 0
+  index: -1
+hd1a
+  rotate: false
+  xy: 166, 23
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+hd1b
+  rotate: false
+  xy: 207, 24
+  size: 52, 75
+  orig: 52, 75
+  offset: 0, 0
+  index: -1
+hd1c
+  rotate: false
+  xy: 261, 52
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+hd2a
+  rotate: false
+  xy: 2, 2
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+hd2b
+  rotate: true
+  xy: 51, 18
+  size: 81, 113
+  orig: 81, 113
+  offset: 0, 0
+  index: -1
+hd2c
+  rotate: false
+  xy: 288, 62
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+shoushi5
+  rotate: true
+  xy: 261, 12
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+yy1
+  rotate: false
+  xy: 2, 101
+  size: 546, 186
+  orig: 546, 186
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: false
+  xy: 2, 289
+  size: 397, 732
+  orig: 397, 732
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+WeiJiErTutorialV35Bg.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_2
+  rotate: false
+  xy: 2, 2
+  size: 960, 540
+  orig: 960, 540
+  offset: 0, 0
+  index: -1

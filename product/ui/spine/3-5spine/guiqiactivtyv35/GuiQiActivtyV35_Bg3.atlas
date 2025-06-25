@@ -1,0 +1,76 @@
+
+GuiQiActivtyV35_Bg3.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BG
+  rotate: false
+  xy: 2, 2
+  size: 1602, 1010
+  orig: 1602, 1010
+  offset: 0, 0
+  index: -1
+Bg_fangzi_1
+  rotate: false
+  xy: 1606, 652
+  size: 311, 361
+  orig: 362, 361
+  offset: 0, 0
+  index: -1
+Bg_suishi3
+  rotate: true
+  xy: 1919, 703
+  size: 91, 90
+  orig: 92, 95
+  offset: 1, 0
+  index: -1
+Bg_suishi4
+  rotate: false
+  xy: 1760, 703
+  size: 61, 48
+  orig: 64, 50
+  offset: 1, 1
+  index: -1
+Bg_suishi5
+  rotate: false
+  xy: 1889, 908
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+Bg_suishi6
+  rotate: false
+  xy: 1917, 796
+  size: 76, 110
+  orig: 78, 110
+  offset: 2, 0
+  index: -1
+Bg_suishi7
+  rotate: false
+  xy: 1757, 92
+  size: 175, 177
+  orig: 175, 177
+  offset: 0, 0
+  index: -1
+Bg_suishi8
+  rotate: false
+  xy: 1958, 592
+  size: 71, 109
+  orig: 74, 109
+  offset: 1, 0
+  index: -1
+Bg_zhuzi_2
+  rotate: false
+  xy: 1693, 264
+  size: 309, 412
+  orig: 309, 412
+  offset: 0, 0
+  index: -1
+Bg_zhuzi_3
+  rotate: false
+  xy: 1606, 136
+  size: 149, 377
+  orig: 235, 377
+  offset: 0, 0
+  index: -1

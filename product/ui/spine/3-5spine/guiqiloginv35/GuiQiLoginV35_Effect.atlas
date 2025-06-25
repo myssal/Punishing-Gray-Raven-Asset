@@ -1,0 +1,286 @@
+
+GuiQiLoginV35_Effect.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_jianadd01
+  rotate: false
+  xy: 2, 1530
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd02
+  rotate: false
+  xy: 2, 1148
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd03
+  rotate: false
+  xy: 2, 766
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd04
+  rotate: false
+  xy: 2, 384
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd05
+  rotate: false
+  xy: 2, 2
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd06
+  rotate: false
+  xy: 154, 1530
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd07
+  rotate: false
+  xy: 154, 1148
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd08
+  rotate: false
+  xy: 154, 766
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd09
+  rotate: false
+  xy: 154, 384
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd10
+  rotate: false
+  xy: 154, 2
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd11
+  rotate: false
+  xy: 306, 1530
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd12
+  rotate: false
+  xy: 306, 1148
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd13
+  rotate: false
+  xy: 306, 766
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd14
+  rotate: false
+  xy: 306, 384
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd15
+  rotate: false
+  xy: 306, 2
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd16
+  rotate: false
+  xy: 458, 1530
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd17
+  rotate: false
+  xy: 458, 1148
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd18
+  rotate: false
+  xy: 458, 766
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd19
+  rotate: false
+  xy: 458, 384
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd20
+  rotate: false
+  xy: 458, 2
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd21
+  rotate: false
+  xy: 610, 1530
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd22
+  rotate: false
+  xy: 610, 1148
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd23
+  rotate: false
+  xy: 610, 766
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd24
+  rotate: false
+  xy: 610, 384
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd25
+  rotate: false
+  xy: 610, 2
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd26
+  rotate: false
+  xy: 762, 1530
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd27
+  rotate: false
+  xy: 762, 1148
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd28
+  rotate: false
+  xy: 762, 766
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd29
+  rotate: false
+  xy: 762, 384
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd30
+  rotate: false
+  xy: 762, 2
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd31
+  rotate: false
+  xy: 914, 1530
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd32
+  rotate: false
+  xy: 914, 1148
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd33
+  rotate: false
+  xy: 914, 766
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd34
+  rotate: false
+  xy: 914, 384
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd35
+  rotate: false
+  xy: 914, 2
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd36
+  rotate: false
+  xy: 1066, 1530
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd37
+  rotate: false
+  xy: 1066, 1148
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd38
+  rotate: false
+  xy: 1066, 766
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd39
+  rotate: false
+  xy: 1066, 384
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1
+Effect_jianadd40
+  rotate: false
+  xy: 1066, 2
+  size: 150, 380
+  orig: 150, 380
+  offset: 0, 0
+  index: -1

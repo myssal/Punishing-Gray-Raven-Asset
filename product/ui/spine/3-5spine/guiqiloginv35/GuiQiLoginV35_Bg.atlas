@@ -1,0 +1,13 @@
+
+GuiQiLoginV35_Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg
+  rotate: false
+  xy: 2, 675
+  size: 1537, 865
+  orig: 1537, 865
+  offset: 0, 0
+  index: -1

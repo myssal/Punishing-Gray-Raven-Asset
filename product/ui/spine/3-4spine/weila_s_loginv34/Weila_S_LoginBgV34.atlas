@@ -1,0 +1,34 @@
+
+Weila_S_LoginBgV34.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_1
+  rotate: false
+  xy: 118, 321
+  size: 77, 127
+  orig: 77, 127
+  offset: 0, 0
+  index: -1
+Bg_2
+  rotate: false
+  xy: 2, 449
+  size: 1981, 1081
+  orig: 1981, 1081
+  offset: 0, 0
+  index: -1
+Fg_10
+  rotate: 270
+  xy: 451, 3
+  size: 348, 1081
+  orig: 348, 1081
+  offset: 0, 0
+  index: -1
+Fg_11
+  rotate: true
+  xy: 2, 99
+  size: 348, 1081
+  orig: 348, 1081
+  offset: 0, 0
+  index: -1

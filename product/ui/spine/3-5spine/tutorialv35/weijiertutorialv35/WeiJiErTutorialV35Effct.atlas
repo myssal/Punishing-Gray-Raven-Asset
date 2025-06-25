@@ -1,0 +1,321 @@
+
+WeiJiErTutorialV35Effct.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Effect_Ahuoxing
+  rotate: false
+  xy: 448, 552
+  size: 31, 9
+  orig: 33, 11
+  offset: 1, 1
+  index: -1
+Effect_Alei00
+  rotate: false
+  xy: 264, 377
+  size: 67, 85
+  orig: 98, 441
+  offset: 31, 356
+  index: -1
+Effect_Alei02
+  rotate: 270
+  xy: 1380, 262
+  size: 66, 369
+  orig: 98, 441
+  offset: 30, 72
+  index: -1
+Effect_Alei03
+  rotate: true
+  xy: 349, 389
+  size: 87, 423
+  orig: 98, 441
+  offset: 11, 18
+  index: -1
+Effect_Alei04
+  rotate: true
+  xy: 1128, 470
+  size: 91, 441
+  orig: 98, 441
+  offset: 7, 0
+  index: -1
+Effect_Alei05
+  rotate: true
+  xy: 1343, 316
+  size: 98, 380
+  orig: 98, 441
+  offset: 0, 0
+  index: -1
+Effect_Alei07
+  rotate: true
+  xy: 264, 463
+  size: 98, 441
+  orig: 98, 441
+  offset: 0, 0
+  index: -1
+Effect_Alei09
+  rotate: true
+  xy: 705, 466
+  size: 96, 421
+  orig: 98, 441
+  offset: 0, 0
+  index: -1
+Effect_Alei12
+  rotate: true
+  xy: 899, 373
+  size: 98, 393
+  orig: 98, 441
+  offset: 0, 0
+  index: -1
+Effect_Alei14
+  rotate: true
+  xy: 2, 196
+  size: 98, 302
+  orig: 98, 441
+  offset: 0, 80
+  index: -1
+Effect_Ayou00
+  rotate: false
+  xy: 2, 297
+  size: 374, 55
+  orig: 374, 55
+  offset: 0, 0
+  index: -1
+Effect_Bheilei00
+  rotate: 270
+  xy: 928, 120
+  size: 205, 239
+  orig: 269, 259
+  offset: 40, 0
+  index: -1
+Effect_Bheilei02
+  rotate: false
+  xy: 305, 130
+  size: 224, 240
+  orig: 269, 259
+  offset: 45, 0
+  index: -1
+Effect_Bheilei04
+  rotate: false
+  xy: 1949, 319
+  size: 97, 103
+  orig: 269, 259
+  offset: 172, 52
+  index: -1
+Effect_Bheilei06
+  rotate: true
+  xy: 686, 120
+  size: 204, 213
+  orig: 269, 259
+  offset: 65, 46
+  index: -1
+Effect_Bheilei08
+  rotate: 270
+  xy: 1593, 91
+  size: 175, 221
+  orig: 269, 259
+  offset: 85, 38
+  index: -1
+Effect_Bheilei10
+  rotate: false
+  xy: 1591, 415
+  size: 84, 71
+  orig: 269, 259
+  offset: 0, 119
+  index: -1
+Effect_Bheilei12
+  rotate: false
+  xy: 913, 243
+  size: 81, 73
+  orig: 269, 259
+  offset: 0, 120
+  index: -1
+Effect_Bheilei14
+  rotate: false
+  xy: 854, 151
+  size: 145, 140
+  orig: 269, 259
+  offset: 22, 119
+  index: -1
+Effect_Bheilei16
+  rotate: true
+  xy: 2, 4
+  size: 203, 217
+  orig: 269, 259
+  offset: 66, 42
+  index: -1
+Effect_Bheilei18
+  rotate: false
+  xy: 1807, 136
+  size: 239, 212
+  orig: 269, 259
+  offset: 30, 47
+  index: -1
+Effect_Bheilei20
+  rotate: 180
+  xy: 1188, 106
+  size: 269, 208
+  orig: 269, 259
+  offset: 0, 51
+  index: -1
+Effect_Bheilei22
+  rotate: false
+  xy: 773, 423
+  size: 128, 47
+  orig: 269, 259
+  offset: 0, 142
+  index: -1
+Effect_Bheilei24
+  rotate: false
+  xy: 1921, 356
+  size: 118, 206
+  orig: 269, 259
+  offset: 47, 9
+  index: -1
+Effect_Bheilei26
+  rotate: true
+  xy: 48, 94
+  size: 123, 221
+  orig: 269, 259
+  offset: 43, 0
+  index: -1
+Effect_Bhuoxing
+  rotate: false
+  xy: 416, 543
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+Effect_Blei00
+  rotate: true
+  xy: 530, 202
+  size: 85, 166
+  orig: 114, 295
+  offset: 8, 129
+  index: -1
+Effect_Blei02
+  rotate: false
+  xy: 1751, 266
+  size: 74, 295
+  orig: 114, 295
+  offset: 14, 0
+  index: -1
+Effect_Blei03
+  rotate: 270
+  xy: 726, 318
+  size: 106, 295
+  orig: 114, 295
+  offset: 8, 0
+  index: -1
+Effect_Blei04
+  rotate: true
+  xy: 429, 288
+  size: 114, 295
+  orig: 114, 295
+  offset: 0, 0
+  index: -1
+Effect_Blei05
+  rotate: 180
+  xy: 1825, 266
+  size: 109, 295
+  orig: 114, 295
+  offset: 5, 0
+  index: -1
+Effect_Blei08
+  rotate: true
+  xy: 1046, 279
+  size: 114, 295
+  orig: 114, 295
+  offset: 0, 0
+  index: -1
+Effect_Blei12
+  rotate: false
+  xy: 1908, 428
+  size: 97, 135
+  orig: 114, 295
+  offset: 0, 34
+  index: -1
+Effect_Blei14
+  rotate: false
+  xy: 1931, 79
+  size: 114, 145
+  orig: 114, 295
+  offset: 0, 22
+  index: -1
+Effect_Chuoxing
+  rotate: false
+  xy: 362, 544
+  size: 52, 17
+  orig: 55, 17
+  offset: 1, 0
+  index: -1
+Effect_Dhuoxing
+  rotate: false
+  xy: 707, 550
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+Effect_guang
+  rotate: false
+  xy: 2, 353
+  size: 261, 208
+  orig: 261, 208
+  offset: 0, 0
+  index: -1
+Effect_heilei00
+  rotate: true
+  xy: 1298, 427
+  size: 73, 171
+  orig: 101, 436
+  offset: 28, 252
+  index: -1
+Effect_heilei02
+  rotate: 270
+  xy: 1377, 67
+  size: 65, 337
+  orig: 101, 436
+  offset: 27, 88
+  index: -1
+Effect_heilei04
+  rotate: 270
+  xy: 1247, 92
+  size: 73, 381
+  orig: 101, 436
+  offset: 20, 43
+  index: -1
+Effect_heilei06
+  rotate: 270
+  xy: 186, 58
+  size: 81, 423
+  orig: 101, 436
+  offset: 20, 0
+  index: -1
+Effect_heilei08
+  rotate: true
+  xy: 278, 100
+  size: 101, 427
+  orig: 101, 436
+  offset: 0, 0
+  index: -1
+Effect_heilei10
+  rotate: true
+  xy: 658, 90
+  size: 91, 436
+  orig: 101, 436
+  offset: 0, 0
+  index: -1
+Effect_xian
+  rotate: false
+  xy: 264, 551
+  size: 96, 10
+  orig: 101, 14
+  offset: 1, 2
+  index: -1
+Effect_zuo00
+  rotate: true
+  xy: 1353, 367
+  size: 194, 398
+  orig: 194, 398
+  offset: 0, 0
+  index: -1
