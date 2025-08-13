@@ -1,0 +1,69 @@
+
+UiMovieHeihuV36_Kou.png
+size: 512,256
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+Face1
+  rotate: false
+  xy: 2, 2
+  size: 352, 209
+  orig: 352, 209
+  offset: 0, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 414, 108
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 356, 26
+  size: 114, 43
+  orig: 114, 43
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: true
+  xy: 356, 71
+  size: 140, 56
+  orig: 140, 56
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: true
+  xy: 468, 152
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: true
+  xy: 452, 165
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+Mouth6
+  rotate: true
+  xy: 414, 141
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: true
+  xy: 452, 152
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+Setou
+  rotate: false
+  xy: 462, 121
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1

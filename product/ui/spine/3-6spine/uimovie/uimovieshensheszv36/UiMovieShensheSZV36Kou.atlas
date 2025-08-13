@@ -1,0 +1,76 @@
+
+UiMovieShensheSZV36Kou.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Face
+  rotate: false
+  xy: 2, 2
+  size: 212, 409
+  orig: 212, 412
+  offset: 0, 3
+  index: -1
+Mouth1
+  rotate: false
+  xy: 114, 467
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+Mouth2
+  rotate: false
+  xy: 41, 469
+  size: 52, 15
+  orig: 52, 15
+  offset: 0, 0
+  index: -1
+Mouth3
+  rotate: false
+  xy: 2, 438
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+Mouth4
+  rotate: false
+  xy: 55, 436
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+Mouth5
+  rotate: false
+  xy: 126, 413
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+Mouth6
+  rotate: false
+  xy: 2, 472
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+Mouth7
+  rotate: false
+  xy: 167, 465
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+Mouth8
+  rotate: false
+  xy: 135, 466
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+Mouth9
+  rotate: true
+  xy: 95, 468
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1

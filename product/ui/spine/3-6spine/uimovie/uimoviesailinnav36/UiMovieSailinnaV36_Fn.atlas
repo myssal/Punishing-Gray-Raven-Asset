@@ -1,0 +1,174 @@
+
+UiMovieSailinnaV36_Fn.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Eye
+  rotate: false
+  xy: 152, 6
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+Eye1
+  rotate: true
+  xy: 730, 142
+  size: 54, 18
+  orig: 54, 18
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: 180
+  xy: 30, 191
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+Eye3
+  rotate: 270
+  xy: 728, 21
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: false
+  xy: 172, 77
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+Eye5
+  rotate: 180
+  xy: 678, 7
+  size: 70, 23
+  orig: 70, 23
+  offset: 0, 0
+  index: -1
+Eye6
+  rotate: false
+  xy: 55, 18
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 301, 6
+  size: 27, 61
+  orig: 27, 61
+  offset: 0, 0
+  index: -1
+Eye8
+  rotate: false
+  xy: 619, 8
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+Eyebrow
+  rotate: false
+  xy: 73, 3
+  size: 63, 11
+  orig: 63, 11
+  offset: 0, 0
+  index: -1
+Eyebrow2
+  rotate: false
+  xy: 226, 4
+  size: 66, 11
+  orig: 66, 11
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 2, 3
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+Hair10
+  rotate: false
+  xy: 2, 115
+  size: 329, 102
+  orig: 329, 102
+  offset: 0, 0
+  index: -1
+Hair11
+  rotate: 180
+  xy: 250, 57
+  size: 288, 73
+  orig: 288, 73
+  offset: 0, 0
+  index: -1
+Hair12
+  rotate: 270
+  xy: 356, 5
+  size: 36, 232
+  orig: 36, 232
+  offset: 0, 0
+  index: -1
+Hair13
+  rotate: 270
+  xy: 277, 109
+  size: 108, 253
+  orig: 108, 253
+  offset: 0, 0
+  index: -1
+Hair2
+  rotate: false
+  xy: 590, 33
+  size: 64, 170
+  orig: 64, 170
+  offset: 0, 0
+  index: -1
+Hair4
+  rotate: 180
+  xy: 2, 54
+  size: 169, 62
+  orig: 169, 62
+  offset: 0, 0
+  index: -1
+Hair5
+  rotate: 180
+  xy: 90, 172
+  size: 177, 46
+  orig: 177, 46
+  offset: 0, 0
+  index: -1
+Hair6
+  rotate: 270
+  xy: 99, 14
+  size: 54, 182
+  orig: 54, 182
+  offset: 0, 0
+  index: -1
+Hair7
+  rotate: 270
+  xy: 654, 37
+  size: 180, 51
+  orig: 180, 51
+  offset: 0, 0
+  index: -1
+Hair8
+  rotate: 180
+  xy: 293, 28
+  size: 192, 59
+  orig: 192, 59
+  offset: 0, 0
+  index: -1
+Hair9
+  rotate: 180
+  xy: 703, 31
+  size: 33, 178
+  orig: 33, 178
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: true
+  xy: 540, 55
+  size: 158, 48
+  orig: 158, 48
+  offset: 0, 0
+  index: -1

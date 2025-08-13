@@ -1,0 +1,118 @@
+
+BiankaLoginV36_Fn.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fn_handB_1
+  rotate: false
+  xy: 2, 153
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+Fn_handB_10
+  rotate: false
+  xy: 2, 335
+  size: 104, 93
+  orig: 110, 102
+  offset: 2, 5
+  index: -1
+Fn_handB_11
+  rotate: false
+  xy: 103, 98
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+Fn_handB_12
+  rotate: false
+  xy: 143, 25
+  size: 46, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+Fn_handB_13
+  rotate: false
+  xy: 2, 4
+  size: 61, 54
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+Fn_handB_14
+  rotate: false
+  xy: 55, 24
+  size: 88, 90
+  orig: 95, 93
+  offset: 7, 0
+  index: -1
+Fn_handB_2
+  rotate: false
+  xy: 109, 13
+  size: 37, 41
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+Fn_handB_3
+  rotate: false
+  xy: 2, 388
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Fn_handB_4
+  rotate: false
+  xy: 2, 302
+  size: 33, 32
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+Fn_handB_5
+  rotate: false
+  xy: 2, 60
+  size: 109, 127
+  orig: 109, 132
+  offset: 0, 0
+  index: -1
+Fn_handB_6
+  rotate: false
+  xy: 45, 352
+  size: 29, 37
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+Fn_handB_7
+  rotate: false
+  xy: 2, 142
+  size: 36, 32
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+Fn_handB_8
+  rotate: false
+  xy: 123, 5
+  size: 33, 27
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+Fn_handB_9
+  rotate: false
+  xy: 62, 115
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+Fn_shu_1
+  rotate: 180
+  xy: 554, 3
+  size: 432, 424
+  orig: 432, 424
+  offset: 0, 0
+  index: -1
+Fn_shu_2
+  rotate: false
+  xy: 2, 46
+  size: 620, 381
+  orig: 620, 381
+  offset: 0, 0
+  index: -1

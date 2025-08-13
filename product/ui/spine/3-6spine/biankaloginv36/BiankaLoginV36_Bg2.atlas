@@ -1,0 +1,111 @@
+
+BiankaLoginV36_Bg2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_13
+  rotate: false
+  xy: 2, 2
+  size: 1728, 972
+  orig: 1728, 972
+  offset: 0, 0
+  index: -1
+Bg_huaban_1
+  rotate: true
+  xy: 1732, 871
+  size: 45, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+Bg_huaban_11
+  rotate: false
+  xy: 1732, 707
+  size: 24, 19
+  orig: 27, 21
+  offset: 2, 1
+  index: -1
+Bg_huaban_12
+  rotate: true
+  xy: 1732, 826
+  size: 43, 23
+  orig: 45, 23
+  offset: 1, 0
+  index: -1
+Bg_huaban_13
+  rotate: false
+  xy: 1732, 666
+  size: 10, 7
+  orig: 26, 25
+  offset: 9, 6
+  index: -1
+Bg_huaban_14
+  rotate: true
+  xy: 1732, 745
+  size: 38, 16
+  orig: 40, 16
+  offset: 1, 0
+  index: -1
+Bg_huaban_15
+  rotate: false
+  xy: 1732, 675
+  size: 14, 10
+  orig: 16, 12
+  offset: 1, 1
+  index: -1
+Bg_huaban_2
+  rotate: false
+  xy: 1732, 804
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+Bg_huaban_3
+  rotate: false
+  xy: 1732, 659
+  size: 6, 5
+  orig: 12, 9
+  offset: 4, 3
+  index: -1
+Bg_huaban_4
+  rotate: false
+  xy: 1732, 696
+  size: 20, 9
+  orig: 22, 9
+  offset: 1, 0
+  index: -1
+Bg_huaban_5
+  rotate: false
+  xy: 1732, 687
+  size: 20, 7
+  orig: 22, 7
+  offset: 1, 0
+  index: -1
+Bg_huaban_6
+  rotate: false
+  xy: 1732, 653
+  size: 4, 4
+  orig: 10, 6
+  offset: 4, 1
+  index: -1
+Bg_huaban_7
+  rotate: false
+  xy: 1732, 728
+  size: 32, 15
+  orig: 35, 17
+  offset: 1, 1
+  index: -1
+Bg_huaban_8
+  rotate: false
+  xy: 1732, 785
+  size: 36, 17
+  orig: 38, 19
+  offset: 1, 1
+  index: -1
+Bg_huaban_9
+  rotate: true
+  xy: 1732, 918
+  size: 56, 36
+  orig: 72, 36
+  offset: 8, 0
+  index: -1

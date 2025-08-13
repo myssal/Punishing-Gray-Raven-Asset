@@ -1,0 +1,62 @@
+
+UiMovieWunvFz_V36_Kou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+mouth1
+  rotate: false
+  xy: 35, 217
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 2, 191
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+wunvf58
+  rotate: false
+  xy: 123, 204
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+wunvf59
+  rotate: false
+  xy: 136, 188
+  size: 40, 16
+  orig: 40, 16
+  offset: 0, 0
+  index: -1
+wunvf60
+  rotate: false
+  xy: 2, 6
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+wunvf61
+  rotate: true
+  xy: 2, 161
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1
+wunvf62
+  rotate: false
+  xy: 2, 207
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+wunvf63
+  rotate: false
+  xy: 2, 2
+  size: 177, 226
+  orig: 177, 226
+  offset: 0, 0
+  index: -1

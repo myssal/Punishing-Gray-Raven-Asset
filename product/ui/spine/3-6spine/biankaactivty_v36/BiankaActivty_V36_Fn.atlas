@@ -1,0 +1,69 @@
+
+BiankaActivty_V36_Fn.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fx_glow_1
+  rotate: true
+  xy: 770, 448
+  size: 573, 461
+  orig: 573, 461
+  offset: 0, 0
+  index: -1
+Fx_glow_2
+  rotate: true
+  xy: 2, 335
+  size: 686, 387
+  orig: 928, 465
+  offset: 80, 78
+  index: -1
+Fx_rainbow_2
+  rotate: false
+  xy: 925, 25
+  size: 469, 421
+  orig: 469, 421
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 391, 484
+  size: 55, 56
+  orig: 58, 58
+  offset: 1, 1
+  index: -1
+Role_Thorns_1
+  rotate: true
+  xy: 483, 23
+  size: 131, 440
+  orig: 131, 440
+  offset: 0, 0
+  index: -1
+Role_mask_1
+  rotate: true
+  xy: 391, 542
+  size: 479, 166
+  orig: 479, 166
+  offset: 0, 0
+  index: -1
+Role_mask_2
+  rotate: false
+  xy: 2, 2
+  size: 479, 152
+  orig: 479, 152
+  offset: 0, 0
+  index: -1
+Role_shadown
+  rotate: false
+  xy: 2, 156
+  size: 766, 177
+  orig: 766, 177
+  offset: 0, 0
+  index: -1
+Sk
+  rotate: false
+  xy: 391, 434
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

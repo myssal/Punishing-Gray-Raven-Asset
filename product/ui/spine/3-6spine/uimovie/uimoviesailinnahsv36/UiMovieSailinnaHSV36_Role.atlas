@@ -1,0 +1,475 @@
+
+UiMovieSailinnaHSV36_Role.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+ArmL1
+  rotate: false
+  xy: 571, 240
+  size: 219, 158
+  orig: 219, 158
+  offset: 0, 0
+  index: -1
+ArmL2
+  rotate: false
+  xy: 381, 592
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+ArmL4
+  rotate: false
+  xy: 559, 84
+  size: 172, 154
+  orig: 172, 154
+  offset: 0, 0
+  index: -1
+ArmL5
+  rotate: true
+  xy: 598, 935
+  size: 174, 407
+  orig: 174, 407
+  offset: 0, 0
+  index: -1
+ArmR1
+  rotate: true
+  xy: 325, 339
+  size: 126, 244
+  orig: 126, 244
+  offset: 0, 0
+  index: -1
+ArmR2
+  rotate: false
+  xy: 922, 609
+  size: 74, 80
+  orig: 74, 80
+  offset: 0, 0
+  index: -1
+ArmR3
+  rotate: false
+  xy: 1960, 529
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+ArmR4
+  rotate: false
+  xy: 325, 172
+  size: 174, 165
+  orig: 174, 165
+  offset: 0, 0
+  index: -1
+ArmR5
+  rotate: true
+  xy: 1514, 561
+  size: 179, 63
+  orig: 179, 63
+  offset: 0, 0
+  index: -1
+ArmR6
+  rotate: true
+  xy: 1960, 215
+  size: 173, 84
+  orig: 173, 84
+  offset: 0, 0
+  index: -1
+ArmR7
+  rotate: true
+  xy: 1580, 624
+  size: 370, 432
+  orig: 370, 432
+  offset: 0, 0
+  index: -1
+ArmR8
+  rotate: true
+  xy: 1102, 368
+  size: 152, 255
+  orig: 152, 255
+  offset: 0, 0
+  index: -1
+ArmR9
+  rotate: false
+  xy: 792, 231
+  size: 180, 130
+  orig: 180, 130
+  offset: 0, 0
+  index: -1
+Body1
+  rotate: false
+  xy: 1580, 996
+  size: 451, 441
+  orig: 451, 441
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 2, 535
+  size: 377, 312
+  orig: 377, 312
+  offset: 0, 0
+  index: -1
+Hair14
+  rotate: false
+  xy: 2014, 698
+  size: 18, 69
+  orig: 18, 69
+  offset: 0, 0
+  index: -1
+Hair15
+  rotate: false
+  xy: 1512, 436
+  size: 60, 123
+  orig: 60, 123
+  offset: 0, 0
+  index: -1
+Hair16
+  rotate: false
+  xy: 1370, 427
+  size: 140, 217
+  orig: 140, 217
+  offset: 0, 0
+  index: -1
+Hair17
+  rotate: true
+  xy: 999, 759
+  size: 47, 112
+  orig: 47, 112
+  offset: 0, 0
+  index: -1
+Hair18
+  rotate: true
+  xy: 974, 282
+  size: 37, 115
+  orig: 37, 115
+  offset: 0, 0
+  index: -1
+Hair19
+  rotate: false
+  xy: 2014, 886
+  size: 26, 108
+  orig: 26, 108
+  offset: 0, 0
+  index: -1
+Hair20
+  rotate: false
+  xy: 501, 169
+  size: 56, 168
+  orig: 56, 168
+  offset: 0, 0
+  index: -1
+Hair21
+  rotate: false
+  xy: 733, 145
+  size: 48, 93
+  orig: 48, 93
+  offset: 0, 0
+  index: -1
+Hair22
+  rotate: false
+  xy: 1038, 2
+  size: 36, 139
+  orig: 36, 139
+  offset: 0, 0
+  index: -1
+Hair23
+  rotate: true
+  xy: 792, 363
+  size: 35, 121
+  orig: 35, 121
+  offset: 0, 0
+  index: -1
+Hair24
+  rotate: true
+  xy: 1113, 646
+  size: 337, 399
+  orig: 337, 399
+  offset: 0, 0
+  index: -1
+Hair25
+  rotate: true
+  xy: 575, 400
+  size: 289, 345
+  orig: 289, 345
+  offset: 0, 0
+  index: -1
+Hair26
+  rotate: false
+  xy: 956, 5
+  size: 80, 136
+  orig: 80, 136
+  offset: 0, 0
+  index: -1
+Hair27
+  rotate: false
+  xy: 2, 849
+  size: 594, 588
+  orig: 594, 588
+  offset: 0, 0
+  index: -1
+Hair28
+  rotate: true
+  xy: 1579, 258
+  size: 364, 379
+  orig: 364, 379
+  offset: 0, 0
+  index: -1
+Hair29
+  rotate: false
+  xy: 1512, 339
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+HandL1
+  rotate: false
+  xy: 956, 143
+  size: 97, 43
+  orig: 97, 43
+  offset: 0, 0
+  index: -1
+HandL10
+  rotate: true
+  xy: 1359, 330
+  size: 95, 140
+  orig: 95, 140
+  offset: 0, 0
+  index: -1
+HandL2
+  rotate: true
+  xy: 2, 300
+  size: 233, 321
+  orig: 233, 321
+  offset: 0, 0
+  index: -1
+HandL3
+  rotate: true
+  xy: 1243, 51
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: -1
+HandL4
+  rotate: true
+  xy: 999, 657
+  size: 100, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+HandL5
+  rotate: false
+  xy: 598, 1111
+  size: 517, 326
+  orig: 517, 326
+  offset: 0, 0
+  index: -1
+HandL6
+  rotate: true
+  xy: 1007, 808
+  size: 142, 103
+  orig: 142, 103
+  offset: 0, 0
+  index: -1
+HandL7
+  rotate: false
+  xy: 1076, 37
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+HandL8
+  rotate: false
+  xy: 998, 558
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+HandL9
+  rotate: false
+  xy: 1076, 77
+  size: 165, 164
+  orig: 165, 164
+  offset: 0, 0
+  index: -1
+Hat4
+  rotate: true
+  xy: 381, 722
+  size: 125, 206
+  orig: 133, 206
+  offset: 8, 0
+  index: -1
+Hat5
+  rotate: true
+  xy: 381, 502
+  size: 88, 190
+  orig: 88, 190
+  offset: 0, 0
+  index: -1
+Hat6
+  rotate: false
+  xy: 1117, 985
+  size: 461, 452
+  orig: 461, 452
+  offset: 0, 0
+  index: -1
+Neck
+  rotate: true
+  xy: 1336, 57
+  size: 235, 239
+  orig: 235, 239
+  offset: 0, 0
+  index: -1
+Sailinna1
+  rotate: true
+  xy: 598, 691
+  size: 242, 399
+  orig: 242, 399
+  offset: 0, 0
+  index: -1
+Sailinna10
+  rotate: false
+  xy: 1514, 742
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+Sailinna11
+  rotate: true
+  xy: 1092, 243
+  size: 123, 242
+  orig: 123, 242
+  offset: 0, 0
+  index: -1
+Sailinna12
+  rotate: false
+  xy: 2014, 769
+  size: 22, 66
+  orig: 22, 66
+  offset: 0, 0
+  index: -1
+Sailinna13
+  rotate: true
+  xy: 1243, 146
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+Sailinna14
+  rotate: false
+  xy: 922, 377
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+Sailinna16
+  rotate: true
+  xy: 998, 438
+  size: 118, 102
+  orig: 118, 102
+  offset: 0, 0
+  index: -1
+Sailinna17
+  rotate: false
+  xy: 1514, 807
+  size: 64, 176
+  orig: 64, 176
+  offset: 0, 0
+  index: -1
+Sailinna18
+  rotate: true
+  xy: 783, 73
+  size: 156, 171
+  orig: 156, 171
+  offset: 0, 0
+  index: -1
+Sailinna19
+  rotate: true
+  xy: 922, 544
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+Sailinna2
+  rotate: false
+  xy: 922, 459
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1
+Sailinna20
+  rotate: true
+  xy: 733, 107
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+Sailinna21
+  rotate: false
+  xy: 1007, 952
+  size: 104, 157
+  orig: 104, 157
+  offset: 0, 0
+  index: -1
+Sailinna22
+  rotate: false
+  xy: 325, 467
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+Sailinna23
+  rotate: true
+  xy: 2014, 837
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+Sailinna3
+  rotate: true
+  xy: 990, 321
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+Sailinna4
+  rotate: true
+  xy: 1960, 459
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+Sailinna5
+  rotate: true
+  xy: 1501, 294
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+Sailinna6
+  rotate: true
+  xy: 1960, 390
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+Sailinna7
+  rotate: true
+  xy: 974, 188
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+Sailinna8
+  rotate: true
+  xy: 733, 69
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+Sailinna9
+  rotate: true
+  xy: 1103, 522
+  size: 122, 265
+  orig: 122, 265
+  offset: 0, 0
+  index: -1

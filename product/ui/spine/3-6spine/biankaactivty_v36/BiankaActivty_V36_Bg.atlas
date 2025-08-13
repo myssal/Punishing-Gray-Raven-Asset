@@ -1,0 +1,111 @@
+
+BiankaActivty_V36_Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BG_1
+  rotate: false
+  xy: 418, 1046
+  size: 450, 469
+  orig: 450, 469
+  offset: 0, 0
+  index: -1
+BG_2
+  rotate: false
+  xy: 2, 600
+  size: 414, 915
+  orig: 414, 915
+  offset: 0, 0
+  index: -1
+BG_3
+  rotate: false
+  xy: 418, 130
+  size: 226, 914
+  orig: 226, 914
+  offset: 0, 0
+  index: -1
+BG_4
+  rotate: false
+  xy: 2, 1517
+  size: 1176, 486
+  orig: 1232, 536
+  offset: 56, 50
+  index: -1
+BG_5
+  rotate: true
+  xy: 646, 468
+  size: 576, 438
+  orig: 576, 439
+  offset: 0, 0
+  index: -1
+BG_6
+  rotate: false
+  xy: 1231, 70
+  size: 616, 347
+  orig: 616, 347
+  offset: 0, 0
+  index: -1
+Bg_glow1
+  rotate: true
+  xy: 1180, 844
+  size: 1159, 554
+  orig: 1159, 554
+  offset: 0, 0
+  index: -1
+Bg_glow2
+  rotate: false
+  xy: 646, 2
+  size: 583, 415
+  orig: 610, 415
+  offset: 27, 0
+  index: -1
+Bg_lighthouse_1
+  rotate: true
+  xy: 870, 1189
+  size: 326, 92
+  orig: 358, 124
+  offset: 16, 13
+  index: -1
+Bg_lighthouse_2
+  rotate: true
+  xy: 870, 1091
+  size: 96, 104
+  orig: 96, 104
+  offset: 0, 0
+  index: -1
+Fx_rainbow_1
+  rotate: false
+  xy: 964, 1316
+  size: 150, 199
+  orig: 158, 230
+  offset: 0, 27
+  index: -1
+Fx_rainbow_4
+  rotate: false
+  xy: 1086, 419
+  size: 652, 423
+  orig: 669, 441
+  offset: 17, 18
+  index: -1
+Fx_rainbow_5
+  rotate: true
+  xy: 2, 120
+  size: 478, 414
+  orig: 515, 427
+  offset: 33, 6
+  index: -1
+Glow
+  rotate: true
+  xy: 964, 1264
+  size: 50, 51
+  orig: 52, 52
+  offset: 1, 0
+  index: -1
+Sk
+  rotate: false
+  xy: 870, 1046
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

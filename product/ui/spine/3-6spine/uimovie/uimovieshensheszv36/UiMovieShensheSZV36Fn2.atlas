@@ -1,0 +1,153 @@
+
+UiMovieShensheSZV36Fn2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Eye1
+  rotate: true
+  xy: 245, 20
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+Eye10
+  rotate: true
+  xy: 251, 60
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Eye11
+  rotate: true
+  xy: 236, 54
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+Eye12
+  rotate: true
+  xy: 213, 5
+  size: 41, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1
+Eye13
+  rotate: false
+  xy: 92, 5
+  size: 56, 31
+  orig: 56, 31
+  offset: 0, 0
+  index: -1
+Eye14
+  rotate: false
+  xy: 117, 38
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+Eye15
+  rotate: true
+  xy: 229, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+Eye16
+  rotate: true
+  xy: 229, 21
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 109, 70
+  size: 56, 21
+  orig: 56, 21
+  offset: 0, 0
+  index: -1
+Eye3
+  rotate: true
+  xy: 201, 48
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: true
+  xy: 2, 2
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+Eye5
+  rotate: false
+  xy: 245, 36
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 220, 48
+  size: 27, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+Eye8
+  rotate: false
+  xy: 80, 38
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+Eye9
+  rotate: true
+  xy: 196, 10
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+erjia1
+  rotate: true
+  xy: 132, 77
+  size: 49, 134
+  orig: 49, 134
+  offset: 0, 0
+  index: -1
+juhua
+  rotate: false
+  xy: 2, 38
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 174, 40
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: true
+  xy: 150, 7
+  size: 29, 44
+  orig: 29, 44
+  offset: 0, 0
+  index: -1
+yingxin1
+  rotate: false
+  xy: 80, 64
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+yingxin2
+  rotate: true
+  xy: 16, 5
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1

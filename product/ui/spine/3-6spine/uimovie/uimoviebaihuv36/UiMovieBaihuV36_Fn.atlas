@@ -1,0 +1,90 @@
+
+UiMovieBaihuV36_Fn.png
+size: 256,256
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+Eye1
+  rotate: true
+  xy: 117, 211
+  size: 31, 85
+  orig: 32, 85
+  offset: 0, 0
+  index: -1
+Eye10
+  rotate: false
+  xy: 2, 183
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+Eye11
+  rotate: false
+  xy: 204, 208
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+Eye12
+  rotate: true
+  xy: 2, 96
+  size: 39, 91
+  orig: 39, 91
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: false
+  xy: 61, 216
+  size: 54, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+Eye3
+  rotate: true
+  xy: 110, 135
+  size: 38, 91
+  orig: 38, 91
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: true
+  xy: 203, 126
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Eye5
+  rotate: false
+  xy: 51, 176
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+Eye6
+  rotate: true
+  xy: 2, 137
+  size: 37, 106
+  orig: 37, 106
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: false
+  xy: 117, 175
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+Eye8
+  rotate: true
+  xy: 31, 225
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+Eye9
+  rotate: true
+  xy: 2, 227
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1

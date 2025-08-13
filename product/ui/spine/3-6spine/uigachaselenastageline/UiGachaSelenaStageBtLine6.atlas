@@ -1,0 +1,13 @@
+
+UiGachaSelenaStageBtLine6.png
+size: 19,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BtLine6
+  rotate: false
+  xy: 0, 0
+  size: 19, 66
+  orig: 19, 66
+  offset: 0, 0
+  index: -1

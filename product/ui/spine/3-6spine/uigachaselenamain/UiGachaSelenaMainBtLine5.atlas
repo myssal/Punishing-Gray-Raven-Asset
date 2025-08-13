@@ -1,0 +1,13 @@
+
+UiGachaSelenaMainBtLine5.png
+size: 64,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BtLine5
+  rotate: false
+  xy: 0, 0
+  size: 64, 126
+  orig: 64, 126
+  offset: 0, 0
+  index: -1

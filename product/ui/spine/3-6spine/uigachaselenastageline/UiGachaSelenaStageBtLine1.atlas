@@ -1,0 +1,13 @@
+
+UiGachaSelenaStageBtLine1.png
+size: 27,28
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BtLine1
+  rotate: false
+  xy: 0, 0
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

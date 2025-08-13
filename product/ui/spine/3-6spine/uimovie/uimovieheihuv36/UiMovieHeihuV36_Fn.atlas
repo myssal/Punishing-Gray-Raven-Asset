@@ -1,0 +1,90 @@
+
+UiMovieHeihuV36_Fn.png
+size: 256,256
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+Eye1
+  rotate: false
+  xy: 45, 72
+  size: 31, 85
+  orig: 31, 85
+  offset: 0, 0
+  index: -1
+Eye10
+  rotate: true
+  xy: 2, 2
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+Eye11
+  rotate: true
+  xy: 83, 159
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+Eye12
+  rotate: false
+  xy: 2, 49
+  size: 41, 95
+  orig: 41, 95
+  offset: 0, 0
+  index: -1
+Eye2
+  rotate: true
+  xy: 83, 198
+  size: 54, 27
+  orig: 56, 27
+  offset: 0, 0
+  index: -1
+Eye3
+  rotate: false
+  xy: 41, 159
+  size: 40, 93
+  orig: 40, 93
+  offset: 0, 0
+  index: -1
+Eye4
+  rotate: true
+  xy: 78, 77
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+Eye5
+  rotate: true
+  xy: 82, 11
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+Eye6
+  rotate: false
+  xy: 2, 146
+  size: 37, 106
+  orig: 37, 106
+  offset: 0, 0
+  index: -1
+Eye7
+  rotate: true
+  xy: 46, 3
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+Eye8
+  rotate: false
+  xy: 112, 223
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+Eye9
+  rotate: true
+  xy: 112, 207
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1

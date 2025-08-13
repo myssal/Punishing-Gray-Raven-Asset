@@ -1,0 +1,335 @@
+
+UiMovieShensheSZV36Role.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Body1
+  rotate: true
+  xy: 476, 524
+  size: 498, 439
+  orig: 498, 439
+  offset: 0, 0
+  index: -1
+Body10
+  rotate: true
+  xy: 1051, 230
+  size: 298, 146
+  orig: 298, 146
+  offset: 0, 0
+  index: -1
+Body11
+  rotate: false
+  xy: 1199, 240
+  size: 156, 288
+  orig: 156, 288
+  offset: 0, 0
+  index: -1
+Body12
+  rotate: true
+  xy: 917, 530
+  size: 146, 328
+  orig: 146, 328
+  offset: 0, 0
+  index: -1
+Body13
+  rotate: true
+  xy: 575, 11
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+Body14
+  rotate: true
+  xy: 1244, 92
+  size: 146, 219
+  orig: 146, 219
+  offset: 0, 0
+  index: -1
+Body14_shadow
+  rotate: false
+  xy: 1407, 12
+  size: 15, 78
+  orig: 15, 78
+  offset: 0, 0
+  index: -1
+Body15
+  rotate: true
+  xy: 1311, 845
+  size: 177, 104
+  orig: 177, 104
+  offset: 0, 0
+  index: -1
+Body16
+  rotate: false
+  xy: 189, 73
+  size: 295, 355
+  orig: 295, 355
+  offset: 0, 0
+  index: -1
+Body17
+  rotate: false
+  xy: 917, 678
+  size: 119, 344
+  orig: 126, 352
+  offset: 0, 0
+  index: -1
+Body18
+  rotate: false
+  xy: 1336, 596
+  size: 121, 144
+  orig: 121, 144
+  offset: 0, 0
+  index: -1
+Body19
+  rotate: false
+  xy: 1266, 735
+  size: 43, 287
+  orig: 43, 287
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 1038, 692
+  size: 226, 330
+  orig: 226, 330
+  offset: 0, 0
+  index: -1
+Body20
+  rotate: true
+  xy: 950, 90
+  size: 82, 292
+  orig: 82, 292
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: false
+  xy: 1311, 742
+  size: 141, 101
+  orig: 141, 101
+  offset: 0, 0
+  index: -1
+Body4
+  rotate: false
+  xy: 1336, 546
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+Body5
+  rotate: false
+  xy: 1417, 852
+  size: 136, 170
+  orig: 136, 170
+  offset: 0, 0
+  index: -1
+Body6
+  rotate: false
+  xy: 1051, 175
+  size: 114, 53
+  orig: 114, 53
+  offset: 0, 0
+  index: -1
+Body7
+  rotate: false
+  xy: 472, 6
+  size: 101, 65
+  orig: 101, 65
+  offset: 0, 0
+  index: -1
+Body8
+  rotate: true
+  xy: 251, 34
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+Body9
+  rotate: false
+  xy: 2, 430
+  size: 472, 592
+  orig: 472, 592
+  offset: 0, 0
+  index: -1
+Body9_shadow
+  rotate: false
+  xy: 1424, 13
+  size: 15, 77
+  orig: 15, 77
+  offset: 0, 0
+  index: -1
+daizi_1
+  rotate: false
+  xy: 1167, 178
+  size: 60, 50
+  orig: 60, 52
+  offset: 0, 2
+  index: -1
+erjia2
+  rotate: true
+  xy: 639, 12
+  size: 64, 139
+  orig: 64, 139
+  offset: 0, 0
+  index: -1
+shenzhang1
+  rotate: true
+  xy: 863, 78
+  size: 94, 85
+  orig: 94, 88
+  offset: 0, 3
+  index: -1
+shenzhang10
+  rotate: true
+  xy: 1454, 753
+  size: 97, 137
+  orig: 97, 137
+  offset: 0, 0
+  index: -1
+shenzhang11
+  rotate: true
+  xy: 567, 78
+  size: 444, 294
+  orig: 449, 294
+  offset: 0, 0
+  index: -1
+shenzhang12
+  rotate: true
+  xy: 1441, 29
+  size: 61, 165
+  orig: 61, 165
+  offset: 0, 0
+  index: -1
+shenzhang2
+  rotate: false
+  xy: 91, 62
+  size: 96, 366
+  orig: 96, 366
+  offset: 0, 0
+  index: -1
+shenzhang3
+  rotate: true
+  xy: 780, 15
+  size: 61, 337
+  orig: 61, 337
+  offset: 0, 0
+  index: -1
+shenzhang4
+  rotate: false
+  xy: 486, 77
+  size: 79, 353
+  orig: 79, 353
+  offset: 0, 0
+  index: -1
+shenzhang5
+  rotate: true
+  xy: 1119, 8
+  size: 80, 286
+  orig: 80, 286
+  offset: 0, 0
+  index: -1
+shenzhang6
+  rotate: false
+  xy: 1288, 530
+  size: 46, 203
+  orig: 46, 203
+  offset: 0, 0
+  index: -1
+shenzhang7
+  rotate: false
+  xy: 863, 174
+  size: 186, 348
+  orig: 186, 348
+  offset: 0, 0
+  index: -1
+shenzhang8
+  rotate: false
+  xy: 495, 434
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+shenzhang9
+  rotate: true
+  xy: 343, 6
+  size: 65, 127
+  orig: 65, 127
+  offset: 0, 0
+  index: -1
+sunzi1
+  rotate: true
+  xy: 193, 8
+  size: 23, 148
+  orig: 25, 150
+  offset: 0, 2
+  index: -1
+sunzi2
+  rotate: false
+  xy: 1247, 530
+  size: 39, 160
+  orig: 40, 160
+  offset: 0, 0
+  index: -1
+sunzi3
+  rotate: true
+  xy: 65, 3
+  size: 28, 126
+  orig: 28, 126
+  offset: 0, 0
+  index: -1
+sunzi4
+  rotate: true
+  xy: 91, 33
+  size: 27, 158
+  orig: 27, 159
+  offset: 0, 1
+  index: -1
+sunzi5
+  rotate: false
+  xy: 1441, 4
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+sunzi6
+  rotate: false
+  xy: 1555, 974
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+sunzi7
+  rotate: false
+  xy: 543, 503
+  size: 19, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+sunzi8
+  rotate: false
+  xy: 476, 432
+  size: 17, 90
+  orig: 17, 90
+  offset: 0, 0
+  index: -1
+sunzi9
+  rotate: false
+  xy: 2, 33
+  size: 87, 395
+  orig: 87, 395
+  offset: 0, 0
+  index: -1
+yinying1
+  rotate: true
+  xy: 2, 2
+  size: 29, 61
+  orig: 29, 61
+  offset: 0, 0
+  index: -1
+yinying2
+  rotate: true
+  xy: 297, 51
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+UiGachaSelenaMainBtBg.png
+size: 459,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Btbghua1
+  rotate: false
+  xy: 0, 0
+  size: 153, 251
+  orig: 153, 251
+  offset: 0, 0
+  index: -1
+Btbghua2
+  rotate: false
+  xy: 153, 0
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: -1
+Btbghua3
+  rotate: false
+  xy: 306, 0
+  size: 61, 149
+  orig: 61, 149
+  offset: 0, 0
+  index: -1

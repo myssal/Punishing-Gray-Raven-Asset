@@ -1,0 +1,20 @@
+
+UiGachaSelenaStageBtLine3.png
+size: 334,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BtLine3
+  rotate: false
+  xy: 0, 0
+  size: 167, 119
+  orig: 167, 119
+  offset: 0, 0
+  index: -1
+BtLineHua
+  rotate: false
+  xy: 167, 0
+  size: 30, 34
+  orig: 32, 36
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,237 @@
+
+UiMovieSailinnaV36_Role.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Arm
+  rotate: false
+  xy: 2, 223
+  size: 623, 112
+  orig: 623, 112
+  offset: 0, 0
+  index: -1
+Arm2
+  rotate: true
+  xy: 1029, 246
+  size: 271, 80
+  orig: 271, 80
+  offset: 0, 0
+  index: -1
+Arm3
+  rotate: true
+  xy: 194, 1056
+  size: 64, 339
+  orig: 64, 339
+  offset: 0, 0
+  index: -1
+Bandage
+  rotate: false
+  xy: 2, 574
+  size: 41, 142
+  orig: 41, 142
+  offset: 0, 0
+  index: -1
+Bandage1
+  rotate: false
+  xy: 48, 1100
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+Bandage2
+  rotate: false
+  xy: 181, 1038
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+Bandage3
+  rotate: false
+  xy: 678, 1022
+  size: 27, 98
+  orig: 27, 98
+  offset: 0, 0
+  index: -1
+Bandage4
+  rotate: false
+  xy: 603, 710
+  size: 39, 125
+  orig: 39, 125
+  offset: 0, 0
+  index: -1
+Bandage5
+  rotate: false
+  xy: 169, 1060
+  size: 21, 60
+  orig: 21, 60
+  offset: 0, 0
+  index: -1
+Bandage6
+  rotate: false
+  xy: 899, 837
+  size: 31, 283
+  orig: 31, 283
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 36
+  size: 227, 106
+  orig: 227, 106
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: true
+  xy: 612, 36
+  size: 97, 218
+  orig: 97, 218
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: false
+  xy: 2, 718
+  size: 709, 402
+  orig: 711, 406
+  offset: 2, 4
+  index: -1
+Finger
+  rotate: false
+  xy: 535, 1086
+  size: 69, 34
+  orig: 69, 34
+  offset: 0, 0
+  index: -1
+Finger2
+  rotate: false
+  xy: 92, 1079
+  size: 75, 41
+  orig: 75, 41
+  offset: 0, 0
+  index: -1
+Finger3
+  rotate: false
+  xy: 149, 479
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+Hair14
+  rotate: false
+  xy: 35, 710
+  size: 77, 25
+  orig: 77, 25
+  offset: 0, 0
+  index: -1
+Hair15
+  rotate: false
+  xy: 815, 13
+  size: 290, 60
+  orig: 290, 60
+  offset: 0, 0
+  index: -1
+Hair16
+  rotate: false
+  xy: 409, 474
+  size: 283, 51
+  orig: 283, 51
+  offset: 0, 0
+  index: -1
+Hair17
+  rotate: false
+  xy: 271, 129
+  size: 835, 140
+  orig: 835, 140
+  offset: 0, 0
+  index: -1
+Hair18
+  rotate: false
+  xy: 244, 3
+  size: 333, 91
+  orig: 333, 91
+  offset: 0, 0
+  index: -1
+Hair19
+  rotate: 180
+  xy: 452, 124
+  size: 500, 97
+  orig: 500, 97
+  offset: 0, 0
+  index: -1
+Hair20
+  rotate: true
+  xy: 806, 628
+  size: 443, 91
+  orig: 443, 91
+  offset: 0, 0
+  index: -1
+Hair21
+  rotate: true
+  xy: 712, 691
+  size: 429, 117
+  orig: 429, 118
+  offset: 0, 1
+  index: -1
+Hair22
+  rotate: false
+  xy: 2, 475
+  size: 984, 300
+  orig: 984, 300
+  offset: 0, 0
+  index: -1
+Hair23
+  rotate: true
+  xy: 2, 179
+  size: 66, 487
+  orig: 66, 487
+  offset: 0, 0
+  index: -1
+Hair24
+  rotate: 270
+  xy: 2, 78
+  size: 86, 541
+  orig: 86, 541
+  offset: 0, 0
+  index: -1
+Hair25
+  rotate: 270
+  xy: 579, 77
+  size: 82, 498
+  orig: 82, 498
+  offset: 0, 0
+  index: -1
+Hair26
+  rotate: 180
+  xy: 973, 213
+  size: 137, 816
+  orig: 137, 816
+  offset: 0, 0
+  index: -1
+Hair27
+  rotate: true
+  xy: 2, 271
+  size: 234, 872
+  orig: 234, 872
+  offset: 0, 0
+  index: -1
+Hair28
+  rotate: 180
+  xy: 896, 597
+  size: 158, 523
+  orig: 158, 523
+  offset: 0, 0
+  index: -1
+Hair3
+  rotate: false
+  xy: 44, 599
+  size: 32, 109
+  orig: 32, 109
+  offset: 0, 0
+  index: -1
+Palm
+  rotate: false
+  xy: 608, 989
+  size: 68, 131
+  orig: 68, 131
+  offset: 0, 0
+  index: -1

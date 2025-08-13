@@ -1,0 +1,216 @@
+
+BiankaLoginV36_Bg1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg1_shadow
+  rotate: false
+  xy: 576, 644
+  size: 251, 97
+  orig: 314, 97
+  offset: 55, 0
+  index: -1
+Bg_10
+  rotate: false
+  xy: 858, 56
+  size: 162, 244
+  orig: 162, 244
+  offset: 0, 0
+  index: -1
+Bg_11
+  rotate: false
+  xy: 1003, 4
+  size: 303, 538
+  orig: 303, 538
+  offset: 0, 0
+  index: -1
+Bg_12
+  rotate: false
+  xy: 2, 302
+  size: 572, 439
+  orig: 573, 445
+  offset: 1, 6
+  index: -1
+Bg_5
+  rotate: false
+  xy: 2, 25
+  size: 854, 275
+  orig: 855, 277
+  offset: 1, 1
+  index: -1
+Bg_7
+  rotate: false
+  xy: 1397, 542
+  size: 164, 112
+  orig: 167, 113
+  offset: 3, 0
+  index: -1
+Bg_8
+  rotate: false
+  xy: 576, 302
+  size: 526, 274
+  orig: 526, 274
+  offset: 0, 0
+  index: -1
+Bg_9
+  rotate: false
+  xy: 1104, 543
+  size: 291, 184
+  orig: 291, 191
+  offset: 0, 7
+  index: -1
+Bg_hand_1_1
+  rotate: false
+  xy: 703, 619
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+Bg_hand_1_10
+  rotate: false
+  xy: 576, 604
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+Bg_hand_1_11
+  rotate: false
+  xy: 1519, 185
+  size: 106, 121
+  orig: 106, 121
+  offset: 0, 0
+  index: -1
+Bg_hand_1_12
+  rotate: false
+  xy: 2, 8
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+Bg_hand_1_13
+  rotate: false
+  xy: 51, 5
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+Bg_hand_1_14
+  rotate: false
+  xy: 71, 6
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+Bg_hand_1_15
+  rotate: false
+  xy: 1572, 265
+  size: 43, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+Bg_hand_1_16
+  rotate: false
+  xy: 576, 582
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+Bg_hand_1_17
+  rotate: false
+  xy: 614, 579
+  size: 44, 15
+  orig: 45, 15
+  offset: 1, 0
+  index: -1
+Bg_hand_1_18
+  rotate: false
+  xy: 608, 618
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Bg_hand_1_19
+  rotate: false
+  xy: 628, 601
+  size: 31, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+Bg_hand_1_2
+  rotate: false
+  xy: 27, 4
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+Bg_hand_1_20
+  rotate: false
+  xy: 858, 5
+  size: 128, 95
+  orig: 137, 105
+  offset: 0, 10
+  index: -1
+Bg_hand_1_3
+  rotate: false
+  xy: 689, 581
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+Bg_hand_1_4
+  rotate: false
+  xy: 845, 7
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+Bg_hand_1_5
+  rotate: false
+  xy: 687, 592
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+Bg_hand_1_6
+  rotate: false
+  xy: 1007, 14
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+Bg_hand_1_7
+  rotate: false
+  xy: 659, 581
+  size: 28, 27
+  orig: 28, 28
+  offset: 0, 1
+  index: -1
+Bg_hand_1_8
+  rotate: false
+  xy: 655, 609
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+Bg_hand_1_9
+  rotate: false
+  xy: 671, 626
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+Effect_lightB_1
+  rotate: true
+  xy: 1309, 14
+  size: 168, 318
+  orig: 179, 328
+  offset: 5, 4
+  index: -1
+Effect_lightB_2
+  rotate: false
+  xy: 1309, 184
+  size: 208, 356
+  orig: 237, 369
+  offset: 22, 4
+  index: -1

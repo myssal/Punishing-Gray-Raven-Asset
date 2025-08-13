@@ -1,0 +1,244 @@
+
+UiMovieHeihuV36_Role.png
+size: 2048,1024
+format: RGBA8888
+filter: MipMap,MipMap
+repeat: xy
+Body1
+  rotate: true
+  xy: 1110, 687
+  size: 131, 57
+  orig: 131, 57
+  offset: 0, 0
+  index: -1
+Body10
+  rotate: true
+  xy: 1160, 409
+  size: 106, 79
+  orig: 106, 79
+  offset: 0, 0
+  index: -1
+Body11
+  rotate: false
+  xy: 1223, 523
+  size: 97, 36
+  orig: 97, 36
+  offset: 0, 0
+  index: -1
+Body2
+  rotate: false
+  xy: 679, 413
+  size: 136, 58
+  orig: 136, 58
+  offset: 0, 0
+  index: -1
+Body20
+  rotate: false
+  xy: 997, 13
+  size: 113, 80
+  orig: 113, 80
+  offset: 0, 0
+  index: -1
+Body21
+  rotate: false
+  xy: 817, 406
+  size: 40, 92
+  orig: 40, 92
+  offset: 0, 0
+  index: -1
+Body22
+  rotate: true
+  xy: 435, 406
+  size: 65, 137
+  orig: 65, 137
+  offset: 0, 0
+  index: -1
+Body23
+  rotate: true
+  xy: 823, 4
+  size: 33, 81
+  orig: 33, 81
+  offset: 0, 0
+  index: -1
+Body24
+  rotate: true
+  xy: 1211, 8
+  size: 185, 133
+  orig: 185, 133
+  offset: 0, 0
+  index: -1
+Body25
+  rotate: true
+  xy: 282, 25
+  size: 379, 539
+  orig: 379, 539
+  offset: 0, 0
+  index: -1
+Body26
+  rotate: true
+  xy: 435, 473
+  size: 549, 328
+  orig: 549, 338
+  offset: 0, 0
+  index: -1
+Body27
+  rotate: true
+  xy: 2, 8
+  size: 396, 278
+  orig: 396, 278
+  offset: 0, 0
+  index: -1
+Body28
+  rotate: true
+  xy: 906, 503
+  size: 519, 202
+  orig: 519, 202
+  offset: 0, 0
+  index: -1
+Body29
+  rotate: false
+  xy: 765, 500
+  size: 139, 522
+  orig: 139, 522
+  offset: 0, 0
+  index: -1
+Body3
+  rotate: true
+  xy: 1110, 820
+  size: 202, 97
+  orig: 202, 97
+  offset: 0, 0
+  index: -1
+Body30
+  rotate: false
+  xy: 2, 406
+  size: 431, 616
+  orig: 431, 616
+  offset: 0, 0
+  index: -1
+Body31
+  rotate: false
+  xy: 1110, 517
+  size: 111, 37
+  orig: 111, 37
+  offset: 0, 0
+  index: -1
+Body4
+  rotate: false
+  xy: 906, 7
+  size: 89, 30
+  orig: 89, 30
+  offset: 0, 0
+  index: -1
+Body5
+  rotate: true
+  xy: 859, 408
+  size: 90, 121
+  orig: 90, 121
+  offset: 0, 0
+  index: -1
+Body6
+  rotate: true
+  xy: 574, 406
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+Body7
+  rotate: true
+  xy: 282, 3
+  size: 20, 56
+  orig: 20, 56
+  offset: 0, 0
+  index: -1
+Body8
+  rotate: false
+  xy: 1110, 556
+  size: 93, 129
+  orig: 95, 129
+  offset: 2, 0
+  index: -1
+Body9
+  rotate: true
+  xy: 1209, 898
+  size: 124, 56
+  orig: 124, 56
+  offset: 0, 0
+  index: -1
+Erduo1
+  rotate: true
+  xy: 982, 407
+  size: 94, 176
+  orig: 94, 176
+  offset: 0, 0
+  index: -1
+Erduo2
+  rotate: false
+  xy: 1097, 195
+  size: 138, 210
+  orig: 139, 210
+  offset: 1, 0
+  index: -1
+Face2
+  rotate: true
+  xy: 993, 95
+  size: 310, 102
+  orig: 310, 102
+  offset: 0, 0
+  index: -1
+Lingdang1
+  rotate: false
+  xy: 611, 409
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+Lingdang2
+  rotate: false
+  xy: 340, 3
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+Lingdang3
+  rotate: false
+  xy: 426, 9
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+Lingdang4
+  rotate: true
+  xy: 386, 6
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+Sunzi1
+  rotate: true
+  xy: 823, 39
+  size: 365, 168
+  orig: 365, 168
+  offset: 0, 0
+  index: -1
+Sunzi2
+  rotate: true
+  xy: 1169, 690
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+Sunzi3
+  rotate: false
+  xy: 1205, 561
+  size: 68, 127
+  orig: 68, 127
+  offset: 0, 0
+  index: -1
+Sunzi4
+  rotate: false
+  xy: 1112, 2
+  size: 97, 191
+  orig: 97, 191
+  offset: 0, 0
+  index: -1
