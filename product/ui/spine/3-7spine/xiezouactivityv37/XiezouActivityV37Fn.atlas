@@ -1,0 +1,41 @@
+
+XiezouActivityV37Fn.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Middle_1
+  rotate: 180
+  xy: 80, 3
+  size: 205, 102
+  orig: 205, 102
+  offset: 0, 0
+  index: -1
+Middle_2
+  rotate: false
+  xy: 2, 179
+  size: 192, 294
+  orig: 192, 294
+  offset: 0, 0
+  index: -1
+Middle_2_1
+  rotate: 180
+  xy: 2, 60
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+Middle_2_2
+  rotate: false
+  xy: 102, 44
+  size: 185, 311
+  orig: 185, 311
+  offset: 0, 0
+  index: -1
+Sk
+  rotate: false
+  xy: 2, 369
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

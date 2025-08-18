@@ -1,0 +1,139 @@
+
+XiezouTutorialV37Bg.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_10
+  rotate: false
+  xy: 743, 168
+  size: 237, 342
+  orig: 237, 342
+  offset: 0, 0
+  index: -1
+Bg_11
+  rotate: true
+  xy: 202, 110
+  size: 86, 305
+  orig: 86, 305
+  offset: 0, 0
+  index: -1
+Bg_17
+  rotate: true
+  xy: 580, 7
+  size: 51, 65
+  orig: 64, 70
+  offset: 0, 5
+  index: -1
+Bg_18
+  rotate: true
+  xy: 804, 42
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+Bg_21
+  rotate: true
+  xy: 584, 120
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+Bg_22
+  rotate: false
+  xy: 580, 60
+  size: 119, 50
+  orig: 119, 50
+  offset: 0, 0
+  index: -1
+Bg_23
+  rotate: true
+  xy: 26, 3
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+Bg_24
+  rotate: true
+  xy: 49, 9
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Bg_25
+  rotate: false
+  xy: 696, 10
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+Bg_26
+  rotate: false
+  xy: 701, 78
+  size: 59, 88
+  orig: 59, 88
+  offset: 0, 0
+  index: -1
+Bg_27
+  rotate: true
+  xy: 509, 112
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+Bg_28
+  rotate: false
+  xy: 762, 103
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+Bg_29
+  rotate: true
+  xy: 504, 13
+  size: 95, 74
+  orig: 95, 74
+  offset: 0, 0
+  index: -1
+Bg_30
+  rotate: false
+  xy: 2, 29
+  size: 198, 167
+  orig: 198, 167
+  offset: 0, 0
+  index: -1
+Bg_31
+  rotate: false
+  xy: 2, 4
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Bg_32
+  rotate: false
+  xy: 743, 2
+  size: 59, 74
+  orig: 60, 78
+  offset: 1, 2
+  index: -1
+Bg_37
+  rotate: false
+  xy: 647, 9
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+Bg_44_1
+  rotate: true
+  xy: 2, 198
+  size: 312, 522
+  orig: 312, 522
+  offset: 0, 0
+  index: -1
+Bg_9
+  rotate: true
+  xy: 202, 39
+  size: 69, 300
+  orig: 69, 300
+  offset: 0, 0
+  index: -1

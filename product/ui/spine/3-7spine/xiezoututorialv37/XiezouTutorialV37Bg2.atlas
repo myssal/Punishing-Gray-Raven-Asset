@@ -1,0 +1,167 @@
+
+XiezouTutorialV37Bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_12
+  rotate: true
+  xy: 1969, 597
+  size: 128, 77
+  orig: 128, 77
+  offset: 0, 0
+  index: -1
+Bg_13
+  rotate: false
+  xy: 1970, 849
+  size: 38, 46
+  orig: 38, 46
+  offset: 0, 0
+  index: -1
+Bg_14
+  rotate: true
+  xy: 1969, 445
+  size: 62, 49
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+Bg_15
+  rotate: false
+  xy: 1969, 376
+  size: 25, 23
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+Bg_16
+  rotate: true
+  xy: 1969, 401
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+Bg_19
+  rotate: true
+  xy: 1970, 764
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+Bg_20
+  rotate: false
+  xy: 1970, 800
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+Bg_3
+  rotate: false
+  xy: 1732, 727
+  size: 236, 350
+  orig: 236, 350
+  offset: 0, 0
+  index: -1
+Bg_33
+  rotate: true
+  xy: 1963, 224
+  size: 57, 71
+  orig: 57, 71
+  offset: 0, 0
+  index: -1
+Bg_34
+  rotate: false
+  xy: 2, 2
+  size: 119, 101
+  orig: 119, 101
+  offset: 0, 0
+  index: -1
+Bg_35
+  rotate: false
+  xy: 2010, 853
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+Bg_36
+  rotate: false
+  xy: 2007, 802
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+Bg_38
+  rotate: false
+  xy: 1732, 66
+  size: 121, 146
+  orig: 121, 163
+  offset: 0, 17
+  index: -1
+Bg_39
+  rotate: true
+  xy: 1855, 10
+  size: 202, 112
+  orig: 221, 117
+  offset: 0, 0
+  index: -1
+Bg_40
+  rotate: false
+  xy: 244, 25
+  size: 129, 78
+  orig: 134, 78
+  offset: 5, 0
+  index: -1
+Bg_41
+  rotate: false
+  xy: 1969, 509
+  size: 70, 86
+  orig: 70, 86
+  offset: 0, 0
+  index: -1
+Bg_42
+  rotate: false
+  xy: 1882, 283
+  size: 150, 90
+  orig: 201, 90
+  offset: 0, 0
+  index: -1
+Bg_43
+  rotate: false
+  xy: 1882, 221
+  size: 79, 60
+  orig: 79, 60
+  offset: 0, 0
+  index: -1
+Bg_44
+  rotate: false
+  xy: 2, 105
+  size: 1728, 972
+  orig: 1728, 972
+  offset: 0, 0
+  index: -1
+Bg_5
+  rotate: false
+  xy: 1970, 897
+  size: 63, 180
+  orig: 63, 180
+  offset: 0, 0
+  index: -1
+Bg_5_1
+  rotate: true
+  xy: 123, 11
+  size: 92, 119
+  orig: 92, 119
+  offset: 0, 0
+  index: -1
+Bg_7
+  rotate: true
+  xy: 1732, 214
+  size: 159, 148
+  orig: 159, 148
+  offset: 0, 0
+  index: -1
+Bg_8
+  rotate: false
+  xy: 1732, 375
+  size: 235, 350
+  orig: 235, 350
+  offset: 0, 0
+  index: -1

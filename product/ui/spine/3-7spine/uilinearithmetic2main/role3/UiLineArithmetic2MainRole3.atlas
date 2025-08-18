@@ -1,0 +1,139 @@
+
+UiLineArithmetic2MainRole3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa1
+  rotate: true
+  xy: 0, 131
+  size: 91, 197
+  orig: 91, 197
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 507, 91
+  size: 68, 124
+  orig: 68, 124
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: true
+  xy: 838, 399
+  size: 87, 158
+  orig: 87, 158
+  offset: 0, 0
+  index: -1
+fa4
+  rotate: true
+  xy: 793, 133
+  size: 104, 203
+  orig: 104, 203
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: true
+  xy: 838, 333
+  size: 66, 150
+  orig: 66, 150
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: false
+  xy: 300, 260
+  size: 231, 91
+  orig: 231, 91
+  offset: 0, 0
+  index: -1
+houfa1
+  rotate: false
+  xy: 0, 222
+  size: 300, 264
+  orig: 300, 264
+  offset: 0, 0
+  index: -1
+houfa2
+  rotate: false
+  xy: 406, 38
+  size: 101, 102
+  orig: 101, 102
+  offset: 0, 0
+  index: -1
+houyifu
+  rotate: false
+  xy: 0, 0
+  size: 194, 131
+  orig: 194, 131
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 593, 272
+  size: 214, 245
+  orig: 214, 245
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 976, 237
+  size: 96, 41
+  orig: 96, 41
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 590, 84
+  size: 203, 188
+  orig: 203, 188
+  offset: 0, 0
+  index: -1
+toushi1
+  rotate: false
+  xy: 300, 351
+  size: 293, 135
+  orig: 293, 135
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: true
+  xy: 300, 140
+  size: 120, 207
+  orig: 120, 207
+  offset: 0, 0
+  index: -1
+toushui3
+  rotate: true
+  xy: 793, 25
+  size: 108, 202
+  orig: 108, 202
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 531, 215
+  size: 59, 136
+  orig: 59, 136
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: true
+  xy: 197, 118
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 838, 259
+  size: 74, 138
+  orig: 74, 138
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 299, 40
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1

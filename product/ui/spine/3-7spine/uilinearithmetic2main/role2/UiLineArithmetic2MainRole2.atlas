@@ -1,0 +1,104 @@
+
+UiLineArithmetic2MainRole2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fa1
+  rotate: false
+  xy: 0, 53
+  size: 284, 277
+  orig: 284, 277
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 780, 88
+  size: 70, 126
+  orig: 70, 126
+  offset: 0, 0
+  index: -1
+fa3
+  rotate: false
+  xy: 713, 7
+  size: 137, 127
+  orig: 137, 127
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: 180
+  xy: 507, 58
+  size: 175, 249
+  orig: 175, 249
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 284, 87
+  size: 224, 242
+  orig: 224, 242
+  offset: 0, 0
+  index: -1
+toushi1
+  rotate: true
+  xy: 565, 1
+  size: 70, 110
+  orig: 70, 110
+  offset: 0, 0
+  index: -1
+toushi2
+  rotate: false
+  xy: 145, 5
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+toushi3
+  rotate: false
+  xy: 793, 7
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+toushi4
+  rotate: true
+  xy: 401, 13
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+toushi5
+  rotate: true
+  xy: 678, 203
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 677, 33
+  size: 64, 171
+  orig: 64, 171
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 180, 9
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 227, 37
+  size: 51, 174
+  orig: 51, 174
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 0, 10
+  size: 146, 48
+  orig: 146, 48
+  offset: 0, 0
+  index: -1

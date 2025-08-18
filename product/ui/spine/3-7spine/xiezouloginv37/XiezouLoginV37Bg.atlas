@@ -1,0 +1,118 @@
+
+XiezouLoginV37Bg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Bg_1
+  rotate: false
+  xy: 1783, 51
+  size: 231, 297
+  orig: 231, 297
+  offset: 0, 0
+  index: -1
+Bg_10
+  rotate: false
+  xy: 1732, 874
+  size: 298, 533
+  orig: 298, 533
+  offset: 0, 0
+  index: -1
+Bg_11
+  rotate: false
+  xy: 1434, 169
+  size: 139, 370
+  orig: 139, 370
+  offset: 0, 0
+  index: -1
+Bg_12
+  rotate: false
+  xy: 1575, 2
+  size: 206, 346
+  orig: 206, 346
+  offset: 0, 0
+  index: -1
+Bg_13
+  rotate: false
+  xy: 2, 839
+  size: 1728, 972
+  orig: 1728, 972
+  offset: 0, 0
+  index: -1
+Bg_13_Shadow
+  rotate: true
+  xy: 1732, 350
+  size: 522, 294
+  orig: 522, 294
+  offset: 0, 0
+  index: -1
+Bg_2
+  rotate: true
+  xy: 2, 436
+  size: 401, 591
+  orig: 401, 591
+  offset: 0, 0
+  index: -1
+Bg_3
+  rotate: false
+  xy: 1520, 598
+  size: 195, 239
+  orig: 195, 239
+  offset: 0, 0
+  index: -1
+Bg_4
+  rotate: false
+  xy: 595, 180
+  size: 174, 299
+  orig: 174, 299
+  offset: 0, 0
+  index: -1
+Bg_5
+  rotate: false
+  xy: 1732, 1409
+  size: 302, 402
+  orig: 302, 402
+  offset: 0, 0
+  index: -1
+Bg_6
+  rotate: false
+  xy: 595, 481
+  size: 591, 356
+  orig: 591, 356
+  offset: 0, 0
+  index: -1
+Bg_7
+  rotate: true
+  xy: 1575, 408
+  size: 139, 64
+  orig: 139, 64
+  offset: 0, 0
+  index: -1
+Bg_8
+  rotate: true
+  xy: 1188, 223
+  size: 316, 244
+  orig: 316, 244
+  offset: 0, 0
+  index: -1
+Bg_9
+  rotate: true
+  xy: 1450, 548
+  size: 289, 68
+  orig: 289, 68
+  offset: 0, 0
+  index: -1
+Bg_clothing2
+  rotate: true
+  xy: 1188, 541
+  size: 296, 260
+  orig: 296, 260
+  offset: 0, 0
+  index: -1
+Bg_clothing3
+  rotate: true
+  xy: 1520, 549
+  size: 47, 118
+  orig: 47, 118
+  offset: 0, 0
+  index: -1

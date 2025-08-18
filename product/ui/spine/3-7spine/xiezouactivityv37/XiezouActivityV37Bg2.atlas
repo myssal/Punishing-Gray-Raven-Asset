@@ -1,0 +1,20 @@
+
+XiezouActivityV37Bg2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BG3
+  rotate: false
+  xy: 2, 94
+  size: 1442, 1730
+  orig: 1442, 1730
+  offset: 0, 0
+  index: -1
+Glow
+  rotate: false
+  xy: 2, 3
+  size: 89, 89
+  orig: 93, 92
+  offset: 2, 1
+  index: -1
